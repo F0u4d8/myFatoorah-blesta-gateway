@@ -1,0 +1,46 @@
+<ul>
+    <li>
+        <?php
+        // Mode selection
+        $this->Form->label($this->_('MyfatoorahPayment.mode', true));
+        $this->Form->fieldRadio('mode', 'test', (isset($meta['mode']) && $meta['mode'] === 'test'), ['id' => 'mode_test']);
+        $this->Form->label($this->_('MyfatoorahPayment.mode_test', true), 'mode_test', ['class' => 'inline']);
+        
+        $this->Form->fieldRadio('mode', 'prod', (isset($meta['mode']) && $meta['mode'] === 'prod'), ['id' => 'mode_prod']);
+        $this->Form->label($this->_('MyfatoorahPayment.mode_prod', true), 'mode_prod', ['class' => 'inline']);
+        ?>
+    </li>
+    <li>
+        <?php
+        // ISO Country Code Selection
+        $this->Form->label($this->_('MyfatoorahPayment.country_code', true));
+        $this->Form->fieldSelect('country_code', [
+            'KWT' => $this->_('MyfatoorahPayment.country_kuwait', true),
+            'SAU' => $this->_('MyfatoorahPayment.country_saudi', true),
+            'ARE' => $this->_('MyfatoorahPayment.country_uae', true),
+            'OMN' => $this->_('MyfatoorahPayment.country_oman', true),
+            'BHR' => $this->_('MyfatoorahPayment.country_bahrain', true),
+            'QAT' => $this->_('MyfatoorahPayment.country_qatar', true),
+            'JOR' => $this->_('MyfatoorahPayment.country_jordan', true),
+            'EGY' => $this->_('MyfatoorahPayment.country_egypt', true),
+        ], (isset($meta['country_code']) ? $meta['country_code'] : null));
+        ?>
+        <span class="tooltip"><?php $this->_('AppController.tooltip.text');?><div><?php $this->_('MyfatoorahPayment.tooltip_country_code');?></div></span>
+    </li>
+    <li class="test-only" style="display: <?php echo (isset($meta['mode']) && $meta['mode'] === 'test') ? 'block' : 'none'; ?>;">
+        <?php
+        // Test API Key
+        $this->Form->label($this->_('MyfatoorahPayment.test_api_key', true));
+        $this->Form->fieldText('test_api_key', (isset($meta['test_api_key']) ? $meta['test_api_key'] : null));
+        ?>
+        <span class="tooltip"><?php $this->_('AppController.tooltip.text');?><div><?php $this->_('MyfatoorahPayment.tooltip_test_api');?></div></span>
+    </li>
+    <li class="prod-only" style="display: <?php echo (isset($meta['mode']) && $meta['mode'] === 'prod') ? 'block' : 'none'; ?>;">
+        <?php
+        // Production API Key
+        $this->Form->label($this->_('MyfatoorahPayment.prod_api_key', true));
+        $this->Form->fieldText('prod_api_key', (isset($meta['prod_api_key']) ? $meta['prod_api_key'] : null));
+        ?>
+        <span class="tooltip"><?php $this->_('AppController.tooltip.text');?><div><?php $this->_('MyfatoorahPayment.tooltip_prod_api');?></div></span>
+    </li>
+</ul>

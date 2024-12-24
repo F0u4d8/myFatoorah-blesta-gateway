@@ -1,0 +1,6424 @@
+[2024-12-23 13:19:54] Method Error: Array
+(
+    [0] => Array
+        (
+            [ItemName] => Invoice ID 36
+            [Quantity] => 1
+            [UnitPrice] => 100.00
+        )
+
+)
+
+[2024-12-23 13:20:33] Payment Data: {
+    "InvoiceId": 4861331,
+    "InvoiceStatus": "Paid",
+    "InvoiceReference": "2024698162",
+    "CustomerReference": "87",
+    "CreatedDate": "2024-12-23T16:19:55.04",
+    "ExpiryDate": "December 26, 2024",
+    "ExpiryTime": "16:19:55.040",
+    "InvoiceValue": 30.864,
+    "Comments": null,
+    "CustomerName": "Anonymous",
+    "CustomerMobile": "+965",
+    "CustomerEmail": "ssss@gmail.com",
+    "UserDefinedField": null,
+    "InvoiceDisplayValue": "100.000 USD",
+    "DueDeposit": 29.72,
+    "DepositStatus": "Not Deposited",
+    "InvoiceItems": [
+        {
+            "ItemName": "Invoice ID 36",
+            "Quantity": 1,
+            "UnitPrice": 30.864,
+            "Weight": null,
+            "Width": null,
+            "Height": null,
+            "Depth": null
+        }
+    ],
+    "InvoiceTransactions": [
+        {
+            "TransactionDate": "2024-12-23T16:20:33.1",
+            "PaymentGateway": "MADA",
+            "ReferenceId": "435813187497",
+            "TrackId": "23-12-2024_2404203",
+            "TransactionId": "187497",
+            "PaymentId": "07074861331240420371",
+            "AuthorizationId": "187497",
+            "TransactionStatus": "Succss",
+            "TransationValue": "30.864",
+            "CustomerServiceCharge": "0.000",
+            "TotalServiceCharge": "1.000",
+            "DueValue": "30.870",
+            "PaidCurrency": "SR",
+            "PaidCurrencyValue": "381.280",
+            "VatAmount": "0.150",
+            "IpAddress": "41.101.99.97",
+            "Country": "Algeria",
+            "Currency": "KD",
+            "Error": null,
+            "CardNumber": "446404xxxxxx0007",
+            "ErrorCode": "",
+            "ECI": "05"
+        }
+    ],
+    "Suppliers": [],
+    "InvoiceError": "",
+    "focusTransaction": {
+        "TransactionDate": "2024-12-23T16:20:33.1",
+        "PaymentGateway": "MADA",
+        "ReferenceId": "435813187497",
+        "TrackId": "23-12-2024_2404203",
+        "TransactionId": "187497",
+        "PaymentId": "07074861331240420371",
+        "AuthorizationId": "187497",
+        "TransactionStatus": "Succss",
+        "TransationValue": "30.864",
+        "CustomerServiceCharge": "0.000",
+        "TotalServiceCharge": "1.000",
+        "DueValue": "30.870",
+        "PaidCurrency": "SR",
+        "PaidCurrencyValue": "381.280",
+        "VatAmount": "0.150",
+        "IpAddress": "41.101.99.97",
+        "Country": "Algeria",
+        "Currency": "KD",
+        "Error": null,
+        "CardNumber": "446404xxxxxx0007",
+        "ErrorCode": "",
+        "ECI": "05"
+    }
+}[2024-12-23 13:21:16] Payment Data: {
+    "InvoiceId": 4861331,
+    "InvoiceStatus": "Paid",
+    "InvoiceReference": "2024698162",
+    "CustomerReference": "87",
+    "CreatedDate": "2024-12-23T16:19:55.04",
+    "ExpiryDate": "December 26, 2024",
+    "ExpiryTime": "16:19:55.040",
+    "InvoiceValue": 30.864,
+    "Comments": null,
+    "CustomerName": "Anonymous",
+    "CustomerMobile": "+965",
+    "CustomerEmail": "ssss@gmail.com",
+    "UserDefinedField": null,
+    "InvoiceDisplayValue": "100.000 USD",
+    "DueDeposit": 29.72,
+    "DepositStatus": "Not Deposited",
+    "InvoiceItems": [
+        {
+            "ItemName": "Invoice ID 36",
+            "Quantity": 1,
+            "UnitPrice": 30.864,
+            "Weight": null,
+            "Width": null,
+            "Height": null,
+            "Depth": null
+        }
+    ],
+    "InvoiceTransactions": [
+        {
+            "TransactionDate": "2024-12-23T16:20:33.1",
+            "PaymentGateway": "MADA",
+            "ReferenceId": "435813187497",
+            "TrackId": "23-12-2024_2404203",
+            "TransactionId": "187497",
+            "PaymentId": "07074861331240420371",
+            "AuthorizationId": "187497",
+            "TransactionStatus": "Succss",
+            "TransationValue": "30.864",
+            "CustomerServiceCharge": "0.000",
+            "TotalServiceCharge": "1.000",
+            "DueValue": "30.870",
+            "PaidCurrency": "SR",
+            "PaidCurrencyValue": "381.280",
+            "VatAmount": "0.150",
+            "IpAddress": "41.101.99.97",
+            "Country": "Algeria",
+            "Currency": "KD",
+            "Error": null,
+            "CardNumber": "446404xxxxxx0007",
+            "ErrorCode": "",
+            "ECI": "05"
+        }
+    ],
+    "Suppliers": [],
+    "InvoiceError": "",
+    "focusTransaction": {
+        "TransactionDate": "2024-12-23T16:20:33.1",
+        "PaymentGateway": "MADA",
+        "ReferenceId": "435813187497",
+        "TrackId": "23-12-2024_2404203",
+        "TransactionId": "187497",
+        "PaymentId": "07074861331240420371",
+        "AuthorizationId": "187497",
+        "TransactionStatus": "Succss",
+        "TransationValue": "30.864",
+        "CustomerServiceCharge": "0.000",
+        "TotalServiceCharge": "1.000",
+        "DueValue": "30.870",
+        "PaidCurrency": "SR",
+        "PaidCurrencyValue": "381.280",
+        "VatAmount": "0.150",
+        "IpAddress": "41.101.99.97",
+        "Country": "Algeria",
+        "Currency": "KD",
+        "Error": null,
+        "CardNumber": "446404xxxxxx0007",
+        "ErrorCode": "",
+        "ECI": "05"
+    }
+}[2024-12-23 13:23:36] Payment Data: {
+    "InvoiceId": 4861331,
+    "InvoiceStatus": "Paid",
+    "InvoiceReference": "2024698162",
+    "CustomerReference": "87",
+    "CreatedDate": "2024-12-23T16:19:55.04",
+    "ExpiryDate": "December 26, 2024",
+    "ExpiryTime": "16:19:55.040",
+    "InvoiceValue": 30.864,
+    "Comments": null,
+    "CustomerName": "Anonymous",
+    "CustomerMobile": "+965",
+    "CustomerEmail": "ssss@gmail.com",
+    "UserDefinedField": null,
+    "InvoiceDisplayValue": "100.000 USD",
+    "DueDeposit": 29.72,
+    "DepositStatus": "Not Deposited",
+    "InvoiceItems": [
+        {
+            "ItemName": "Invoice ID 36",
+            "Quantity": 1,
+            "UnitPrice": 30.864,
+            "Weight": null,
+            "Width": null,
+            "Height": null,
+            "Depth": null
+        }
+    ],
+    "InvoiceTransactions": [
+        {
+            "TransactionDate": "2024-12-23T16:20:33.1",
+            "PaymentGateway": "MADA",
+            "ReferenceId": "435813187497",
+            "TrackId": "23-12-2024_2404203",
+            "TransactionId": "187497",
+            "PaymentId": "07074861331240420371",
+            "AuthorizationId": "187497",
+            "TransactionStatus": "Succss",
+            "TransationValue": "30.864",
+            "CustomerServiceCharge": "0.000",
+            "TotalServiceCharge": "1.000",
+            "DueValue": "30.870",
+            "PaidCurrency": "SR",
+            "PaidCurrencyValue": "381.280",
+            "VatAmount": "0.150",
+            "IpAddress": "41.101.99.97",
+            "Country": "Algeria",
+            "Currency": "KD",
+            "Error": null,
+            "CardNumber": "446404xxxxxx0007",
+            "ErrorCode": "",
+            "ECI": "05"
+        }
+    ],
+    "Suppliers": [],
+    "InvoiceError": "",
+    "focusTransaction": {
+        "TransactionDate": "2024-12-23T16:20:33.1",
+        "PaymentGateway": "MADA",
+        "ReferenceId": "435813187497",
+        "TrackId": "23-12-2024_2404203",
+        "TransactionId": "187497",
+        "PaymentId": "07074861331240420371",
+        "AuthorizationId": "187497",
+        "TransactionStatus": "Succss",
+        "TransationValue": "30.864",
+        "CustomerServiceCharge": "0.000",
+        "TotalServiceCharge": "1.000",
+        "DueValue": "30.870",
+        "PaidCurrency": "SR",
+        "PaidCurrencyValue": "381.280",
+        "VatAmount": "0.150",
+        "IpAddress": "41.101.99.97",
+        "Country": "Algeria",
+        "Currency": "KD",
+        "Error": null,
+        "CardNumber": "446404xxxxxx0007",
+        "ErrorCode": "",
+        "ECI": "05"
+    }
+}[2024-12-23 13:26:59] Payment Data: {
+    "InvoiceId": 4861331,
+    "InvoiceStatus": "Paid",
+    "InvoiceReference": "2024698162",
+    "CustomerReference": "87",
+    "CreatedDate": "2024-12-23T16:19:55.04",
+    "ExpiryDate": "December 26, 2024",
+    "ExpiryTime": "16:19:55.040",
+    "InvoiceValue": 30.864,
+    "Comments": null,
+    "CustomerName": "Anonymous",
+    "CustomerMobile": "+965",
+    "CustomerEmail": "ssss@gmail.com",
+    "UserDefinedField": null,
+    "InvoiceDisplayValue": "100.000 USD",
+    "DueDeposit": 29.72,
+    "DepositStatus": "Not Deposited",
+    "InvoiceItems": [
+        {
+            "ItemName": "Invoice ID 36",
+            "Quantity": 1,
+            "UnitPrice": 30.864,
+            "Weight": null,
+            "Width": null,
+            "Height": null,
+            "Depth": null
+        }
+    ],
+    "InvoiceTransactions": [
+        {
+            "TransactionDate": "2024-12-23T16:20:33.1",
+            "PaymentGateway": "MADA",
+            "ReferenceId": "435813187497",
+            "TrackId": "23-12-2024_2404203",
+            "TransactionId": "187497",
+            "PaymentId": "07074861331240420371",
+            "AuthorizationId": "187497",
+            "TransactionStatus": "Succss",
+            "TransationValue": "30.864",
+            "CustomerServiceCharge": "0.000",
+            "TotalServiceCharge": "1.000",
+            "DueValue": "30.870",
+            "PaidCurrency": "SR",
+            "PaidCurrencyValue": "381.280",
+            "VatAmount": "0.150",
+            "IpAddress": "41.101.99.97",
+            "Country": "Algeria",
+            "Currency": "KD",
+            "Error": null,
+            "CardNumber": "446404xxxxxx0007",
+            "ErrorCode": "",
+            "ECI": "05"
+        }
+    ],
+    "Suppliers": [],
+    "InvoiceError": "",
+    "focusTransaction": {
+        "TransactionDate": "2024-12-23T16:20:33.1",
+        "PaymentGateway": "MADA",
+        "ReferenceId": "435813187497",
+        "TrackId": "23-12-2024_2404203",
+        "TransactionId": "187497",
+        "PaymentId": "07074861331240420371",
+        "AuthorizationId": "187497",
+        "TransactionStatus": "Succss",
+        "TransationValue": "30.864",
+        "CustomerServiceCharge": "0.000",
+        "TotalServiceCharge": "1.000",
+        "DueValue": "30.870",
+        "PaidCurrency": "SR",
+        "PaidCurrencyValue": "381.280",
+        "VatAmount": "0.150",
+        "IpAddress": "41.101.99.97",
+        "Country": "Algeria",
+        "Currency": "KD",
+        "Error": null,
+        "CardNumber": "446404xxxxxx0007",
+        "ErrorCode": "",
+        "ECI": "05"
+    }
+}[2024-12-23 13:26:59] Extracted invoices: [
+    {
+        "id": 36,
+        "amount": 30.864
+    }
+]
+[2024-12-23 13:26:59] Success handler error: Undefined property: stdClass::$Currency[2024-12-23 13:29:37] Payment Data: {
+    "InvoiceId": 4861331,
+    "InvoiceStatus": "Paid",
+    "InvoiceReference": "2024698162",
+    "CustomerReference": "87",
+    "CreatedDate": "2024-12-23T16:19:55.04",
+    "ExpiryDate": "December 26, 2024",
+    "ExpiryTime": "16:19:55.040",
+    "InvoiceValue": 30.864,
+    "Comments": null,
+    "CustomerName": "Anonymous",
+    "CustomerMobile": "+965",
+    "CustomerEmail": "ssss@gmail.com",
+    "UserDefinedField": null,
+    "InvoiceDisplayValue": "100.000 USD",
+    "DueDeposit": 29.72,
+    "DepositStatus": "Not Deposited",
+    "InvoiceItems": [
+        {
+            "ItemName": "Invoice ID 36",
+            "Quantity": 1,
+            "UnitPrice": 30.864,
+            "Weight": null,
+            "Width": null,
+            "Height": null,
+            "Depth": null
+        }
+    ],
+    "InvoiceTransactions": [
+        {
+            "TransactionDate": "2024-12-23T16:20:33.1",
+            "PaymentGateway": "MADA",
+            "ReferenceId": "435813187497",
+            "TrackId": "23-12-2024_2404203",
+            "TransactionId": "187497",
+            "PaymentId": "07074861331240420371",
+            "AuthorizationId": "187497",
+            "TransactionStatus": "Succss",
+            "TransationValue": "30.864",
+            "CustomerServiceCharge": "0.000",
+            "TotalServiceCharge": "1.000",
+            "DueValue": "30.870",
+            "PaidCurrency": "SR",
+            "PaidCurrencyValue": "381.280",
+            "VatAmount": "0.150",
+            "IpAddress": "41.101.99.97",
+            "Country": "Algeria",
+            "Currency": "KD",
+            "Error": null,
+            "CardNumber": "446404xxxxxx0007",
+            "ErrorCode": "",
+            "ECI": "05"
+        }
+    ],
+    "Suppliers": [],
+    "InvoiceError": "",
+    "focusTransaction": {
+        "TransactionDate": "2024-12-23T16:20:33.1",
+        "PaymentGateway": "MADA",
+        "ReferenceId": "435813187497",
+        "TrackId": "23-12-2024_2404203",
+        "TransactionId": "187497",
+        "PaymentId": "07074861331240420371",
+        "AuthorizationId": "187497",
+        "TransactionStatus": "Succss",
+        "TransationValue": "30.864",
+        "CustomerServiceCharge": "0.000",
+        "TotalServiceCharge": "1.000",
+        "DueValue": "30.870",
+        "PaidCurrency": "SR",
+        "PaidCurrencyValue": "381.280",
+        "VatAmount": "0.150",
+        "IpAddress": "41.101.99.97",
+        "Country": "Algeria",
+        "Currency": "KD",
+        "Error": null,
+        "CardNumber": "446404xxxxxx0007",
+        "ErrorCode": "",
+        "ECI": "05"
+    }
+}[2024-12-23 13:29:37] Extracted invoices: [
+    {
+        "id": 36,
+        "amount": 30.864
+    }
+]
+[2024-12-23 13:29:37] Success handler error: Undefined property: stdClass::$Currency[2024-12-23 13:35:28] Method Error: Array
+(
+    [0] => Array
+        (
+            [ItemName] => Invoice ID 36
+            [Quantity] => 1
+            [UnitPrice] => 100.00
+        )
+
+)
+
+[2024-12-23 13:36:19] Payment Data: {
+    "InvoiceId": 4861435,
+    "InvoiceStatus": "Paid",
+    "InvoiceReference": "2024698237",
+    "CustomerReference": "87",
+    "CreatedDate": "2024-12-23T16:35:29.107",
+    "ExpiryDate": "December 26, 2024",
+    "ExpiryTime": "16:35:29.107",
+    "InvoiceValue": 30.864,
+    "Comments": null,
+    "CustomerName": "Anonymous",
+    "CustomerMobile": "+965",
+    "CustomerEmail": "ssss@gmail.com",
+    "UserDefinedField": null,
+    "InvoiceDisplayValue": "100.000 USD",
+    "DueDeposit": 29.72,
+    "DepositStatus": "Not Deposited",
+    "InvoiceItems": [
+        {
+            "ItemName": "Invoice ID 36",
+            "Quantity": 1,
+            "UnitPrice": 30.864,
+            "Weight": null,
+            "Width": null,
+            "Height": null,
+            "Depth": null
+        }
+    ],
+    "InvoiceTransactions": [
+        {
+            "TransactionDate": "2024-12-23T16:36:19.0066667",
+            "PaymentGateway": "MADA",
+            "ReferenceId": "435813180128",
+            "TrackId": "23-12-2024_2404267",
+            "TransactionId": "180128",
+            "PaymentId": "07074861435240426772",
+            "AuthorizationId": "180128",
+            "TransactionStatus": "Succss",
+            "TransationValue": "30.864",
+            "CustomerServiceCharge": "0.000",
+            "TotalServiceCharge": "1.000",
+            "DueValue": "30.870",
+            "PaidCurrency": "SR",
+            "PaidCurrencyValue": "381.280",
+            "VatAmount": "0.150",
+            "IpAddress": "41.101.99.97",
+            "Country": "Algeria",
+            "Currency": "KD",
+            "Error": null,
+            "CardNumber": "446404xxxxxx0007",
+            "ErrorCode": "",
+            "ECI": "05"
+        }
+    ],
+    "Suppliers": [],
+    "InvoiceError": "",
+    "focusTransaction": {
+        "TransactionDate": "2024-12-23T16:36:19.0066667",
+        "PaymentGateway": "MADA",
+        "ReferenceId": "435813180128",
+        "TrackId": "23-12-2024_2404267",
+        "TransactionId": "180128",
+        "PaymentId": "07074861435240426772",
+        "AuthorizationId": "180128",
+        "TransactionStatus": "Succss",
+        "TransationValue": "30.864",
+        "CustomerServiceCharge": "0.000",
+        "TotalServiceCharge": "1.000",
+        "DueValue": "30.870",
+        "PaidCurrency": "SR",
+        "PaidCurrencyValue": "381.280",
+        "VatAmount": "0.150",
+        "IpAddress": "41.101.99.97",
+        "Country": "Algeria",
+        "Currency": "KD",
+        "Error": null,
+        "CardNumber": "446404xxxxxx0007",
+        "ErrorCode": "",
+        "ECI": "05"
+    }
+}[2024-12-23 13:36:19] Extracted invoices: [
+    {
+        "id": 36,
+        "amount": 30.864
+    }
+]
+[2024-12-23 13:36:19] Success handler error: Undefined property: stdClass::$Currency[2024-12-23 13:47:38] Payment Data: {
+    "InvoiceId": 4861435,
+    "InvoiceStatus": "Paid",
+    "InvoiceReference": "2024698237",
+    "CustomerReference": "87",
+    "CreatedDate": "2024-12-23T16:35:29.107",
+    "ExpiryDate": "December 26, 2024",
+    "ExpiryTime": "16:35:29.107",
+    "InvoiceValue": 30.864,
+    "Comments": null,
+    "CustomerName": "Anonymous",
+    "CustomerMobile": "+965",
+    "CustomerEmail": "ssss@gmail.com",
+    "UserDefinedField": null,
+    "InvoiceDisplayValue": "100.000 USD",
+    "DueDeposit": 29.72,
+    "DepositStatus": "Not Deposited",
+    "InvoiceItems": [
+        {
+            "ItemName": "Invoice ID 36",
+            "Quantity": 1,
+            "UnitPrice": 30.864,
+            "Weight": null,
+            "Width": null,
+            "Height": null,
+            "Depth": null
+        }
+    ],
+    "InvoiceTransactions": [
+        {
+            "TransactionDate": "2024-12-23T16:36:19.0066667",
+            "PaymentGateway": "MADA",
+            "ReferenceId": "435813180128",
+            "TrackId": "23-12-2024_2404267",
+            "TransactionId": "180128",
+            "PaymentId": "07074861435240426772",
+            "AuthorizationId": "180128",
+            "TransactionStatus": "Succss",
+            "TransationValue": "30.864",
+            "CustomerServiceCharge": "0.000",
+            "TotalServiceCharge": "1.000",
+            "DueValue": "30.870",
+            "PaidCurrency": "SR",
+            "PaidCurrencyValue": "381.280",
+            "VatAmount": "0.150",
+            "IpAddress": "41.101.99.97",
+            "Country": "Algeria",
+            "Currency": "KD",
+            "Error": null,
+            "CardNumber": "446404xxxxxx0007",
+            "ErrorCode": "",
+            "ECI": "05"
+        }
+    ],
+    "Suppliers": [],
+    "InvoiceError": "",
+    "focusTransaction": {
+        "TransactionDate": "2024-12-23T16:36:19.0066667",
+        "PaymentGateway": "MADA",
+        "ReferenceId": "435813180128",
+        "TrackId": "23-12-2024_2404267",
+        "TransactionId": "180128",
+        "PaymentId": "07074861435240426772",
+        "AuthorizationId": "180128",
+        "TransactionStatus": "Succss",
+        "TransationValue": "30.864",
+        "CustomerServiceCharge": "0.000",
+        "TotalServiceCharge": "1.000",
+        "DueValue": "30.870",
+        "PaidCurrency": "SR",
+        "PaidCurrencyValue": "381.280",
+        "VatAmount": "0.150",
+        "IpAddress": "41.101.99.97",
+        "Country": "Algeria",
+        "Currency": "KD",
+        "Error": null,
+        "CardNumber": "446404xxxxxx0007",
+        "ErrorCode": "",
+        "ECI": "05"
+    }
+}[2024-12-23 13:47:38] Extracted invoices: [
+    {
+        "id": 36,
+        "amount": 30.864
+    }
+]
+[2024-12-23 13:50:15] Payment Data: {
+    "InvoiceId": 4861435,
+    "InvoiceStatus": "Paid",
+    "InvoiceReference": "2024698237",
+    "CustomerReference": "87",
+    "CreatedDate": "2024-12-23T16:35:29.107",
+    "ExpiryDate": "December 26, 2024",
+    "ExpiryTime": "16:35:29.107",
+    "InvoiceValue": 30.864,
+    "Comments": null,
+    "CustomerName": "Anonymous",
+    "CustomerMobile": "+965",
+    "CustomerEmail": "ssss@gmail.com",
+    "UserDefinedField": null,
+    "InvoiceDisplayValue": "100.000 USD",
+    "DueDeposit": 29.72,
+    "DepositStatus": "Not Deposited",
+    "InvoiceItems": [
+        {
+            "ItemName": "Invoice ID 36",
+            "Quantity": 1,
+            "UnitPrice": 30.864,
+            "Weight": null,
+            "Width": null,
+            "Height": null,
+            "Depth": null
+        }
+    ],
+    "InvoiceTransactions": [
+        {
+            "TransactionDate": "2024-12-23T16:36:19.0066667",
+            "PaymentGateway": "MADA",
+            "ReferenceId": "435813180128",
+            "TrackId": "23-12-2024_2404267",
+            "TransactionId": "180128",
+            "PaymentId": "07074861435240426772",
+            "AuthorizationId": "180128",
+            "TransactionStatus": "Succss",
+            "TransationValue": "30.864",
+            "CustomerServiceCharge": "0.000",
+            "TotalServiceCharge": "1.000",
+            "DueValue": "30.870",
+            "PaidCurrency": "SR",
+            "PaidCurrencyValue": "381.280",
+            "VatAmount": "0.150",
+            "IpAddress": "41.101.99.97",
+            "Country": "Algeria",
+            "Currency": "KD",
+            "Error": null,
+            "CardNumber": "446404xxxxxx0007",
+            "ErrorCode": "",
+            "ECI": "05"
+        }
+    ],
+    "Suppliers": [],
+    "InvoiceError": "",
+    "focusTransaction": {
+        "TransactionDate": "2024-12-23T16:36:19.0066667",
+        "PaymentGateway": "MADA",
+        "ReferenceId": "435813180128",
+        "TrackId": "23-12-2024_2404267",
+        "TransactionId": "180128",
+        "PaymentId": "07074861435240426772",
+        "AuthorizationId": "180128",
+        "TransactionStatus": "Succss",
+        "TransationValue": "30.864",
+        "CustomerServiceCharge": "0.000",
+        "TotalServiceCharge": "1.000",
+        "DueValue": "30.870",
+        "PaidCurrency": "SR",
+        "PaidCurrencyValue": "381.280",
+        "VatAmount": "0.150",
+        "IpAddress": "41.101.99.97",
+        "Country": "Algeria",
+        "Currency": "KD",
+        "Error": null,
+        "CardNumber": "446404xxxxxx0007",
+        "ErrorCode": "",
+        "ECI": "05"
+    }
+}[2024-12-23 13:50:15] Extracted invoices: [
+    {
+        "id": 36,
+        "amount": 30.864
+    }
+]
+[2024-12-23 13:50:16] Extracted invoices: [
+    {
+        "id": 36,
+        "amount": 30.864
+    }
+]
+[2024-12-23 13:51:29] Extracted invoices: [
+    {
+        "id": 36,
+        "amount": 30.864
+    }
+]
+[2024-12-23 14:47:54] Method Error: Array
+(
+    [0] => Array
+        (
+            [ItemName] => Invoice ID 36
+            [Quantity] => 1
+            [UnitPrice] => 100.00
+        )
+
+)
+
+[2024-12-23 14:51:48] Payment Data: {
+    "InvoiceId": 4861765,
+    "InvoiceStatus": "Failed",
+    "InvoiceReference": "2024698478",
+    "CustomerReference": "87",
+    "CreatedDate": "2024-12-23T17:48:00.723",
+    "ExpiryDate": "December 26, 2024",
+    "ExpiryTime": "17:48:00.723",
+    "InvoiceValue": 30.864,
+    "Comments": null,
+    "CustomerName": "Anonymous",
+    "CustomerMobile": "+965",
+    "CustomerEmail": "ssss@gmail.com",
+    "UserDefinedField": null,
+    "InvoiceDisplayValue": "100.000 USD",
+    "DueDeposit": 0,
+    "DepositStatus": "Not Deposited",
+    "InvoiceItems": [
+        {
+            "ItemName": "Invoice ID 36",
+            "Quantity": 1,
+            "UnitPrice": 30.864,
+            "Weight": null,
+            "Width": null,
+            "Height": null,
+            "Depth": null
+        }
+    ],
+    "InvoiceTransactions": [
+        {
+            "TransactionDate": "2024-12-23T17:51:18.0166667",
+            "PaymentGateway": "STC Pay",
+            "ReferenceId": "07074861765240442973",
+            "TrackId": "23-12-2024_2404429",
+            "TransactionId": "07074861765240442973",
+            "PaymentId": "07074861765240442973",
+            "AuthorizationId": "07074861765240442973",
+            "TransactionStatus": "Failed",
+            "TransationValue": "30.864",
+            "CustomerServiceCharge": "0.000",
+            "TotalServiceCharge": "0.131",
+            "DueValue": "30.870",
+            "PaidCurrency": "SR",
+            "PaidCurrencyValue": "381.280",
+            "VatAmount": "0.020",
+            "IpAddress": "41.101.99.97",
+            "Country": "Algeria",
+            "Currency": "KD",
+            "Error": "An error occurred.",
+            "CardNumber": null,
+            "ErrorCode": "MF020",
+            "ECI": null
+        }
+    ],
+    "Suppliers": [],
+    "InvoiceError": "An error occurred..",
+    "focusTransaction": {
+        "TransactionDate": "2024-12-23T17:51:18.0166667",
+        "PaymentGateway": "STC Pay",
+        "ReferenceId": "07074861765240442973",
+        "TrackId": "23-12-2024_2404429",
+        "TransactionId": "07074861765240442973",
+        "PaymentId": "07074861765240442973",
+        "AuthorizationId": "07074861765240442973",
+        "TransactionStatus": "Failed",
+        "TransationValue": "30.864",
+        "CustomerServiceCharge": "0.000",
+        "TotalServiceCharge": "0.131",
+        "DueValue": "30.870",
+        "PaidCurrency": "SR",
+        "PaidCurrencyValue": "381.280",
+        "VatAmount": "0.020",
+        "IpAddress": "41.101.99.97",
+        "Country": "Algeria",
+        "Currency": "KD",
+        "Error": "An error occurred.",
+        "CardNumber": null,
+        "ErrorCode": "MF020",
+        "ECI": null
+    }
+}[2024-12-23 14:51:48] Extracted invoices: [
+    {
+        "id": 36,
+        "amount": 30.864
+    }
+]
+[2024-12-23 14:51:48] Extracted invoices: [
+    {
+        "id": 36,
+        "amount": 30.864
+    }
+]
+[2024-12-23 15:36:20] Method Error: Array
+(
+    [0] => Array
+        (
+            [ItemName] => Invoice ID 36
+            [Quantity] => 1
+            [UnitPrice] => 100.00
+        )
+
+    [1] => Array
+        (
+            [ItemName] => Invoice ID 37
+            [Quantity] => 1
+            [UnitPrice] => 200.00
+        )
+
+)
+
+[2024-12-23 15:41:11] Method Error: Array
+(
+    [0] => Array
+        (
+            [ItemName] => Invoice ID 36
+            [Quantity] => 1
+            [UnitPrice] => 100.00
+        )
+
+    [1] => Array
+        (
+            [ItemName] => Invoice ID 37
+            [Quantity] => 1
+            [UnitPrice] => 200.00
+        )
+
+)
+
+[2024-12-23 15:42:12] Payment Data: {
+    "InvoiceId": 4862010,
+    "InvoiceStatus": "Paid",
+    "InvoiceReference": "2024698672",
+    "CustomerReference": "87",
+    "CreatedDate": "2024-12-23T18:41:12.537",
+    "ExpiryDate": "December 26, 2024",
+    "ExpiryTime": "18:41:12.537",
+    "InvoiceValue": 92.592,
+    "Comments": null,
+    "CustomerName": "Anonymous",
+    "CustomerMobile": "+965",
+    "CustomerEmail": "ssss@gmail.com",
+    "UserDefinedField": null,
+    "InvoiceDisplayValue": "300.000 USD",
+    "DueDeposit": 91.45,
+    "DepositStatus": "Not Deposited",
+    "InvoiceItems": [
+        {
+            "ItemName": "Invoice ID 36",
+            "Quantity": 1,
+            "UnitPrice": 30.864,
+            "Weight": null,
+            "Width": null,
+            "Height": null,
+            "Depth": null
+        },
+        {
+            "ItemName": "Invoice ID 37",
+            "Quantity": 1,
+            "UnitPrice": 61.728,
+            "Weight": null,
+            "Width": null,
+            "Height": null,
+            "Depth": null
+        }
+    ],
+    "InvoiceTransactions": [
+        {
+            "TransactionDate": "2024-12-23T18:42:09.2733333",
+            "PaymentGateway": "MADA",
+            "ReferenceId": "435815183239",
+            "TrackId": "23-12-2024_2404508",
+            "TransactionId": "183239",
+            "PaymentId": "07074862010240450871",
+            "AuthorizationId": "183239",
+            "TransactionStatus": "Succss",
+            "TransationValue": "92.592",
+            "CustomerServiceCharge": "0.000",
+            "TotalServiceCharge": "1.000",
+            "DueValue": "92.600",
+            "PaidCurrency": "SR",
+            "PaidCurrencyValue": "1,143.710",
+            "VatAmount": "0.150",
+            "IpAddress": "41.101.99.97",
+            "Country": "Algeria",
+            "Currency": "KD",
+            "Error": null,
+            "CardNumber": "446404xxxxxx0007",
+            "ErrorCode": "",
+            "ECI": "05"
+        }
+    ],
+    "Suppliers": [],
+    "InvoiceError": "",
+    "focusTransaction": {
+        "TransactionDate": "2024-12-23T18:42:09.2733333",
+        "PaymentGateway": "MADA",
+        "ReferenceId": "435815183239",
+        "TrackId": "23-12-2024_2404508",
+        "TransactionId": "183239",
+        "PaymentId": "07074862010240450871",
+        "AuthorizationId": "183239",
+        "TransactionStatus": "Succss",
+        "TransationValue": "92.592",
+        "CustomerServiceCharge": "0.000",
+        "TotalServiceCharge": "1.000",
+        "DueValue": "92.600",
+        "PaidCurrency": "SR",
+        "PaidCurrencyValue": "1,143.710",
+        "VatAmount": "0.150",
+        "IpAddress": "41.101.99.97",
+        "Country": "Algeria",
+        "Currency": "KD",
+        "Error": null,
+        "CardNumber": "446404xxxxxx0007",
+        "ErrorCode": "",
+        "ECI": "05"
+    }
+}[2024-12-23 15:42:12] Extracted invoices: [
+    {
+        "id": 36,
+        "amount": 30.864
+    },
+    {
+        "id": 37,
+        "amount": 61.728
+    }
+]
+[2024-12-23 15:42:18] Extracted invoices: [
+    {
+        "id": 36,
+        "amount": 30.864
+    },
+    {
+        "id": 37,
+        "amount": 61.728
+    }
+]
+[2024-12-23 15:46:23] Method Error: Array
+(
+    [0] => Array
+        (
+            [ItemName] => Invoice ID 36
+            [Quantity] => 1
+            [UnitPrice] => 100.00
+        )
+
+    [1] => Array
+        (
+            [ItemName] => Invoice ID 37
+            [Quantity] => 1
+            [UnitPrice] => 200.00
+        )
+
+)
+
+[2024-12-23 15:46:55] Payment Data: {
+    "InvoiceId": 4862043,
+    "InvoiceStatus": "Paid",
+    "InvoiceReference": "2024698702",
+    "CustomerReference": "87",
+    "CreatedDate": "2024-12-23T18:46:24.75",
+    "ExpiryDate": "December 26, 2024",
+    "ExpiryTime": "18:46:24.750",
+    "InvoiceValue": 92.592,
+    "Comments": null,
+    "CustomerName": "Anonymous",
+    "CustomerMobile": "+965",
+    "CustomerEmail": "ssss@gmail.com",
+    "UserDefinedField": null,
+    "InvoiceDisplayValue": "300.000 USD",
+    "DueDeposit": 91.45,
+    "DepositStatus": "Not Deposited",
+    "InvoiceItems": [
+        {
+            "ItemName": "Invoice ID 36",
+            "Quantity": 1,
+            "UnitPrice": 30.864,
+            "Weight": null,
+            "Width": null,
+            "Height": null,
+            "Depth": null
+        },
+        {
+            "ItemName": "Invoice ID 37",
+            "Quantity": 1,
+            "UnitPrice": 61.728,
+            "Weight": null,
+            "Width": null,
+            "Height": null,
+            "Depth": null
+        }
+    ],
+    "InvoiceTransactions": [
+        {
+            "TransactionDate": "2024-12-23T18:46:54.9066667",
+            "PaymentGateway": "MADA",
+            "ReferenceId": "435815184309",
+            "TrackId": "23-12-2024_2404515",
+            "TransactionId": "184309",
+            "PaymentId": "07074862043240451572",
+            "AuthorizationId": "184309",
+            "TransactionStatus": "Succss",
+            "TransationValue": "92.592",
+            "CustomerServiceCharge": "0.000",
+            "TotalServiceCharge": "1.000",
+            "DueValue": "92.600",
+            "PaidCurrency": "SR",
+            "PaidCurrencyValue": "1,143.710",
+            "VatAmount": "0.150",
+            "IpAddress": "41.101.99.97",
+            "Country": "Algeria",
+            "Currency": "KD",
+            "Error": null,
+            "CardNumber": "446404xxxxxx0007",
+            "ErrorCode": "",
+            "ECI": "05"
+        }
+    ],
+    "Suppliers": [],
+    "InvoiceError": "",
+    "focusTransaction": {
+        "TransactionDate": "2024-12-23T18:46:54.9066667",
+        "PaymentGateway": "MADA",
+        "ReferenceId": "435815184309",
+        "TrackId": "23-12-2024_2404515",
+        "TransactionId": "184309",
+        "PaymentId": "07074862043240451572",
+        "AuthorizationId": "184309",
+        "TransactionStatus": "Succss",
+        "TransationValue": "92.592",
+        "CustomerServiceCharge": "0.000",
+        "TotalServiceCharge": "1.000",
+        "DueValue": "92.600",
+        "PaidCurrency": "SR",
+        "PaidCurrencyValue": "1,143.710",
+        "VatAmount": "0.150",
+        "IpAddress": "41.101.99.97",
+        "Country": "Algeria",
+        "Currency": "KD",
+        "Error": null,
+        "CardNumber": "446404xxxxxx0007",
+        "ErrorCode": "",
+        "ECI": "05"
+    }
+}[2024-12-23 15:46:55] Extracted invoices: [
+    {
+        "id": 36,
+        "amount": 30.864
+    },
+    {
+        "id": 37,
+        "amount": 61.728
+    }
+]
+[2024-12-23 15:46:55] Success handler error: Array to string conversion[2024-12-23 15:47:50] Payment Data: {
+    "InvoiceId": 4862043,
+    "InvoiceStatus": "Paid",
+    "InvoiceReference": "2024698702",
+    "CustomerReference": "87",
+    "CreatedDate": "2024-12-23T18:46:24.75",
+    "ExpiryDate": "December 26, 2024",
+    "ExpiryTime": "18:46:24.750",
+    "InvoiceValue": 92.592,
+    "Comments": null,
+    "CustomerName": "Anonymous",
+    "CustomerMobile": "+965",
+    "CustomerEmail": "ssss@gmail.com",
+    "UserDefinedField": null,
+    "InvoiceDisplayValue": "300.000 USD",
+    "DueDeposit": 91.45,
+    "DepositStatus": "Not Deposited",
+    "InvoiceItems": [
+        {
+            "ItemName": "Invoice ID 36",
+            "Quantity": 1,
+            "UnitPrice": 30.864,
+            "Weight": null,
+            "Width": null,
+            "Height": null,
+            "Depth": null
+        },
+        {
+            "ItemName": "Invoice ID 37",
+            "Quantity": 1,
+            "UnitPrice": 61.728,
+            "Weight": null,
+            "Width": null,
+            "Height": null,
+            "Depth": null
+        }
+    ],
+    "InvoiceTransactions": [
+        {
+            "TransactionDate": "2024-12-23T18:46:54.9066667",
+            "PaymentGateway": "MADA",
+            "ReferenceId": "435815184309",
+            "TrackId": "23-12-2024_2404515",
+            "TransactionId": "184309",
+            "PaymentId": "07074862043240451572",
+            "AuthorizationId": "184309",
+            "TransactionStatus": "Succss",
+            "TransationValue": "92.592",
+            "CustomerServiceCharge": "0.000",
+            "TotalServiceCharge": "1.000",
+            "DueValue": "92.600",
+            "PaidCurrency": "SR",
+            "PaidCurrencyValue": "1,143.710",
+            "VatAmount": "0.150",
+            "IpAddress": "41.101.99.97",
+            "Country": "Algeria",
+            "Currency": "KD",
+            "Error": null,
+            "CardNumber": "446404xxxxxx0007",
+            "ErrorCode": "",
+            "ECI": "05"
+        }
+    ],
+    "Suppliers": [],
+    "InvoiceError": "",
+    "focusTransaction": {
+        "TransactionDate": "2024-12-23T18:46:54.9066667",
+        "PaymentGateway": "MADA",
+        "ReferenceId": "435815184309",
+        "TrackId": "23-12-2024_2404515",
+        "TransactionId": "184309",
+        "PaymentId": "07074862043240451572",
+        "AuthorizationId": "184309",
+        "TransactionStatus": "Succss",
+        "TransationValue": "92.592",
+        "CustomerServiceCharge": "0.000",
+        "TotalServiceCharge": "1.000",
+        "DueValue": "92.600",
+        "PaidCurrency": "SR",
+        "PaidCurrencyValue": "1,143.710",
+        "VatAmount": "0.150",
+        "IpAddress": "41.101.99.97",
+        "Country": "Algeria",
+        "Currency": "KD",
+        "Error": null,
+        "CardNumber": "446404xxxxxx0007",
+        "ErrorCode": "",
+        "ECI": "05"
+    }
+}[2024-12-23 15:47:50] Extracted invoices: [
+    {
+        "id": 36,
+        "amount": 30.864
+    },
+    {
+        "id": 37,
+        "amount": 61.728
+    }
+]
+[2024-12-23 15:47:50] Success handler error: Array to string conversion[2024-12-23 15:50:51] Payment Data: {
+    "InvoiceId": 4862043,
+    "InvoiceStatus": "Paid",
+    "InvoiceReference": "2024698702",
+    "CustomerReference": "87",
+    "CreatedDate": "2024-12-23T18:46:24.75",
+    "ExpiryDate": "December 26, 2024",
+    "ExpiryTime": "18:46:24.750",
+    "InvoiceValue": 92.592,
+    "Comments": null,
+    "CustomerName": "Anonymous",
+    "CustomerMobile": "+965",
+    "CustomerEmail": "ssss@gmail.com",
+    "UserDefinedField": null,
+    "InvoiceDisplayValue": "300.000 USD",
+    "DueDeposit": 91.45,
+    "DepositStatus": "Not Deposited",
+    "InvoiceItems": [
+        {
+            "ItemName": "Invoice ID 36",
+            "Quantity": 1,
+            "UnitPrice": 30.864,
+            "Weight": null,
+            "Width": null,
+            "Height": null,
+            "Depth": null
+        },
+        {
+            "ItemName": "Invoice ID 37",
+            "Quantity": 1,
+            "UnitPrice": 61.728,
+            "Weight": null,
+            "Width": null,
+            "Height": null,
+            "Depth": null
+        }
+    ],
+    "InvoiceTransactions": [
+        {
+            "TransactionDate": "2024-12-23T18:46:54.9066667",
+            "PaymentGateway": "MADA",
+            "ReferenceId": "435815184309",
+            "TrackId": "23-12-2024_2404515",
+            "TransactionId": "184309",
+            "PaymentId": "07074862043240451572",
+            "AuthorizationId": "184309",
+            "TransactionStatus": "Succss",
+            "TransationValue": "92.592",
+            "CustomerServiceCharge": "0.000",
+            "TotalServiceCharge": "1.000",
+            "DueValue": "92.600",
+            "PaidCurrency": "SR",
+            "PaidCurrencyValue": "1,143.710",
+            "VatAmount": "0.150",
+            "IpAddress": "41.101.99.97",
+            "Country": "Algeria",
+            "Currency": "KD",
+            "Error": null,
+            "CardNumber": "446404xxxxxx0007",
+            "ErrorCode": "",
+            "ECI": "05"
+        }
+    ],
+    "Suppliers": [],
+    "InvoiceError": "",
+    "focusTransaction": {
+        "TransactionDate": "2024-12-23T18:46:54.9066667",
+        "PaymentGateway": "MADA",
+        "ReferenceId": "435815184309",
+        "TrackId": "23-12-2024_2404515",
+        "TransactionId": "184309",
+        "PaymentId": "07074862043240451572",
+        "AuthorizationId": "184309",
+        "TransactionStatus": "Succss",
+        "TransationValue": "92.592",
+        "CustomerServiceCharge": "0.000",
+        "TotalServiceCharge": "1.000",
+        "DueValue": "92.600",
+        "PaidCurrency": "SR",
+        "PaidCurrencyValue": "1,143.710",
+        "VatAmount": "0.150",
+        "IpAddress": "41.101.99.97",
+        "Country": "Algeria",
+        "Currency": "KD",
+        "Error": null,
+        "CardNumber": "446404xxxxxx0007",
+        "ErrorCode": "",
+        "ECI": "05"
+    }
+}[2024-12-23 15:50:51] Extracted invoices: [
+    {
+        "id": 36,
+        "amount": 30.864
+    },
+    {
+        "id": 37,
+        "amount": 61.728
+    }
+]
+[2024-12-23 15:50:51] validate Data: 871,143.710SRArray
+(
+    [0] => Array
+        (
+            [id] => 36
+            [amount] => 30.864
+        )
+
+    [1] => Array
+        (
+            [id] => 37
+            [amount] => 61.728
+        )
+
+)
+approved[2024-12-23 15:50:52] Extracted invoices: [
+    {
+        "id": 36,
+        "amount": 30.864
+    },
+    {
+        "id": 37,
+        "amount": 61.728
+    }
+]
+[2024-12-23 15:51:36] Extracted invoices: [
+    {
+        "id": 36,
+        "amount": 30.864
+    },
+    {
+        "id": 37,
+        "amount": 61.728
+    }
+]
+[2024-12-23 15:51:36] success Data: 871,143.710SRArray
+(
+    [0] => Array
+        (
+            [id] => 36
+            [amount] => 30.864
+        )
+
+    [1] => Array
+        (
+            [id] => 37
+            [amount] => 61.728
+        )
+
+)
+approved[2024-12-23 15:58:07] Method Error: Array
+(
+    [0] => Array
+        (
+            [ItemName] => Invoice ID 36
+            [Quantity] => 1
+            [UnitPrice] => 100.00
+        )
+
+)
+\nArray
+(
+    [0] => Array
+        (
+            [id] => 36
+            [amount] => 100.00
+        )
+
+)
+
+[2024-12-23 15:58:31] Method Error: Array
+(
+    [0] => Array
+        (
+            [ItemName] => Invoice ID 36
+            [Quantity] => 1
+            [UnitPrice] => 100.00
+        )
+
+)
+\nArray
+(
+    [0] => Array
+        (
+            [id] => 36
+            [amount] => 100.00
+        )
+
+)
+
+[2024-12-23 16:00:37] Method Error: Array
+(
+    [0] => Array
+        (
+            [ItemName] => Invoice ID 36
+            [Quantity] => 1
+            [UnitPrice] => 100.00
+        )
+
+    [1] => Array
+        (
+            [ItemName] => Invoice ID 37
+            [Quantity] => 1
+            [UnitPrice] => 200.00
+        )
+
+)
+\nArray
+(
+    [0] => Array
+        (
+            [id] => 36
+            [amount] => 100.00
+        )
+
+    [1] => Array
+        (
+            [id] => 37
+            [amount] => 200.00
+        )
+
+)
+
+[2024-12-23 16:06:55] Method Error: Array
+(
+    [0] => Array
+        (
+            [ItemName] => Invoice ID 36
+            [Quantity] => 1
+            [UnitPrice] => 100.00
+        )
+
+    [1] => Array
+        (
+            [ItemName] => Invoice ID 37
+            [Quantity] => 1
+            [UnitPrice] => 200.00
+        )
+
+)
+\nArray
+(
+    [0] => Array
+        (
+            [id] => 36
+            [amount] => 100.00
+        )
+
+    [1] => Array
+        (
+            [id] => 37
+            [amount] => 200.00
+        )
+
+)
+
+[2024-12-23 16:07:40] Payment Data: {
+    "InvoiceId": 4862157,
+    "InvoiceStatus": "Paid",
+    "InvoiceReference": "2024698809",
+    "CustomerReference": "87",
+    "CreatedDate": "2024-12-23T19:06:56.38",
+    "ExpiryDate": "December 26, 2024",
+    "ExpiryTime": "19:06:56.380",
+    "InvoiceValue": 92.592,
+    "Comments": null,
+    "CustomerName": "Anonymous",
+    "CustomerMobile": "+965",
+    "CustomerEmail": "ssss@gmail.com",
+    "UserDefinedField": null,
+    "InvoiceDisplayValue": "300.000 USD",
+    "DueDeposit": 91.45,
+    "DepositStatus": "Not Deposited",
+    "InvoiceItems": [
+        {
+            "ItemName": "Invoice ID 36",
+            "Quantity": 1,
+            "UnitPrice": 30.864,
+            "Weight": null,
+            "Width": null,
+            "Height": null,
+            "Depth": null
+        },
+        {
+            "ItemName": "Invoice ID 37",
+            "Quantity": 1,
+            "UnitPrice": 61.728,
+            "Weight": null,
+            "Width": null,
+            "Height": null,
+            "Depth": null
+        }
+    ],
+    "InvoiceTransactions": [
+        {
+            "TransactionDate": "2024-12-23T19:07:39.5533333",
+            "PaymentGateway": "MADA",
+            "ReferenceId": "435816185359",
+            "TrackId": "23-12-2024_2404539",
+            "TransactionId": "185359",
+            "PaymentId": "07074862157240453973",
+            "AuthorizationId": "185359",
+            "TransactionStatus": "Succss",
+            "TransationValue": "92.592",
+            "CustomerServiceCharge": "0.000",
+            "TotalServiceCharge": "1.000",
+            "DueValue": "92.600",
+            "PaidCurrency": "SR",
+            "PaidCurrencyValue": "1,143.710",
+            "VatAmount": "0.150",
+            "IpAddress": "41.101.99.97",
+            "Country": "Algeria",
+            "Currency": "KD",
+            "Error": null,
+            "CardNumber": "446404xxxxxx0007",
+            "ErrorCode": "",
+            "ECI": "05"
+        }
+    ],
+    "Suppliers": [],
+    "InvoiceError": "",
+    "focusTransaction": {
+        "TransactionDate": "2024-12-23T19:07:39.5533333",
+        "PaymentGateway": "MADA",
+        "ReferenceId": "435816185359",
+        "TrackId": "23-12-2024_2404539",
+        "TransactionId": "185359",
+        "PaymentId": "07074862157240453973",
+        "AuthorizationId": "185359",
+        "TransactionStatus": "Succss",
+        "TransationValue": "92.592",
+        "CustomerServiceCharge": "0.000",
+        "TotalServiceCharge": "1.000",
+        "DueValue": "92.600",
+        "PaidCurrency": "SR",
+        "PaidCurrencyValue": "1,143.710",
+        "VatAmount": "0.150",
+        "IpAddress": "41.101.99.97",
+        "Country": "Algeria",
+        "Currency": "KD",
+        "Error": null,
+        "CardNumber": "446404xxxxxx0007",
+        "ErrorCode": "",
+        "ECI": "05"
+    }
+}[2024-12-23 16:07:40] Extracted invoices: [
+    {
+        "id": 36,
+        "amount": 30.864
+    },
+    {
+        "id": 37,
+        "amount": 61.728
+    }
+]
+[2024-12-23 16:07:40] validate Data: 871,143.710SRArray
+(
+    [0] => Array
+        (
+            [id] => 36
+            [amount] => 30.864
+        )
+
+    [1] => Array
+        (
+            [id] => 37
+            [amount] => 61.728
+        )
+
+)
+approved[2024-12-23 16:07:41] Extracted invoices: [
+    {
+        "id": 36,
+        "amount": 30.864
+    },
+    {
+        "id": 37,
+        "amount": 61.728
+    }
+]
+[2024-12-23 16:07:41] success Data: 871,143.710SRArray
+(
+    [0] => Array
+        (
+            [id] => 36
+            [amount] => 30.864
+        )
+
+    [1] => Array
+        (
+            [id] => 37
+            [amount] => 61.728
+        )
+
+)
+approved[2024-12-23 23:16:44] Method Error: Array
+(
+    [0] => Array
+        (
+            [ItemName] => Invoice ID 36
+            [Quantity] => 1
+            [UnitPrice] => 100.00
+        )
+
+    [1] => Array
+        (
+            [ItemName] => Invoice ID 37
+            [Quantity] => 1
+            [UnitPrice] => 200.00
+        )
+
+)
+\nArray
+(
+    [0] => Array
+        (
+            [id] => 36
+            [amount] => 100.00
+        )
+
+    [1] => Array
+        (
+            [id] => 37
+            [amount] => 200.00
+        )
+
+)
+
+[2024-12-23 23:17:11] Method Error: Array
+(
+    [0] => Array
+        (
+            [ItemName] => Invoice ID 36
+            [Quantity] => 1
+            [UnitPrice] => 100.00
+        )
+
+)
+\nArray
+(
+    [0] => Array
+        (
+            [id] => 36
+            [amount] => 100.00
+        )
+
+)
+
+[2024-12-23 23:17:44] Payment Data: {
+    "InvoiceId": 4862945,
+    "InvoiceStatus": "Paid",
+    "InvoiceReference": "2024699360",
+    "CustomerReference": "87",
+    "CreatedDate": "2024-12-24T02:17:11.777",
+    "ExpiryDate": "December 27, 2024",
+    "ExpiryTime": "02:17:11.777",
+    "InvoiceValue": 30.864,
+    "Comments": null,
+    "CustomerName": "Anonymous",
+    "CustomerMobile": "+965",
+    "CustomerEmail": "ssss@gmail.com",
+    "UserDefinedField": null,
+    "InvoiceDisplayValue": "100.000 USD",
+    "DueDeposit": 29.72,
+    "DepositStatus": "Not Deposited",
+    "InvoiceItems": [
+        {
+            "ItemName": "Invoice ID 36",
+            "Quantity": 1,
+            "UnitPrice": 30.864,
+            "Weight": null,
+            "Width": null,
+            "Height": null,
+            "Depth": null
+        }
+    ],
+    "InvoiceTransactions": [
+        {
+            "TransactionDate": "2024-12-24T02:17:43.61",
+            "PaymentGateway": "MADA",
+            "ReferenceId": "435823187504",
+            "TrackId": "24-12-2024_2404824",
+            "TransactionId": "187504",
+            "PaymentId": "07074862945240482473",
+            "AuthorizationId": "187504",
+            "TransactionStatus": "Succss",
+            "TransationValue": "30.864",
+            "CustomerServiceCharge": "0.000",
+            "TotalServiceCharge": "1.000",
+            "DueValue": "30.870",
+            "PaidCurrency": "SR",
+            "PaidCurrencyValue": "381.280",
+            "VatAmount": "0.150",
+            "IpAddress": "41.101.99.97",
+            "Country": "Algeria",
+            "Currency": "KD",
+            "Error": null,
+            "CardNumber": "446404xxxxxx0007",
+            "ErrorCode": "",
+            "ECI": "05"
+        }
+    ],
+    "Suppliers": [],
+    "InvoiceError": "",
+    "focusTransaction": {
+        "TransactionDate": "2024-12-24T02:17:43.61",
+        "PaymentGateway": "MADA",
+        "ReferenceId": "435823187504",
+        "TrackId": "24-12-2024_2404824",
+        "TransactionId": "187504",
+        "PaymentId": "07074862945240482473",
+        "AuthorizationId": "187504",
+        "TransactionStatus": "Succss",
+        "TransationValue": "30.864",
+        "CustomerServiceCharge": "0.000",
+        "TotalServiceCharge": "1.000",
+        "DueValue": "30.870",
+        "PaidCurrency": "SR",
+        "PaidCurrencyValue": "381.280",
+        "VatAmount": "0.150",
+        "IpAddress": "41.101.99.97",
+        "Country": "Algeria",
+        "Currency": "KD",
+        "Error": null,
+        "CardNumber": "446404xxxxxx0007",
+        "ErrorCode": "",
+        "ECI": "05"
+    }
+}[2024-12-23 23:17:44] Extracted invoices: [
+    {
+        "id": 36,
+        "amount": 30.864
+    }
+]
+[2024-12-23 23:17:44] validate Data: 87381.280SRArray
+(
+    [0] => Array
+        (
+            [id] => 36
+            [amount] => 30.864
+        )
+
+)
+approved[2024-12-23 23:17:44] Extracted invoices: [
+    {
+        "id": 36,
+        "amount": 30.864
+    }
+]
+[2024-12-23 23:17:44] success Data: 87381.280SRArray
+(
+    [0] => Array
+        (
+            [id] => 36
+            [amount] => 30.864
+        )
+
+)
+approved[2024-12-23 23:21:41] Extracted invoices: [
+    {
+        "id": 36,
+        "amount": 30.864
+    }
+]
+[2024-12-23 23:21:41] success Data: 87381.280SRArray
+(
+    [0] => Array
+        (
+            [id] => 36
+            [amount] => 30.864
+        )
+
+)
+approved[2024-12-23 23:23:49] Method Error: Array
+(
+    [0] => Array
+        (
+            [ItemName] => Invoice ID 40
+            [Quantity] => 1
+            [UnitPrice] => 500.00
+        )
+
+)
+\nArray
+(
+    [0] => Array
+        (
+            [id] => 40
+            [amount] => 500.00
+        )
+
+)
+
+[2024-12-23 23:24:24] Payment Data: {
+    "InvoiceId": 4862959,
+    "InvoiceStatus": "Paid",
+    "InvoiceReference": "2024699374",
+    "CustomerReference": "87",
+    "CreatedDate": "2024-12-24T02:23:49.82",
+    "ExpiryDate": "December 27, 2024",
+    "ExpiryTime": "02:23:49.820",
+    "InvoiceValue": 154.321,
+    "Comments": null,
+    "CustomerName": "Anonymous",
+    "CustomerMobile": "+965",
+    "CustomerEmail": "ssss@gmail.com",
+    "UserDefinedField": null,
+    "InvoiceDisplayValue": "500.000 USD",
+    "DueDeposit": 153.18,
+    "DepositStatus": "Not Deposited",
+    "InvoiceItems": [
+        {
+            "ItemName": "Invoice ID 40",
+            "Quantity": 1,
+            "UnitPrice": 154.321,
+            "Weight": null,
+            "Width": null,
+            "Height": null,
+            "Depth": null
+        }
+    ],
+    "InvoiceTransactions": [
+        {
+            "TransactionDate": "2024-12-24T02:24:24.0566667",
+            "PaymentGateway": "MADA",
+            "ReferenceId": "435823188554",
+            "TrackId": "24-12-2024_2404826",
+            "TransactionId": "188554",
+            "PaymentId": "07074862959240482674",
+            "AuthorizationId": "188554",
+            "TransactionStatus": "Succss",
+            "TransationValue": "154.321",
+            "CustomerServiceCharge": "0.000",
+            "TotalServiceCharge": "1.000",
+            "DueValue": "154.330",
+            "PaidCurrency": "SR",
+            "PaidCurrencyValue": "1,906.130",
+            "VatAmount": "0.150",
+            "IpAddress": "41.101.99.97",
+            "Country": "Algeria",
+            "Currency": "KD",
+            "Error": null,
+            "CardNumber": "446404xxxxxx0007",
+            "ErrorCode": "",
+            "ECI": "05"
+        }
+    ],
+    "Suppliers": [],
+    "InvoiceError": "",
+    "focusTransaction": {
+        "TransactionDate": "2024-12-24T02:24:24.0566667",
+        "PaymentGateway": "MADA",
+        "ReferenceId": "435823188554",
+        "TrackId": "24-12-2024_2404826",
+        "TransactionId": "188554",
+        "PaymentId": "07074862959240482674",
+        "AuthorizationId": "188554",
+        "TransactionStatus": "Succss",
+        "TransationValue": "154.321",
+        "CustomerServiceCharge": "0.000",
+        "TotalServiceCharge": "1.000",
+        "DueValue": "154.330",
+        "PaidCurrency": "SR",
+        "PaidCurrencyValue": "1,906.130",
+        "VatAmount": "0.150",
+        "IpAddress": "41.101.99.97",
+        "Country": "Algeria",
+        "Currency": "KD",
+        "Error": null,
+        "CardNumber": "446404xxxxxx0007",
+        "ErrorCode": "",
+        "ECI": "05"
+    }
+}[2024-12-23 23:24:24] Extracted invoices: [
+    {
+        "id": 40,
+        "amount": 154.321
+    }
+]
+[2024-12-23 23:24:24] validate Data: 871,906.130SRArray
+(
+    [0] => Array
+        (
+            [id] => 40
+            [amount] => 154.321
+        )
+
+)
+approved[2024-12-23 23:24:25] Extracted invoices: [
+    {
+        "id": 40,
+        "amount": 154.321
+    }
+]
+[2024-12-23 23:24:25] success Data: 871,906.130SRArray
+(
+    [0] => Array
+        (
+            [id] => 40
+            [amount] => 154.321
+        )
+
+)
+approved[2024-12-23 23:55:29] Method Error: Array
+(
+    [0] => Array
+        (
+            [ItemName] => Invoice ID 35
+            [Quantity] => 1
+            [UnitPrice] => 50.0000
+        )
+
+)
+\nArray
+(
+    [0] => Array
+        (
+            [id] => 35
+            [amount] => 50.0000
+        )
+
+)
+
+[2024-12-23 23:56:24] Payment Data: {
+    "InvoiceId": 4862996,
+    "InvoiceStatus": "Paid",
+    "InvoiceReference": "2024699390",
+    "CustomerReference": "87",
+    "CreatedDate": "2024-12-24T02:55:30.15",
+    "ExpiryDate": "December 27, 2024",
+    "ExpiryTime": "02:55:30.150",
+    "InvoiceValue": 50,
+    "Comments": null,
+    "CustomerName": "Anonymous",
+    "CustomerMobile": "+965",
+    "CustomerEmail": "ssss@gmail.com",
+    "UserDefinedField": null,
+    "InvoiceDisplayValue": "50.000 KD",
+    "DueDeposit": 48.85,
+    "DepositStatus": "Not Deposited",
+    "InvoiceItems": [
+        {
+            "ItemName": "Invoice ID 35",
+            "Quantity": 1,
+            "UnitPrice": 50,
+            "Weight": null,
+            "Width": null,
+            "Height": null,
+            "Depth": null
+        }
+    ],
+    "InvoiceTransactions": [
+        {
+            "TransactionDate": "2024-12-24T02:56:24.0033333",
+            "PaymentGateway": "MADA",
+            "ReferenceId": "435823180135",
+            "TrackId": "24-12-2024_2404829",
+            "TransactionId": "180135",
+            "PaymentId": "07074862996240482974",
+            "AuthorizationId": "180135",
+            "TransactionStatus": "Succss",
+            "TransationValue": "50.000",
+            "CustomerServiceCharge": "0.000",
+            "TotalServiceCharge": "1.000",
+            "DueValue": "50.000",
+            "PaidCurrency": "SR",
+            "PaidCurrencyValue": "617.550",
+            "VatAmount": "0.150",
+            "IpAddress": "41.101.99.97",
+            "Country": "Algeria",
+            "Currency": "KD",
+            "Error": null,
+            "CardNumber": "446404xxxxxx0007",
+            "ErrorCode": "",
+            "ECI": "05"
+        }
+    ],
+    "Suppliers": [],
+    "InvoiceError": "",
+    "focusTransaction": {
+        "TransactionDate": "2024-12-24T02:56:24.0033333",
+        "PaymentGateway": "MADA",
+        "ReferenceId": "435823180135",
+        "TrackId": "24-12-2024_2404829",
+        "TransactionId": "180135",
+        "PaymentId": "07074862996240482974",
+        "AuthorizationId": "180135",
+        "TransactionStatus": "Succss",
+        "TransationValue": "50.000",
+        "CustomerServiceCharge": "0.000",
+        "TotalServiceCharge": "1.000",
+        "DueValue": "50.000",
+        "PaidCurrency": "SR",
+        "PaidCurrencyValue": "617.550",
+        "VatAmount": "0.150",
+        "IpAddress": "41.101.99.97",
+        "Country": "Algeria",
+        "Currency": "KD",
+        "Error": null,
+        "CardNumber": "446404xxxxxx0007",
+        "ErrorCode": "",
+        "ECI": "05"
+    }
+}[2024-12-23 23:56:24] Extracted invoices: [
+    {
+        "id": 35,
+        "amount": 50
+    }
+]
+[2024-12-23 23:56:24] validate Data: 87617.550SRArray
+(
+    [0] => Array
+        (
+            [id] => 35
+            [amount] => 50
+        )
+
+)
+approved[2024-12-23 23:56:24] Success handler error: Trying to access array offset on value of type null[2024-12-24 00:01:34] Payment Data: {
+    "InvoiceId": 4862996,
+    "InvoiceStatus": "Paid",
+    "InvoiceReference": "2024699390",
+    "CustomerReference": "87",
+    "CreatedDate": "2024-12-24T02:55:30.15",
+    "ExpiryDate": "December 27, 2024",
+    "ExpiryTime": "02:55:30.150",
+    "InvoiceValue": 50,
+    "Comments": null,
+    "CustomerName": "Anonymous",
+    "CustomerMobile": "+965",
+    "CustomerEmail": "ssss@gmail.com",
+    "UserDefinedField": null,
+    "InvoiceDisplayValue": "50.000 KD",
+    "DueDeposit": 48.85,
+    "DepositStatus": "Not Deposited",
+    "InvoiceItems": [
+        {
+            "ItemName": "Invoice ID 35",
+            "Quantity": 1,
+            "UnitPrice": 50,
+            "Weight": null,
+            "Width": null,
+            "Height": null,
+            "Depth": null
+        }
+    ],
+    "InvoiceTransactions": [
+        {
+            "TransactionDate": "2024-12-24T02:56:24.0033333",
+            "PaymentGateway": "MADA",
+            "ReferenceId": "435823180135",
+            "TrackId": "24-12-2024_2404829",
+            "TransactionId": "180135",
+            "PaymentId": "07074862996240482974",
+            "AuthorizationId": "180135",
+            "TransactionStatus": "Succss",
+            "TransationValue": "50.000",
+            "CustomerServiceCharge": "0.000",
+            "TotalServiceCharge": "1.000",
+            "DueValue": "50.000",
+            "PaidCurrency": "SR",
+            "PaidCurrencyValue": "617.550",
+            "VatAmount": "0.150",
+            "IpAddress": "41.101.99.97",
+            "Country": "Algeria",
+            "Currency": "KD",
+            "Error": null,
+            "CardNumber": "446404xxxxxx0007",
+            "ErrorCode": "",
+            "ECI": "05"
+        }
+    ],
+    "Suppliers": [],
+    "InvoiceError": "",
+    "focusTransaction": {
+        "TransactionDate": "2024-12-24T02:56:24.0033333",
+        "PaymentGateway": "MADA",
+        "ReferenceId": "435823180135",
+        "TrackId": "24-12-2024_2404829",
+        "TransactionId": "180135",
+        "PaymentId": "07074862996240482974",
+        "AuthorizationId": "180135",
+        "TransactionStatus": "Succss",
+        "TransationValue": "50.000",
+        "CustomerServiceCharge": "0.000",
+        "TotalServiceCharge": "1.000",
+        "DueValue": "50.000",
+        "PaidCurrency": "SR",
+        "PaidCurrencyValue": "617.550",
+        "VatAmount": "0.150",
+        "IpAddress": "41.101.99.97",
+        "Country": "Algeria",
+        "Currency": "KD",
+        "Error": null,
+        "CardNumber": "446404xxxxxx0007",
+        "ErrorCode": "",
+        "ECI": "05"
+    }
+}[2024-12-24 00:01:34] Extracted invoices: [
+    {
+        "id": 35,
+        "amount": 50
+    }
+]
+[2024-12-24 00:01:34] validate Data: 87617.550SRArray
+(
+    [0] => Array
+        (
+            [id] => 35
+            [amount] => 50
+        )
+
+)
+approved[2024-12-24 00:02:53] Payment Data: {
+    "InvoiceId": 4862996,
+    "InvoiceStatus": "Paid",
+    "InvoiceReference": "2024699390",
+    "CustomerReference": "87",
+    "CreatedDate": "2024-12-24T02:55:30.15",
+    "ExpiryDate": "December 27, 2024",
+    "ExpiryTime": "02:55:30.150",
+    "InvoiceValue": 50,
+    "Comments": null,
+    "CustomerName": "Anonymous",
+    "CustomerMobile": "+965",
+    "CustomerEmail": "ssss@gmail.com",
+    "UserDefinedField": null,
+    "InvoiceDisplayValue": "50.000 KD",
+    "DueDeposit": 48.85,
+    "DepositStatus": "Not Deposited",
+    "InvoiceItems": [
+        {
+            "ItemName": "Invoice ID 35",
+            "Quantity": 1,
+            "UnitPrice": 50,
+            "Weight": null,
+            "Width": null,
+            "Height": null,
+            "Depth": null
+        }
+    ],
+    "InvoiceTransactions": [
+        {
+            "TransactionDate": "2024-12-24T02:56:24.0033333",
+            "PaymentGateway": "MADA",
+            "ReferenceId": "435823180135",
+            "TrackId": "24-12-2024_2404829",
+            "TransactionId": "180135",
+            "PaymentId": "07074862996240482974",
+            "AuthorizationId": "180135",
+            "TransactionStatus": "Succss",
+            "TransationValue": "50.000",
+            "CustomerServiceCharge": "0.000",
+            "TotalServiceCharge": "1.000",
+            "DueValue": "50.000",
+            "PaidCurrency": "SR",
+            "PaidCurrencyValue": "617.550",
+            "VatAmount": "0.150",
+            "IpAddress": "41.101.99.97",
+            "Country": "Algeria",
+            "Currency": "KD",
+            "Error": null,
+            "CardNumber": "446404xxxxxx0007",
+            "ErrorCode": "",
+            "ECI": "05"
+        }
+    ],
+    "Suppliers": [],
+    "InvoiceError": "",
+    "focusTransaction": {
+        "TransactionDate": "2024-12-24T02:56:24.0033333",
+        "PaymentGateway": "MADA",
+        "ReferenceId": "435823180135",
+        "TrackId": "24-12-2024_2404829",
+        "TransactionId": "180135",
+        "PaymentId": "07074862996240482974",
+        "AuthorizationId": "180135",
+        "TransactionStatus": "Succss",
+        "TransationValue": "50.000",
+        "CustomerServiceCharge": "0.000",
+        "TotalServiceCharge": "1.000",
+        "DueValue": "50.000",
+        "PaidCurrency": "SR",
+        "PaidCurrencyValue": "617.550",
+        "VatAmount": "0.150",
+        "IpAddress": "41.101.99.97",
+        "Country": "Algeria",
+        "Currency": "KD",
+        "Error": null,
+        "CardNumber": "446404xxxxxx0007",
+        "ErrorCode": "",
+        "ECI": "05"
+    }
+}[2024-12-24 00:02:53] Extracted invoices: [
+    {
+        "id": 35,
+        "amount": 50
+    }
+]
+[2024-12-24 00:04:01] Payment Data: {
+    "InvoiceId": 4862996,
+    "InvoiceStatus": "Paid",
+    "InvoiceReference": "2024699390",
+    "CustomerReference": "87",
+    "CreatedDate": "2024-12-24T02:55:30.15",
+    "ExpiryDate": "December 27, 2024",
+    "ExpiryTime": "02:55:30.150",
+    "InvoiceValue": 50,
+    "Comments": null,
+    "CustomerName": "Anonymous",
+    "CustomerMobile": "+965",
+    "CustomerEmail": "ssss@gmail.com",
+    "UserDefinedField": null,
+    "InvoiceDisplayValue": "50.000 KD",
+    "DueDeposit": 48.85,
+    "DepositStatus": "Not Deposited",
+    "InvoiceItems": [
+        {
+            "ItemName": "Invoice ID 35",
+            "Quantity": 1,
+            "UnitPrice": 50,
+            "Weight": null,
+            "Width": null,
+            "Height": null,
+            "Depth": null
+        }
+    ],
+    "InvoiceTransactions": [
+        {
+            "TransactionDate": "2024-12-24T02:56:24.0033333",
+            "PaymentGateway": "MADA",
+            "ReferenceId": "435823180135",
+            "TrackId": "24-12-2024_2404829",
+            "TransactionId": "180135",
+            "PaymentId": "07074862996240482974",
+            "AuthorizationId": "180135",
+            "TransactionStatus": "Succss",
+            "TransationValue": "50.000",
+            "CustomerServiceCharge": "0.000",
+            "TotalServiceCharge": "1.000",
+            "DueValue": "50.000",
+            "PaidCurrency": "SR",
+            "PaidCurrencyValue": "617.550",
+            "VatAmount": "0.150",
+            "IpAddress": "41.101.99.97",
+            "Country": "Algeria",
+            "Currency": "KD",
+            "Error": null,
+            "CardNumber": "446404xxxxxx0007",
+            "ErrorCode": "",
+            "ECI": "05"
+        }
+    ],
+    "Suppliers": [],
+    "InvoiceError": "",
+    "focusTransaction": {
+        "TransactionDate": "2024-12-24T02:56:24.0033333",
+        "PaymentGateway": "MADA",
+        "ReferenceId": "435823180135",
+        "TrackId": "24-12-2024_2404829",
+        "TransactionId": "180135",
+        "PaymentId": "07074862996240482974",
+        "AuthorizationId": "180135",
+        "TransactionStatus": "Succss",
+        "TransationValue": "50.000",
+        "CustomerServiceCharge": "0.000",
+        "TotalServiceCharge": "1.000",
+        "DueValue": "50.000",
+        "PaidCurrency": "SR",
+        "PaidCurrencyValue": "617.550",
+        "VatAmount": "0.150",
+        "IpAddress": "41.101.99.97",
+        "Country": "Algeria",
+        "Currency": "KD",
+        "Error": null,
+        "CardNumber": "446404xxxxxx0007",
+        "ErrorCode": "",
+        "ECI": "05"
+    }
+}[2024-12-24 00:04:01] Extracted invoices: [
+    {
+        "id": 35,
+        "amount": 50
+    }
+]
+[2024-12-24 00:06:58] Payment Data: {
+    "InvoiceId": 4862996,
+    "InvoiceStatus": "Paid",
+    "InvoiceReference": "2024699390",
+    "CustomerReference": "87",
+    "CreatedDate": "2024-12-24T02:55:30.15",
+    "ExpiryDate": "December 27, 2024",
+    "ExpiryTime": "02:55:30.150",
+    "InvoiceValue": 50,
+    "Comments": null,
+    "CustomerName": "Anonymous",
+    "CustomerMobile": "+965",
+    "CustomerEmail": "ssss@gmail.com",
+    "UserDefinedField": null,
+    "InvoiceDisplayValue": "50.000 KD",
+    "DueDeposit": 48.85,
+    "DepositStatus": "Not Deposited",
+    "InvoiceItems": [
+        {
+            "ItemName": "Invoice ID 35",
+            "Quantity": 1,
+            "UnitPrice": 50,
+            "Weight": null,
+            "Width": null,
+            "Height": null,
+            "Depth": null
+        }
+    ],
+    "InvoiceTransactions": [
+        {
+            "TransactionDate": "2024-12-24T02:56:24.0033333",
+            "PaymentGateway": "MADA",
+            "ReferenceId": "435823180135",
+            "TrackId": "24-12-2024_2404829",
+            "TransactionId": "180135",
+            "PaymentId": "07074862996240482974",
+            "AuthorizationId": "180135",
+            "TransactionStatus": "Succss",
+            "TransationValue": "50.000",
+            "CustomerServiceCharge": "0.000",
+            "TotalServiceCharge": "1.000",
+            "DueValue": "50.000",
+            "PaidCurrency": "SR",
+            "PaidCurrencyValue": "617.550",
+            "VatAmount": "0.150",
+            "IpAddress": "41.101.99.97",
+            "Country": "Algeria",
+            "Currency": "KD",
+            "Error": null,
+            "CardNumber": "446404xxxxxx0007",
+            "ErrorCode": "",
+            "ECI": "05"
+        }
+    ],
+    "Suppliers": [],
+    "InvoiceError": "",
+    "focusTransaction": {
+        "TransactionDate": "2024-12-24T02:56:24.0033333",
+        "PaymentGateway": "MADA",
+        "ReferenceId": "435823180135",
+        "TrackId": "24-12-2024_2404829",
+        "TransactionId": "180135",
+        "PaymentId": "07074862996240482974",
+        "AuthorizationId": "180135",
+        "TransactionStatus": "Succss",
+        "TransationValue": "50.000",
+        "CustomerServiceCharge": "0.000",
+        "TotalServiceCharge": "1.000",
+        "DueValue": "50.000",
+        "PaidCurrency": "SR",
+        "PaidCurrencyValue": "617.550",
+        "VatAmount": "0.150",
+        "IpAddress": "41.101.99.97",
+        "Country": "Algeria",
+        "Currency": "KD",
+        "Error": null,
+        "CardNumber": "446404xxxxxx0007",
+        "ErrorCode": "",
+        "ECI": "05"
+    }
+}[2024-12-24 00:06:58] Extracted invoices: [
+    {
+        "id": 35,
+        "amount": 50
+    }
+]
+[2024-12-24 00:07:46] Payment Data: {
+    "InvoiceId": 4862996,
+    "InvoiceStatus": "Paid",
+    "InvoiceReference": "2024699390",
+    "CustomerReference": "87",
+    "CreatedDate": "2024-12-24T02:55:30.15",
+    "ExpiryDate": "December 27, 2024",
+    "ExpiryTime": "02:55:30.150",
+    "InvoiceValue": 50,
+    "Comments": null,
+    "CustomerName": "Anonymous",
+    "CustomerMobile": "+965",
+    "CustomerEmail": "ssss@gmail.com",
+    "UserDefinedField": null,
+    "InvoiceDisplayValue": "50.000 KD",
+    "DueDeposit": 48.85,
+    "DepositStatus": "Not Deposited",
+    "InvoiceItems": [
+        {
+            "ItemName": "Invoice ID 35",
+            "Quantity": 1,
+            "UnitPrice": 50,
+            "Weight": null,
+            "Width": null,
+            "Height": null,
+            "Depth": null
+        }
+    ],
+    "InvoiceTransactions": [
+        {
+            "TransactionDate": "2024-12-24T02:56:24.0033333",
+            "PaymentGateway": "MADA",
+            "ReferenceId": "435823180135",
+            "TrackId": "24-12-2024_2404829",
+            "TransactionId": "180135",
+            "PaymentId": "07074862996240482974",
+            "AuthorizationId": "180135",
+            "TransactionStatus": "Succss",
+            "TransationValue": "50.000",
+            "CustomerServiceCharge": "0.000",
+            "TotalServiceCharge": "1.000",
+            "DueValue": "50.000",
+            "PaidCurrency": "SR",
+            "PaidCurrencyValue": "617.550",
+            "VatAmount": "0.150",
+            "IpAddress": "41.101.99.97",
+            "Country": "Algeria",
+            "Currency": "KD",
+            "Error": null,
+            "CardNumber": "446404xxxxxx0007",
+            "ErrorCode": "",
+            "ECI": "05"
+        }
+    ],
+    "Suppliers": [],
+    "InvoiceError": "",
+    "focusTransaction": {
+        "TransactionDate": "2024-12-24T02:56:24.0033333",
+        "PaymentGateway": "MADA",
+        "ReferenceId": "435823180135",
+        "TrackId": "24-12-2024_2404829",
+        "TransactionId": "180135",
+        "PaymentId": "07074862996240482974",
+        "AuthorizationId": "180135",
+        "TransactionStatus": "Succss",
+        "TransationValue": "50.000",
+        "CustomerServiceCharge": "0.000",
+        "TotalServiceCharge": "1.000",
+        "DueValue": "50.000",
+        "PaidCurrency": "SR",
+        "PaidCurrencyValue": "617.550",
+        "VatAmount": "0.150",
+        "IpAddress": "41.101.99.97",
+        "Country": "Algeria",
+        "Currency": "KD",
+        "Error": null,
+        "CardNumber": "446404xxxxxx0007",
+        "ErrorCode": "",
+        "ECI": "05"
+    }
+}[2024-12-24 00:07:46] Extracted invoices: [
+    {
+        "id": 35,
+        "amount": 50
+    }
+]
+[2024-12-24 00:08:25] Method Error: Array
+(
+    [0] => Array
+        (
+            [ItemName] => Invoice ID 35
+            [Quantity] => 1
+            [UnitPrice] => 50.0000
+        )
+
+)
+\nArray
+(
+    [0] => Array
+        (
+            [id] => 35
+            [amount] => 50.0000
+        )
+
+)
+
+[2024-12-24 00:08:52] Payment Data: {
+    "InvoiceId": 4863010,
+    "InvoiceStatus": "Paid",
+    "InvoiceReference": "2024699404",
+    "CustomerReference": "87",
+    "CreatedDate": "2024-12-24T03:08:25.847",
+    "ExpiryDate": "December 27, 2024",
+    "ExpiryTime": "03:08:25.847",
+    "InvoiceValue": 50,
+    "Comments": null,
+    "CustomerName": "Anonymous",
+    "CustomerMobile": "+965",
+    "CustomerEmail": "ssss@gmail.com",
+    "UserDefinedField": null,
+    "InvoiceDisplayValue": "50.000 KD",
+    "DueDeposit": 48.85,
+    "DepositStatus": "Not Deposited",
+    "InvoiceItems": [
+        {
+            "ItemName": "Invoice ID 35",
+            "Quantity": 1,
+            "UnitPrice": 50,
+            "Weight": null,
+            "Width": null,
+            "Height": null,
+            "Depth": null
+        }
+    ],
+    "InvoiceTransactions": [
+        {
+            "TransactionDate": "2024-12-24T03:08:51.5833333",
+            "PaymentGateway": "MADA",
+            "ReferenceId": "435900181185",
+            "TrackId": "24-12-2024_2404832",
+            "TransactionId": "181185",
+            "PaymentId": "07074863010240483271",
+            "AuthorizationId": "181185",
+            "TransactionStatus": "Succss",
+            "TransationValue": "50.000",
+            "CustomerServiceCharge": "0.000",
+            "TotalServiceCharge": "1.000",
+            "DueValue": "50.000",
+            "PaidCurrency": "SR",
+            "PaidCurrencyValue": "617.550",
+            "VatAmount": "0.150",
+            "IpAddress": "41.101.99.97",
+            "Country": "Algeria",
+            "Currency": "KD",
+            "Error": null,
+            "CardNumber": "446404xxxxxx0007",
+            "ErrorCode": "",
+            "ECI": "05"
+        }
+    ],
+    "Suppliers": [],
+    "InvoiceError": "",
+    "focusTransaction": {
+        "TransactionDate": "2024-12-24T03:08:51.5833333",
+        "PaymentGateway": "MADA",
+        "ReferenceId": "435900181185",
+        "TrackId": "24-12-2024_2404832",
+        "TransactionId": "181185",
+        "PaymentId": "07074863010240483271",
+        "AuthorizationId": "181185",
+        "TransactionStatus": "Succss",
+        "TransationValue": "50.000",
+        "CustomerServiceCharge": "0.000",
+        "TotalServiceCharge": "1.000",
+        "DueValue": "50.000",
+        "PaidCurrency": "SR",
+        "PaidCurrencyValue": "617.550",
+        "VatAmount": "0.150",
+        "IpAddress": "41.101.99.97",
+        "Country": "Algeria",
+        "Currency": "KD",
+        "Error": null,
+        "CardNumber": "446404xxxxxx0007",
+        "ErrorCode": "",
+        "ECI": "05"
+    }
+}[2024-12-24 00:08:52] Extracted invoices: [
+    {
+        "id": 35,
+        "amount": 50
+    }
+]
+[2024-12-24 00:11:00] Method Error: Array
+(
+    [0] => Array
+        (
+            [ItemName] => Invoice ID 41
+            [Quantity] => 1
+            [UnitPrice] => 300.0000
+        )
+
+)
+\nArray
+(
+    [0] => Array
+        (
+            [id] => 41
+            [amount] => 300.0000
+        )
+
+)
+
+[2024-12-24 00:11:26] Payment Data: {
+    "InvoiceId": 4863023,
+    "InvoiceStatus": "Paid",
+    "InvoiceReference": "2024699417",
+    "CustomerReference": "87",
+    "CreatedDate": "2024-12-24T03:11:01.24",
+    "ExpiryDate": "December 27, 2024",
+    "ExpiryTime": "03:11:01.240",
+    "InvoiceValue": 24.29,
+    "Comments": null,
+    "CustomerName": "Anonymous",
+    "CustomerMobile": "+965",
+    "CustomerEmail": "ssss@gmail.com",
+    "UserDefinedField": null,
+    "InvoiceDisplayValue": "300.000 SR",
+    "DueDeposit": 23.14,
+    "DepositStatus": "Not Deposited",
+    "InvoiceItems": [
+        {
+            "ItemName": "Invoice ID 41",
+            "Quantity": 1,
+            "UnitPrice": 24.29,
+            "Weight": null,
+            "Width": null,
+            "Height": null,
+            "Depth": null
+        }
+    ],
+    "InvoiceTransactions": [
+        {
+            "TransactionDate": "2024-12-24T03:11:26.18",
+            "PaymentGateway": "MADA",
+            "ReferenceId": "435900182215",
+            "TrackId": "24-12-2024_2404834",
+            "TransactionId": "182215",
+            "PaymentId": "07074863023240483472",
+            "AuthorizationId": "182215",
+            "TransactionStatus": "Succss",
+            "TransationValue": "24.290",
+            "CustomerServiceCharge": "0.000",
+            "TotalServiceCharge": "1.000",
+            "DueValue": "24.290",
+            "PaidCurrency": "SR",
+            "PaidCurrencyValue": "300.000",
+            "VatAmount": "0.150",
+            "IpAddress": "41.101.99.97",
+            "Country": "Algeria",
+            "Currency": "KD",
+            "Error": null,
+            "CardNumber": "446404xxxxxx0007",
+            "ErrorCode": "",
+            "ECI": "05"
+        }
+    ],
+    "Suppliers": [],
+    "InvoiceError": "",
+    "focusTransaction": {
+        "TransactionDate": "2024-12-24T03:11:26.18",
+        "PaymentGateway": "MADA",
+        "ReferenceId": "435900182215",
+        "TrackId": "24-12-2024_2404834",
+        "TransactionId": "182215",
+        "PaymentId": "07074863023240483472",
+        "AuthorizationId": "182215",
+        "TransactionStatus": "Succss",
+        "TransationValue": "24.290",
+        "CustomerServiceCharge": "0.000",
+        "TotalServiceCharge": "1.000",
+        "DueValue": "24.290",
+        "PaidCurrency": "SR",
+        "PaidCurrencyValue": "300.000",
+        "VatAmount": "0.150",
+        "IpAddress": "41.101.99.97",
+        "Country": "Algeria",
+        "Currency": "KD",
+        "Error": null,
+        "CardNumber": "446404xxxxxx0007",
+        "ErrorCode": "",
+        "ECI": "05"
+    }
+}[2024-12-24 00:11:26] Extracted invoices: [
+    {
+        "id": 41,
+        "amount": 24.29
+    }
+]
+[2024-12-24 00:12:46] Payment Data: {
+    "InvoiceId": 4863023,
+    "InvoiceStatus": "Paid",
+    "InvoiceReference": "2024699417",
+    "CustomerReference": "87",
+    "CreatedDate": "2024-12-24T03:11:01.24",
+    "ExpiryDate": "December 27, 2024",
+    "ExpiryTime": "03:11:01.240",
+    "InvoiceValue": 24.29,
+    "Comments": null,
+    "CustomerName": "Anonymous",
+    "CustomerMobile": "+965",
+    "CustomerEmail": "ssss@gmail.com",
+    "UserDefinedField": null,
+    "InvoiceDisplayValue": "300.000 SR",
+    "DueDeposit": 23.14,
+    "DepositStatus": "Not Deposited",
+    "InvoiceItems": [
+        {
+            "ItemName": "Invoice ID 41",
+            "Quantity": 1,
+            "UnitPrice": 24.29,
+            "Weight": null,
+            "Width": null,
+            "Height": null,
+            "Depth": null
+        }
+    ],
+    "InvoiceTransactions": [
+        {
+            "TransactionDate": "2024-12-24T03:11:26.18",
+            "PaymentGateway": "MADA",
+            "ReferenceId": "435900182215",
+            "TrackId": "24-12-2024_2404834",
+            "TransactionId": "182215",
+            "PaymentId": "07074863023240483472",
+            "AuthorizationId": "182215",
+            "TransactionStatus": "Succss",
+            "TransationValue": "24.290",
+            "CustomerServiceCharge": "0.000",
+            "TotalServiceCharge": "1.000",
+            "DueValue": "24.290",
+            "PaidCurrency": "SR",
+            "PaidCurrencyValue": "300.000",
+            "VatAmount": "0.150",
+            "IpAddress": "41.101.99.97",
+            "Country": "Algeria",
+            "Currency": "KD",
+            "Error": null,
+            "CardNumber": "446404xxxxxx0007",
+            "ErrorCode": "",
+            "ECI": "05"
+        }
+    ],
+    "Suppliers": [],
+    "InvoiceError": "",
+    "focusTransaction": {
+        "TransactionDate": "2024-12-24T03:11:26.18",
+        "PaymentGateway": "MADA",
+        "ReferenceId": "435900182215",
+        "TrackId": "24-12-2024_2404834",
+        "TransactionId": "182215",
+        "PaymentId": "07074863023240483472",
+        "AuthorizationId": "182215",
+        "TransactionStatus": "Succss",
+        "TransationValue": "24.290",
+        "CustomerServiceCharge": "0.000",
+        "TotalServiceCharge": "1.000",
+        "DueValue": "24.290",
+        "PaidCurrency": "SR",
+        "PaidCurrencyValue": "300.000",
+        "VatAmount": "0.150",
+        "IpAddress": "41.101.99.97",
+        "Country": "Algeria",
+        "Currency": "KD",
+        "Error": null,
+        "CardNumber": "446404xxxxxx0007",
+        "ErrorCode": "",
+        "ECI": "05"
+    }
+}[2024-12-24 00:12:46] Extracted invoices: [
+    {
+        "id": 41,
+        "amount": 24.29
+    }
+]
+[2024-12-24 00:12:46] validate Data: 87300.00SRArray
+(
+    [amount] => 300.00
+    [currency] => SR
+)
+approved[2024-12-24 00:12:47] Extracted invoices: [
+    {
+        "id": 41,
+        "amount": 24.29
+    }
+]
+[2024-12-24 00:12:47] success Data: 87300.000SRArray
+(
+    [0] => Array
+        (
+            [id] => 41
+            [amount] => 24.29
+        )
+
+)
+approved[2024-12-24 00:15:15] Method Error: Array
+(
+    [0] => Array
+        (
+            [ItemName] => Invoice ID 42
+            [Quantity] => 1
+            [UnitPrice] => 100.00
+        )
+
+)
+\nArray
+(
+    [0] => Array
+        (
+            [id] => 42
+            [amount] => 100.00
+        )
+
+)
+
+[2024-12-24 00:15:39] Payment Data: {
+    "InvoiceId": 4863035,
+    "InvoiceStatus": "Paid",
+    "InvoiceReference": "2024699429",
+    "CustomerReference": "87",
+    "CreatedDate": "2024-12-24T03:15:15.823",
+    "ExpiryDate": "December 27, 2024",
+    "ExpiryTime": "03:15:15.823",
+    "InvoiceValue": 30.864,
+    "Comments": null,
+    "CustomerName": "Anonymous",
+    "CustomerMobile": "+965",
+    "CustomerEmail": "ssss@gmail.com",
+    "UserDefinedField": null,
+    "InvoiceDisplayValue": "100.000 USD",
+    "DueDeposit": 29.72,
+    "DepositStatus": "Not Deposited",
+    "InvoiceItems": [
+        {
+            "ItemName": "Invoice ID 42",
+            "Quantity": 1,
+            "UnitPrice": 30.864,
+            "Weight": null,
+            "Width": null,
+            "Height": null,
+            "Depth": null
+        }
+    ],
+    "InvoiceTransactions": [
+        {
+            "TransactionDate": "2024-12-24T03:15:38.65",
+            "PaymentGateway": "MADA",
+            "ReferenceId": "435900183245",
+            "TrackId": "24-12-2024_2404836",
+            "TransactionId": "183245",
+            "PaymentId": "07074863035240483672",
+            "AuthorizationId": "183245",
+            "TransactionStatus": "Succss",
+            "TransationValue": "30.864",
+            "CustomerServiceCharge": "0.000",
+            "TotalServiceCharge": "1.000",
+            "DueValue": "30.870",
+            "PaidCurrency": "SR",
+            "PaidCurrencyValue": "381.280",
+            "VatAmount": "0.150",
+            "IpAddress": "41.101.99.97",
+            "Country": "Algeria",
+            "Currency": "KD",
+            "Error": null,
+            "CardNumber": "446404xxxxxx0007",
+            "ErrorCode": "",
+            "ECI": "05"
+        }
+    ],
+    "Suppliers": [],
+    "InvoiceError": "",
+    "focusTransaction": {
+        "TransactionDate": "2024-12-24T03:15:38.65",
+        "PaymentGateway": "MADA",
+        "ReferenceId": "435900183245",
+        "TrackId": "24-12-2024_2404836",
+        "TransactionId": "183245",
+        "PaymentId": "07074863035240483672",
+        "AuthorizationId": "183245",
+        "TransactionStatus": "Succss",
+        "TransationValue": "30.864",
+        "CustomerServiceCharge": "0.000",
+        "TotalServiceCharge": "1.000",
+        "DueValue": "30.870",
+        "PaidCurrency": "SR",
+        "PaidCurrencyValue": "381.280",
+        "VatAmount": "0.150",
+        "IpAddress": "41.101.99.97",
+        "Country": "Algeria",
+        "Currency": "KD",
+        "Error": null,
+        "CardNumber": "446404xxxxxx0007",
+        "ErrorCode": "",
+        "ECI": "05"
+    }
+}[2024-12-24 00:15:39] Extracted invoices: [
+    {
+        "id": 42,
+        "amount": 30.864
+    }
+]
+[2024-12-24 00:15:39] validate Data: 87381.280SRArray
+(
+    [0] => Array
+        (
+            [id] => 42
+            [amount] => 30.864
+        )
+
+)
+approved[2024-12-24 00:15:39] Extracted invoices: [
+    {
+        "id": 42,
+        "amount": 30.864
+    }
+]
+[2024-12-24 00:15:39] success Data: 87381.280SRArray
+(
+    [0] => Array
+        (
+            [id] => 42
+            [amount] => 30.864
+        )
+
+)
+approved[2024-12-24 00:21:09] Method Error: Array
+(
+    [0] => Array
+        (
+            [ItemName] => Invoice ID 41
+            [Quantity] => 1
+            [UnitPrice] => 300.0000
+        )
+
+)
+\nArray
+(
+    [0] => Array
+        (
+            [id] => 41
+            [amount] => 300.0000
+        )
+
+)
+
+[2024-12-24 00:21:32] Payment Data: {
+    "InvoiceId": 4863050,
+    "InvoiceStatus": "Paid",
+    "InvoiceReference": "2024699444",
+    "CustomerReference": "87",
+    "CreatedDate": "2024-12-24T03:21:09.573",
+    "ExpiryDate": "December 27, 2024",
+    "ExpiryTime": "03:21:09.573",
+    "InvoiceValue": 24.29,
+    "Comments": null,
+    "CustomerName": "Anonymous",
+    "CustomerMobile": "+965",
+    "CustomerEmail": "ssss@gmail.com",
+    "UserDefinedField": null,
+    "InvoiceDisplayValue": "300.000 SR",
+    "DueDeposit": 23.14,
+    "DepositStatus": "Not Deposited",
+    "InvoiceItems": [
+        {
+            "ItemName": "Invoice ID 41",
+            "Quantity": 1,
+            "UnitPrice": 24.29,
+            "Weight": null,
+            "Width": null,
+            "Height": null,
+            "Depth": null
+        }
+    ],
+    "InvoiceTransactions": [
+        {
+            "TransactionDate": "2024-12-24T03:21:31.3866667",
+            "PaymentGateway": "MADA",
+            "ReferenceId": "435900184315",
+            "TrackId": "24-12-2024_2404839",
+            "TransactionId": "184315",
+            "PaymentId": "07074863050240483972",
+            "AuthorizationId": "184315",
+            "TransactionStatus": "Succss",
+            "TransationValue": "24.290",
+            "CustomerServiceCharge": "0.000",
+            "TotalServiceCharge": "1.000",
+            "DueValue": "24.290",
+            "PaidCurrency": "SR",
+            "PaidCurrencyValue": "300.000",
+            "VatAmount": "0.150",
+            "IpAddress": "41.101.99.97",
+            "Country": "Algeria",
+            "Currency": "KD",
+            "Error": null,
+            "CardNumber": "446404xxxxxx0007",
+            "ErrorCode": "",
+            "ECI": "05"
+        }
+    ],
+    "Suppliers": [],
+    "InvoiceError": "",
+    "focusTransaction": {
+        "TransactionDate": "2024-12-24T03:21:31.3866667",
+        "PaymentGateway": "MADA",
+        "ReferenceId": "435900184315",
+        "TrackId": "24-12-2024_2404839",
+        "TransactionId": "184315",
+        "PaymentId": "07074863050240483972",
+        "AuthorizationId": "184315",
+        "TransactionStatus": "Succss",
+        "TransationValue": "24.290",
+        "CustomerServiceCharge": "0.000",
+        "TotalServiceCharge": "1.000",
+        "DueValue": "24.290",
+        "PaidCurrency": "SR",
+        "PaidCurrencyValue": "300.000",
+        "VatAmount": "0.150",
+        "IpAddress": "41.101.99.97",
+        "Country": "Algeria",
+        "Currency": "KD",
+        "Error": null,
+        "CardNumber": "446404xxxxxx0007",
+        "ErrorCode": "",
+        "ECI": "05"
+    }
+}[2024-12-24 00:21:32] Extracted invoices: [
+    {
+        "id": 41,
+        "amount": 24.29
+    }
+]
+[2024-12-24 00:21:32] validate Data: 87300.000SRArray
+(
+    [0] => Array
+        (
+            [id] => 41
+            [amount] => 24.29
+        )
+
+)
+approved[2024-12-24 00:21:32] Extracted invoices: [
+    {
+        "id": 41,
+        "amount": 24.29
+    }
+]
+[2024-12-24 00:21:32] success Data: 87300.000SRArray
+(
+    [0] => Array
+        (
+            [id] => 41
+            [amount] => 24.29
+        )
+
+)
+approved[2024-12-24 03:39:25] Method Error: Array
+(
+    [0] => Array
+        (
+            [ItemName] => Invoice ID 43
+            [Quantity] => 1
+            [UnitPrice] => 30.9900
+        )
+
+)
+\nArray
+(
+    [0] => Array
+        (
+            [id] => 43
+            [amount] => 30.9900
+        )
+
+)
+
+[2024-12-24 03:41:03] Method Error: Array
+(
+    [0] => Array
+        (
+            [ItemName] => Invoice ID 43
+            [Quantity] => 1
+            [UnitPrice] => 30.9900
+        )
+
+)
+\nArray
+(
+    [0] => Array
+        (
+            [id] => 43
+            [amount] => 30.9900
+        )
+
+)
+
+[2024-12-24 03:47:00] Method Error: Array
+(
+    [0] => Array
+        (
+            [ItemName] => Invoice ID 43
+            [Quantity] => 1
+            [UnitPrice] => 30.99
+        )
+
+)
+\nArray
+(
+    [0] => Array
+        (
+            [id] => 43
+            [amount] => 30.99
+        )
+
+)
+
+[2024-12-24 03:48:35] Payment Data: {
+    "InvoiceId": 4863871,
+    "InvoiceStatus": "Paid",
+    "InvoiceReference": "2024699499",
+    "CustomerReference": "90",
+    "CreatedDate": "2024-12-24T06:47:01.19",
+    "ExpiryDate": "December 27, 2024",
+    "ExpiryTime": "06:47:01.190",
+    "InvoiceValue": 9.565,
+    "Comments": null,
+    "CustomerName": "Anonymous",
+    "CustomerMobile": "+965",
+    "CustomerEmail": "try@hotmail.com",
+    "UserDefinedField": null,
+    "InvoiceDisplayValue": "30.990 USD",
+    "DueDeposit": 8.42,
+    "DepositStatus": "Not Deposited",
+    "InvoiceItems": [
+        {
+            "ItemName": "Invoice ID 43",
+            "Quantity": 1,
+            "UnitPrice": 9.565,
+            "Weight": null,
+            "Width": null,
+            "Height": null,
+            "Depth": null
+        }
+    ],
+    "InvoiceTransactions": [
+        {
+            "TransactionDate": "2024-12-24T06:48:34.67",
+            "PaymentGateway": "MADA",
+            "ReferenceId": "435903188555",
+            "TrackId": "24-12-2024_2404926",
+            "TransactionId": "188555",
+            "PaymentId": "07074863871240492673",
+            "AuthorizationId": "188555",
+            "TransactionStatus": "Succss",
+            "TransationValue": "9.565",
+            "CustomerServiceCharge": "0.000",
+            "TotalServiceCharge": "1.000",
+            "DueValue": "9.570",
+            "PaidCurrency": "SR",
+            "PaidCurrencyValue": "118.200",
+            "VatAmount": "0.150",
+            "IpAddress": "188.51.42.6",
+            "Country": "Saudi Arabia",
+            "Currency": "KD",
+            "Error": null,
+            "CardNumber": "446404xxxxxx0007",
+            "ErrorCode": "",
+            "ECI": "05"
+        }
+    ],
+    "Suppliers": [],
+    "InvoiceError": "",
+    "focusTransaction": {
+        "TransactionDate": "2024-12-24T06:48:34.67",
+        "PaymentGateway": "MADA",
+        "ReferenceId": "435903188555",
+        "TrackId": "24-12-2024_2404926",
+        "TransactionId": "188555",
+        "PaymentId": "07074863871240492673",
+        "AuthorizationId": "188555",
+        "TransactionStatus": "Succss",
+        "TransationValue": "9.565",
+        "CustomerServiceCharge": "0.000",
+        "TotalServiceCharge": "1.000",
+        "DueValue": "9.570",
+        "PaidCurrency": "SR",
+        "PaidCurrencyValue": "118.200",
+        "VatAmount": "0.150",
+        "IpAddress": "188.51.42.6",
+        "Country": "Saudi Arabia",
+        "Currency": "KD",
+        "Error": null,
+        "CardNumber": "446404xxxxxx0007",
+        "ErrorCode": "",
+        "ECI": "05"
+    }
+}[2024-12-24 03:48:35] Extracted invoices: [
+    {
+        "id": 43,
+        "amount": 9.565
+    }
+]
+[2024-12-24 03:48:35] validate Data: 90118.200SRArray
+(
+    [0] => Array
+        (
+            [id] => 43
+            [amount] => 9.565
+        )
+
+)
+approved[2024-12-24 03:48:36] Extracted invoices: [
+    {
+        "id": 43,
+        "amount": 9.565
+    }
+]
+[2024-12-24 03:48:36] success Data: 90118.200SRArray
+(
+    [0] => Array
+        (
+            [id] => 43
+            [amount] => 9.565
+        )
+
+)
+approved[2024-12-24 03:55:07] Method Error: Array
+(
+    [0] => Array
+        (
+            [ItemName] => Invoice ID 44
+            [Quantity] => 1
+            [UnitPrice] => 20.0000
+        )
+
+)
+\nArray
+(
+    [0] => Array
+        (
+            [id] => 44
+            [amount] => 20.0000
+        )
+
+)
+
+[2024-12-24 03:56:23] Payment Data: {
+    "InvoiceId": 4863913,
+    "InvoiceStatus": "Paid",
+    "InvoiceReference": "2024699511",
+    "CustomerReference": "91",
+    "CreatedDate": "2024-12-24T06:55:08.427",
+    "ExpiryDate": "December 27, 2024",
+    "ExpiryTime": "06:55:08.427",
+    "InvoiceValue": 6.173,
+    "Comments": null,
+    "CustomerName": "Anonymous",
+    "CustomerMobile": "+965",
+    "CustomerEmail": "trail@hotmail.com",
+    "UserDefinedField": null,
+    "InvoiceDisplayValue": "20.000 USD",
+    "DueDeposit": 5.03,
+    "DepositStatus": "Not Deposited",
+    "InvoiceItems": [
+        {
+            "ItemName": "Invoice ID 44",
+            "Quantity": 1,
+            "UnitPrice": 6.173,
+            "Weight": null,
+            "Width": null,
+            "Height": null,
+            "Depth": null
+        }
+    ],
+    "InvoiceTransactions": [
+        {
+            "TransactionDate": "2024-12-24T06:56:22.1266667",
+            "PaymentGateway": "MADA",
+            "ReferenceId": "435903189565",
+            "TrackId": "24-12-2024_2404927",
+            "TransactionId": "189565",
+            "PaymentId": "07074863913240492773",
+            "AuthorizationId": "189565",
+            "TransactionStatus": "Succss",
+            "TransationValue": "6.173",
+            "CustomerServiceCharge": "0.000",
+            "TotalServiceCharge": "1.000",
+            "DueValue": "6.180",
+            "PaidCurrency": "SR",
+            "PaidCurrencyValue": "76.330",
+            "VatAmount": "0.150",
+            "IpAddress": "188.51.42.6",
+            "Country": "Saudi Arabia",
+            "Currency": "KD",
+            "Error": null,
+            "CardNumber": "446404xxxxxx0007",
+            "ErrorCode": "",
+            "ECI": "05"
+        }
+    ],
+    "Suppliers": [],
+    "InvoiceError": "",
+    "focusTransaction": {
+        "TransactionDate": "2024-12-24T06:56:22.1266667",
+        "PaymentGateway": "MADA",
+        "ReferenceId": "435903189565",
+        "TrackId": "24-12-2024_2404927",
+        "TransactionId": "189565",
+        "PaymentId": "07074863913240492773",
+        "AuthorizationId": "189565",
+        "TransactionStatus": "Succss",
+        "TransationValue": "6.173",
+        "CustomerServiceCharge": "0.000",
+        "TotalServiceCharge": "1.000",
+        "DueValue": "6.180",
+        "PaidCurrency": "SR",
+        "PaidCurrencyValue": "76.330",
+        "VatAmount": "0.150",
+        "IpAddress": "188.51.42.6",
+        "Country": "Saudi Arabia",
+        "Currency": "KD",
+        "Error": null,
+        "CardNumber": "446404xxxxxx0007",
+        "ErrorCode": "",
+        "ECI": "05"
+    }
+}[2024-12-24 03:56:23] Extracted invoices: [
+    {
+        "id": 44,
+        "amount": 6.173
+    }
+]
+[2024-12-24 03:56:23] validate Data: 9176.330SRArray
+(
+    [0] => Array
+        (
+            [id] => 44
+            [amount] => 6.173
+        )
+
+)
+approved[2024-12-24 03:56:23] Extracted invoices: [
+    {
+        "id": 44,
+        "amount": 6.173
+    }
+]
+[2024-12-24 03:56:23] success Data: 9176.330SRArray
+(
+    [0] => Array
+        (
+            [id] => 44
+            [amount] => 6.173
+        )
+
+)
+approved[2024-12-24 03:59:46] Method Error: Array
+(
+    [0] => Array
+        (
+            [ItemName] => Invoice ID 44
+            [Quantity] => 1
+            [UnitPrice] => 13.83
+        )
+
+)
+\nArray
+(
+    [0] => Array
+        (
+            [id] => 44
+            [amount] => 13.83
+        )
+
+)
+
+[2024-12-24 04:00:11] Method Error: Array
+(
+    [0] => Array
+        (
+            [ItemName] => Invoice ID 44
+            [Quantity] => 1
+            [UnitPrice] => 0.00
+        )
+
+)
+\nArray
+(
+    [0] => Array
+        (
+            [id] => 44
+            [amount] => 0.00
+        )
+
+)
+
+[2024-12-24 04:00:12] Method Error: InvoiceValue: Invalid Unit Price!
+[2024-12-24 04:00:12] Method Error: InvoiceValue: Invalid Unit Price!
+[2024-12-24 04:00:12] Method Error: InvoiceValue: Invalid Unit Price!
+[2024-12-24 04:00:12] Method Error: InvoiceValue: Invalid Unit Price!
+[2024-12-24 04:00:12] Method Error: InvoiceValue: Invalid Unit Price!
+[2024-12-24 04:00:13] Method Error: InvoiceValue: Invalid Unit Price!
+[2024-12-24 04:00:13] Method Error: InvoiceValue: Invalid Unit Price!
+[2024-12-24 04:00:13] Method Error: InvoiceValue: Invalid Unit Price!
+[2024-12-24 04:00:13] Method Error: InvoiceValue: Invalid Unit Price!
+[2024-12-24 04:00:14] Method Error: InvoiceValue: Invalid Unit Price!
+[2024-12-24 04:00:14] Method Error: InvoiceValue: Invalid Unit Price!
+[2024-12-24 04:00:14] Method Error: InvoiceValue: Invalid Unit Price!
+[2024-12-24 04:04:37] Method Error: Array
+(
+    [0] => Array
+        (
+            [ItemName] => Invoice ID 45
+            [Quantity] => 1
+            [UnitPrice] => 20.0000
+        )
+
+)
+\nArray
+(
+    [0] => Array
+        (
+            [id] => 45
+            [amount] => 20.0000
+        )
+
+)
+
+[2024-12-24 04:05:25] Payment Data: {
+    "InvoiceId": 4863977,
+    "InvoiceStatus": "Paid",
+    "InvoiceReference": "2024699535",
+    "CustomerReference": "91",
+    "CreatedDate": "2024-12-24T07:04:37.903",
+    "ExpiryDate": "December 27, 2024",
+    "ExpiryTime": "07:04:37.903",
+    "InvoiceValue": 6.173,
+    "Comments": null,
+    "CustomerName": "Anonymous",
+    "CustomerMobile": "+965",
+    "CustomerEmail": "trail@hotmail.com",
+    "UserDefinedField": null,
+    "InvoiceDisplayValue": "20.000 USD",
+    "DueDeposit": 5.03,
+    "DepositStatus": "Not Deposited",
+    "InvoiceItems": [
+        {
+            "ItemName": "Invoice ID 45",
+            "Quantity": 1,
+            "UnitPrice": 6.173,
+            "Weight": null,
+            "Width": null,
+            "Height": null,
+            "Depth": null
+        }
+    ],
+    "InvoiceTransactions": [
+        {
+            "TransactionDate": "2024-12-24T07:05:24.2133333",
+            "PaymentGateway": "MADA",
+            "ReferenceId": "435904180136",
+            "TrackId": "24-12-2024_2404928",
+            "TransactionId": "180136",
+            "PaymentId": "07074863977240492874",
+            "AuthorizationId": "180136",
+            "TransactionStatus": "Succss",
+            "TransationValue": "6.173",
+            "CustomerServiceCharge": "0.000",
+            "TotalServiceCharge": "1.000",
+            "DueValue": "6.180",
+            "PaidCurrency": "SR",
+            "PaidCurrencyValue": "76.330",
+            "VatAmount": "0.150",
+            "IpAddress": "188.51.42.6",
+            "Country": "Saudi Arabia",
+            "Currency": "KD",
+            "Error": null,
+            "CardNumber": "446404xxxxxx0007",
+            "ErrorCode": "",
+            "ECI": "05"
+        }
+    ],
+    "Suppliers": [],
+    "InvoiceError": "",
+    "focusTransaction": {
+        "TransactionDate": "2024-12-24T07:05:24.2133333",
+        "PaymentGateway": "MADA",
+        "ReferenceId": "435904180136",
+        "TrackId": "24-12-2024_2404928",
+        "TransactionId": "180136",
+        "PaymentId": "07074863977240492874",
+        "AuthorizationId": "180136",
+        "TransactionStatus": "Succss",
+        "TransationValue": "6.173",
+        "CustomerServiceCharge": "0.000",
+        "TotalServiceCharge": "1.000",
+        "DueValue": "6.180",
+        "PaidCurrency": "SR",
+        "PaidCurrencyValue": "76.330",
+        "VatAmount": "0.150",
+        "IpAddress": "188.51.42.6",
+        "Country": "Saudi Arabia",
+        "Currency": "KD",
+        "Error": null,
+        "CardNumber": "446404xxxxxx0007",
+        "ErrorCode": "",
+        "ECI": "05"
+    }
+}[2024-12-24 04:05:25] Extracted invoices: [
+    {
+        "id": 45,
+        "amount": 6.173
+    }
+]
+[2024-12-24 04:05:25] validate Data: 9176.330SRArray
+(
+    [0] => Array
+        (
+            [id] => 45
+            [amount] => 6.173
+        )
+
+)
+approved[2024-12-24 04:05:25] Extracted invoices: [
+    {
+        "id": 45,
+        "amount": 6.173
+    }
+]
+[2024-12-24 04:05:25] success Data: 9176.330SRArray
+(
+    [0] => Array
+        (
+            [id] => 45
+            [amount] => 6.173
+        )
+
+)
+approved[2024-12-24 06:17:49] Method Error: Array
+(
+    [0] => Array
+        (
+            [ItemName] => Invoice ID 46
+            [Quantity] => 1
+            [UnitPrice] => 240.0000
+        )
+
+)
+\nArray
+(
+    [0] => Array
+        (
+            [id] => 46
+            [amount] => 240.0000
+        )
+
+)
+
+[2024-12-24 06:21:06] Method Error: Array
+(
+    [0] => Array
+        (
+            [ItemName] => Invoice ID 46
+            [Quantity] => 1
+            [UnitPrice] => 240.0000
+        )
+
+)
+\nArray
+(
+    [0] => Array
+        (
+            [id] => 46
+            [amount] => 240.0000
+        )
+
+)
+
+[2024-12-24 06:26:22] Payment Data: {
+    "InvoiceId": 4864653,
+    "InvoiceStatus": "Failed",
+    "InvoiceReference": "2024699632",
+    "CustomerReference": "92",
+    "CreatedDate": "2024-12-24T09:21:07.713",
+    "ExpiryDate": "December 27, 2024",
+    "ExpiryTime": "09:21:07.713",
+    "InvoiceValue": 74.074,
+    "Comments": null,
+    "CustomerName": "Anonymous",
+    "CustomerMobile": "+965",
+    "CustomerEmail": "mater@hotmail.com",
+    "UserDefinedField": null,
+    "InvoiceDisplayValue": "240.000 USD",
+    "DueDeposit": 0,
+    "DepositStatus": "Not Deposited",
+    "InvoiceItems": [
+        {
+            "ItemName": "Invoice ID 46",
+            "Quantity": 1,
+            "UnitPrice": 74.074,
+            "Weight": null,
+            "Width": null,
+            "Height": null,
+            "Depth": null
+        }
+    ],
+    "InvoiceTransactions": [
+        {
+            "TransactionDate": "2024-12-24T09:22:37.7566667",
+            "PaymentGateway": "VISA\/MASTER",
+            "ReferenceId": "07074864653240501172",
+            "TrackId": "24-12-2024_2405011",
+            "TransactionId": "07074864653240501172",
+            "PaymentId": "07074864653240501172",
+            "AuthorizationId": "07074864653240501172",
+            "TransactionStatus": "Failed",
+            "TransationValue": "74.074",
+            "CustomerServiceCharge": "0.000",
+            "TotalServiceCharge": "0.175",
+            "DueValue": "74.080",
+            "PaidCurrency": "KD",
+            "PaidCurrencyValue": "74.080",
+            "VatAmount": "0.026",
+            "IpAddress": "188.51.42.6",
+            "Country": "Saudi Arabia",
+            "Currency": "KD",
+            "Error": "DECLINED : Do not honour",
+            "CardNumber": "450875xxxxxx1019",
+            "ErrorCode": "MF002",
+            "ECI": "05"
+        }
+    ],
+    "Suppliers": [],
+    "InvoiceError": "DECLINED : Do not honour.",
+    "focusTransaction": {
+        "TransactionDate": "2024-12-24T09:22:37.7566667",
+        "PaymentGateway": "VISA\/MASTER",
+        "ReferenceId": "07074864653240501172",
+        "TrackId": "24-12-2024_2405011",
+        "TransactionId": "07074864653240501172",
+        "PaymentId": "07074864653240501172",
+        "AuthorizationId": "07074864653240501172",
+        "TransactionStatus": "Failed",
+        "TransationValue": "74.074",
+        "CustomerServiceCharge": "0.000",
+        "TotalServiceCharge": "0.175",
+        "DueValue": "74.080",
+        "PaidCurrency": "KD",
+        "PaidCurrencyValue": "74.080",
+        "VatAmount": "0.026",
+        "IpAddress": "188.51.42.6",
+        "Country": "Saudi Arabia",
+        "Currency": "KD",
+        "Error": "DECLINED : Do not honour",
+        "CardNumber": "450875xxxxxx1019",
+        "ErrorCode": "MF002",
+        "ECI": "05"
+    }
+}[2024-12-24 06:26:22] Extracted invoices: [
+    {
+        "id": 46,
+        "amount": 74.074
+    }
+]
+[2024-12-24 06:26:22] validate Data: 9274.080KDArray
+(
+    [0] => Array
+        (
+            [id] => 46
+            [amount] => 74.074
+        )
+
+)
+declined[2024-12-24 06:26:22] Extracted invoices: [
+    {
+        "id": 46,
+        "amount": 74.074
+    }
+]
+[2024-12-24 06:26:22] success Data: 9274.080KDArray
+(
+    [0] => Array
+        (
+            [id] => 46
+            [amount] => 74.074
+        )
+
+)
+declined[2024-12-24 06:28:25] Method Error: Array
+(
+    [0] => Array
+        (
+            [ItemName] => Invoice ID 46
+            [Quantity] => 1
+            [UnitPrice] => 240.00
+        )
+
+)
+\nArray
+(
+    [0] => Array
+        (
+            [id] => 46
+            [amount] => 240.00
+        )
+
+)
+
+[2024-12-24 06:34:54] Method Error: Array
+(
+    [0] => Array
+        (
+            [ItemName] => Invoice ID 46
+            [Quantity] => 1
+            [UnitPrice] => 240.00
+        )
+
+)
+\nArray
+(
+    [0] => Array
+        (
+            [id] => 46
+            [amount] => 240.00
+        )
+
+)
+
+[2024-12-24 06:37:18] Payment Data: {
+    "InvoiceId": 4864748,
+    "InvoiceStatus": "Failed",
+    "InvoiceReference": "2024699660",
+    "CustomerReference": "92",
+    "CreatedDate": "2024-12-24T09:34:55.76",
+    "ExpiryDate": "December 27, 2024",
+    "ExpiryTime": "09:34:55.760",
+    "InvoiceValue": 74.074,
+    "Comments": null,
+    "CustomerName": "Anonymous",
+    "CustomerMobile": "+965",
+    "CustomerEmail": "mater@hotmail.com",
+    "UserDefinedField": null,
+    "InvoiceDisplayValue": "240.000 USD",
+    "DueDeposit": 0,
+    "DepositStatus": "Not Deposited",
+    "InvoiceItems": [
+        {
+            "ItemName": "Invoice ID 46",
+            "Quantity": 1,
+            "UnitPrice": 74.074,
+            "Weight": null,
+            "Width": null,
+            "Height": null,
+            "Depth": null
+        }
+    ],
+    "InvoiceTransactions": [
+        {
+            "TransactionDate": "2024-12-24T09:35:12.8733333",
+            "PaymentGateway": "VISA\/MASTER",
+            "ReferenceId": "07074864748240502072",
+            "TrackId": "24-12-2024_2405020",
+            "TransactionId": "07074864748240502072",
+            "PaymentId": "07074864748240502072",
+            "AuthorizationId": "07074864748240502072",
+            "TransactionStatus": "Failed",
+            "TransationValue": "74.074",
+            "CustomerServiceCharge": "0.000",
+            "TotalServiceCharge": "0.175",
+            "DueValue": "74.080",
+            "PaidCurrency": "KD",
+            "PaidCurrencyValue": "74.080",
+            "VatAmount": "0.026",
+            "IpAddress": "188.51.42.6",
+            "Country": "Saudi Arabia",
+            "Currency": "KD",
+            "Error": "DECLINED : Do not honour",
+            "CardNumber": "450875xxxxxx1019",
+            "ErrorCode": "MF002",
+            "ECI": "05"
+        }
+    ],
+    "Suppliers": [],
+    "InvoiceError": "DECLINED : Do not honour.",
+    "focusTransaction": {
+        "TransactionDate": "2024-12-24T09:35:12.8733333",
+        "PaymentGateway": "VISA\/MASTER",
+        "ReferenceId": "07074864748240502072",
+        "TrackId": "24-12-2024_2405020",
+        "TransactionId": "07074864748240502072",
+        "PaymentId": "07074864748240502072",
+        "AuthorizationId": "07074864748240502072",
+        "TransactionStatus": "Failed",
+        "TransationValue": "74.074",
+        "CustomerServiceCharge": "0.000",
+        "TotalServiceCharge": "0.175",
+        "DueValue": "74.080",
+        "PaidCurrency": "KD",
+        "PaidCurrencyValue": "74.080",
+        "VatAmount": "0.026",
+        "IpAddress": "188.51.42.6",
+        "Country": "Saudi Arabia",
+        "Currency": "KD",
+        "Error": "DECLINED : Do not honour",
+        "CardNumber": "450875xxxxxx1019",
+        "ErrorCode": "MF002",
+        "ECI": "05"
+    }
+}[2024-12-24 06:37:18] Extracted invoices: [
+    {
+        "id": 46,
+        "amount": 74.074
+    }
+]
+[2024-12-24 06:37:18] validate Data: 9274.080KDArray
+(
+    [0] => Array
+        (
+            [id] => 46
+            [amount] => 74.074
+        )
+
+)
+declined[2024-12-24 06:37:19] Extracted invoices: [
+    {
+        "id": 46,
+        "amount": 74.074
+    }
+]
+[2024-12-24 06:37:19] success Data: 9274.080KDArray
+(
+    [0] => Array
+        (
+            [id] => 46
+            [amount] => 74.074
+        )
+
+)
+declined[2024-12-24 06:47:55] Method Error: Array
+(
+    [0] => Array
+        (
+            [ItemName] => Invoice ID 46
+            [Quantity] => 1
+            [UnitPrice] => 240.00
+        )
+
+)
+\nArray
+(
+    [0] => Array
+        (
+            [id] => 46
+            [amount] => 240.00
+        )
+
+)
+
+[2024-12-24 06:48:31] Method Error: Array
+(
+    [0] => Array
+        (
+            [ItemName] => Invoice ID 46
+            [Quantity] => 1
+            [UnitPrice] => 240.00
+        )
+
+)
+\nArray
+(
+    [0] => Array
+        (
+            [id] => 46
+            [amount] => 240.00
+        )
+
+)
+
+[2024-12-24 06:52:44] Method Error: Array
+(
+    [0] => Array
+        (
+            [ItemName] => Invoice ID 46
+            [Quantity] => 1
+            [UnitPrice] => 240.00
+        )
+
+)
+\nArray
+(
+    [0] => Array
+        (
+            [id] => 46
+            [amount] => 240.00
+        )
+
+)
+
+[2024-12-24 06:53:18] Method Error: Array
+(
+    [0] => Array
+        (
+            [ItemName] => Invoice ID 46
+            [Quantity] => 1
+            [UnitPrice] => 240.00
+        )
+
+)
+\nArray
+(
+    [0] => Array
+        (
+            [id] => 46
+            [amount] => 240.00
+        )
+
+)
+
+[2024-12-24 06:53:46] Method Error: Array
+(
+    [0] => Array
+        (
+            [ItemName] => Invoice ID 46
+            [Quantity] => 1
+            [UnitPrice] => 240.00
+        )
+
+)
+\nArray
+(
+    [0] => Array
+        (
+            [id] => 46
+            [amount] => 240.00
+        )
+
+)
+
+[2024-12-24 06:55:50] Payment Data: {
+    "InvoiceId": 4864909,
+    "InvoiceStatus": "Failed",
+    "InvoiceReference": "2024699740",
+    "CustomerReference": "92",
+    "CreatedDate": "2024-12-24T09:53:47.913",
+    "ExpiryDate": "December 27, 2024",
+    "ExpiryTime": "09:53:47.913",
+    "InvoiceValue": 74.074,
+    "Comments": null,
+    "CustomerName": "Anonymous",
+    "CustomerMobile": "+965",
+    "CustomerEmail": "mater@hotmail.com",
+    "UserDefinedField": null,
+    "InvoiceDisplayValue": "240.000 USD",
+    "DueDeposit": 0,
+    "DepositStatus": "Not Deposited",
+    "InvoiceItems": [
+        {
+            "ItemName": "Invoice ID 46",
+            "Quantity": 1,
+            "UnitPrice": 74.074,
+            "Weight": null,
+            "Width": null,
+            "Height": null,
+            "Depth": null
+        }
+    ],
+    "InvoiceTransactions": [
+        {
+            "TransactionDate": "2024-12-24T09:54:11.6866667",
+            "PaymentGateway": "VISA\/MASTER",
+            "ReferenceId": "07074864909240504072",
+            "TrackId": "24-12-2024_2405040",
+            "TransactionId": "07074864909240504072",
+            "PaymentId": "07074864909240504072",
+            "AuthorizationId": "07074864909240504072",
+            "TransactionStatus": "Failed",
+            "TransationValue": "74.074",
+            "CustomerServiceCharge": "0.000",
+            "TotalServiceCharge": "0.175",
+            "DueValue": "74.080",
+            "PaidCurrency": "KD",
+            "PaidCurrencyValue": "74.080",
+            "VatAmount": "0.026",
+            "IpAddress": "188.51.42.6",
+            "Country": "Saudi Arabia",
+            "Currency": "KD",
+            "Error": "TIMED_OUT : Issuer or switch inoperative",
+            "CardNumber": "545721xxxxxx0019",
+            "ErrorCode": "MF003",
+            "ECI": "02"
+        }
+    ],
+    "Suppliers": [],
+    "InvoiceError": "TIMED_OUT : Issuer or switch inoperative.",
+    "focusTransaction": {
+        "TransactionDate": "2024-12-24T09:54:11.6866667",
+        "PaymentGateway": "VISA\/MASTER",
+        "ReferenceId": "07074864909240504072",
+        "TrackId": "24-12-2024_2405040",
+        "TransactionId": "07074864909240504072",
+        "PaymentId": "07074864909240504072",
+        "AuthorizationId": "07074864909240504072",
+        "TransactionStatus": "Failed",
+        "TransationValue": "74.074",
+        "CustomerServiceCharge": "0.000",
+        "TotalServiceCharge": "0.175",
+        "DueValue": "74.080",
+        "PaidCurrency": "KD",
+        "PaidCurrencyValue": "74.080",
+        "VatAmount": "0.026",
+        "IpAddress": "188.51.42.6",
+        "Country": "Saudi Arabia",
+        "Currency": "KD",
+        "Error": "TIMED_OUT : Issuer or switch inoperative",
+        "CardNumber": "545721xxxxxx0019",
+        "ErrorCode": "MF003",
+        "ECI": "02"
+    }
+}[2024-12-24 06:55:50] Extracted invoices: [
+    {
+        "id": 46,
+        "amount": 74.074
+    }
+]
+[2024-12-24 06:55:50] validate Data: 9274.080KDArray
+(
+    [0] => Array
+        (
+            [id] => 46
+            [amount] => 74.074
+        )
+
+)
+declined[2024-12-24 06:55:51] Extracted invoices: [
+    {
+        "id": 46,
+        "amount": 74.074
+    }
+]
+[2024-12-24 06:55:51] success Data: 9274.080KDArray
+(
+    [0] => Array
+        (
+            [id] => 46
+            [amount] => 74.074
+        )
+
+)
+declined[2024-12-24 06:56:36] Method Error: Array
+(
+    [0] => Array
+        (
+            [ItemName] => Invoice ID 46
+            [Quantity] => 1
+            [UnitPrice] => 240.00
+        )
+
+)
+\nArray
+(
+    [0] => Array
+        (
+            [id] => 46
+            [amount] => 240.00
+        )
+
+)
+
+[2024-12-24 06:58:53] Payment Data: {
+    "InvoiceId": 4864954,
+    "InvoiceStatus": "Failed",
+    "InvoiceReference": "2024699764",
+    "CustomerReference": "92",
+    "CreatedDate": "2024-12-24T09:56:40.547",
+    "ExpiryDate": "December 27, 2024",
+    "ExpiryTime": "09:56:40.547",
+    "InvoiceValue": 74.074,
+    "Comments": null,
+    "CustomerName": "Anonymous",
+    "CustomerMobile": "+965",
+    "CustomerEmail": "mater@hotmail.com",
+    "UserDefinedField": null,
+    "InvoiceDisplayValue": "240.000 USD",
+    "DueDeposit": 0,
+    "DepositStatus": "Not Deposited",
+    "InvoiceItems": [
+        {
+            "ItemName": "Invoice ID 46",
+            "Quantity": 1,
+            "UnitPrice": 74.074,
+            "Weight": null,
+            "Width": null,
+            "Height": null,
+            "Depth": null
+        }
+    ],
+    "InvoiceTransactions": [
+        {
+            "TransactionDate": "2024-12-24T09:56:49.54",
+            "PaymentGateway": "Benefit",
+            "ReferenceId": "435950000303",
+            "TrackId": "24-12-2024_2405042",
+            "TransactionId": "202435911728010",
+            "PaymentId": "07074864954240504272",
+            "AuthorizationId": "000000",
+            "TransactionStatus": "Failed",
+            "TransationValue": "74.074",
+            "CustomerServiceCharge": "0.000",
+            "TotalServiceCharge": "1.582",
+            "DueValue": "74.080",
+            "PaidCurrency": "BD",
+            "PaidCurrencyValue": "91.570",
+            "VatAmount": "0.237",
+            "IpAddress": "188.51.42.6",
+            "Country": "Saudi Arabia",
+            "Currency": "KD",
+            "Error": "Expired card",
+            "CardNumber": null,
+            "ErrorCode": "MF007",
+            "ECI": null
+        }
+    ],
+    "Suppliers": [],
+    "InvoiceError": "Expired card.",
+    "focusTransaction": {
+        "TransactionDate": "2024-12-24T09:56:49.54",
+        "PaymentGateway": "Benefit",
+        "ReferenceId": "435950000303",
+        "TrackId": "24-12-2024_2405042",
+        "TransactionId": "202435911728010",
+        "PaymentId": "07074864954240504272",
+        "AuthorizationId": "000000",
+        "TransactionStatus": "Failed",
+        "TransationValue": "74.074",
+        "CustomerServiceCharge": "0.000",
+        "TotalServiceCharge": "1.582",
+        "DueValue": "74.080",
+        "PaidCurrency": "BD",
+        "PaidCurrencyValue": "91.570",
+        "VatAmount": "0.237",
+        "IpAddress": "188.51.42.6",
+        "Country": "Saudi Arabia",
+        "Currency": "KD",
+        "Error": "Expired card",
+        "CardNumber": null,
+        "ErrorCode": "MF007",
+        "ECI": null
+    }
+}[2024-12-24 06:58:53] Extracted invoices: [
+    {
+        "id": 46,
+        "amount": 74.074
+    }
+]
+[2024-12-24 06:58:53] validate Data: 9291.570BDArray
+(
+    [0] => Array
+        (
+            [id] => 46
+            [amount] => 74.074
+        )
+
+)
+declined[2024-12-24 06:58:55] Payment Data: {
+    "InvoiceId": 4864954,
+    "InvoiceStatus": "Failed",
+    "InvoiceReference": "2024699764",
+    "CustomerReference": "92",
+    "CreatedDate": "2024-12-24T09:56:40.547",
+    "ExpiryDate": "December 27, 2024",
+    "ExpiryTime": "09:56:40.547",
+    "InvoiceValue": 74.074,
+    "Comments": null,
+    "CustomerName": "Anonymous",
+    "CustomerMobile": "+965",
+    "CustomerEmail": "mater@hotmail.com",
+    "UserDefinedField": null,
+    "InvoiceDisplayValue": "240.000 USD",
+    "DueDeposit": 0,
+    "DepositStatus": "Not Deposited",
+    "InvoiceItems": [
+        {
+            "ItemName": "Invoice ID 46",
+            "Quantity": 1,
+            "UnitPrice": 74.074,
+            "Weight": null,
+            "Width": null,
+            "Height": null,
+            "Depth": null
+        }
+    ],
+    "InvoiceTransactions": [
+        {
+            "TransactionDate": "2024-12-24T09:56:49.54",
+            "PaymentGateway": "Benefit",
+            "ReferenceId": "435950000303",
+            "TrackId": "24-12-2024_2405042",
+            "TransactionId": "202435911728010",
+            "PaymentId": "07074864954240504272",
+            "AuthorizationId": "000000",
+            "TransactionStatus": "Failed",
+            "TransationValue": "74.074",
+            "CustomerServiceCharge": "0.000",
+            "TotalServiceCharge": "1.582",
+            "DueValue": "74.080",
+            "PaidCurrency": "BD",
+            "PaidCurrencyValue": "91.570",
+            "VatAmount": "0.237",
+            "IpAddress": "188.51.42.6",
+            "Country": "Saudi Arabia",
+            "Currency": "KD",
+            "Error": "Expired card",
+            "CardNumber": null,
+            "ErrorCode": "MF007",
+            "ECI": null
+        }
+    ],
+    "Suppliers": [],
+    "InvoiceError": "Expired card.",
+    "focusTransaction": {
+        "TransactionDate": "2024-12-24T09:56:49.54",
+        "PaymentGateway": "Benefit",
+        "ReferenceId": "435950000303",
+        "TrackId": "24-12-2024_2405042",
+        "TransactionId": "202435911728010",
+        "PaymentId": "07074864954240504272",
+        "AuthorizationId": "000000",
+        "TransactionStatus": "Failed",
+        "TransationValue": "74.074",
+        "CustomerServiceCharge": "0.000",
+        "TotalServiceCharge": "1.582",
+        "DueValue": "74.080",
+        "PaidCurrency": "BD",
+        "PaidCurrencyValue": "91.570",
+        "VatAmount": "0.237",
+        "IpAddress": "188.51.42.6",
+        "Country": "Saudi Arabia",
+        "Currency": "KD",
+        "Error": "Expired card",
+        "CardNumber": null,
+        "ErrorCode": "MF007",
+        "ECI": null
+    }
+}[2024-12-24 06:58:55] Extracted invoices: [
+    {
+        "id": 46,
+        "amount": 74.074
+    }
+]
+[2024-12-24 06:58:55] validate Data: 9291.570BDArray
+(
+    [0] => Array
+        (
+            [id] => 46
+            [amount] => 74.074
+        )
+
+)
+declined[2024-12-24 06:58:55] Extracted invoices: [
+    {
+        "id": 46,
+        "amount": 74.074
+    }
+]
+[2024-12-24 06:58:55] success Data: 9291.570BDArray
+(
+    [0] => Array
+        (
+            [id] => 46
+            [amount] => 74.074
+        )
+
+)
+declined[2024-12-24 06:59:23] Method Error: Array
+(
+    [0] => Array
+        (
+            [ItemName] => Invoice ID 46
+            [Quantity] => 1
+            [UnitPrice] => 240.00
+        )
+
+)
+\nArray
+(
+    [0] => Array
+        (
+            [id] => 46
+            [amount] => 240.00
+        )
+
+)
+
+[2024-12-24 06:59:56] Method Error: Array
+(
+    [0] => Array
+        (
+            [ItemName] => Invoice ID 46
+            [Quantity] => 1
+            [UnitPrice] => 240.00
+        )
+
+)
+\nArray
+(
+    [0] => Array
+        (
+            [id] => 46
+            [amount] => 240.00
+        )
+
+)
+
+[2024-12-24 07:01:20] Payment Data: {
+    "InvoiceId": 4865001,
+    "InvoiceStatus": "Failed",
+    "InvoiceReference": "2024699791",
+    "CustomerReference": "92",
+    "CreatedDate": "2024-12-24T10:00:00.61",
+    "ExpiryDate": "December 27, 2024",
+    "ExpiryTime": "10:00:00.610",
+    "InvoiceValue": 74.074,
+    "Comments": null,
+    "CustomerName": "Anonymous",
+    "CustomerMobile": "+965",
+    "CustomerEmail": "mater@hotmail.com",
+    "UserDefinedField": null,
+    "InvoiceDisplayValue": "240.000 USD",
+    "DueDeposit": 0,
+    "DepositStatus": "Not Deposited",
+    "InvoiceItems": [
+        {
+            "ItemName": "Invoice ID 46",
+            "Quantity": 1,
+            "UnitPrice": 74.074,
+            "Weight": null,
+            "Width": null,
+            "Height": null,
+            "Depth": null
+        }
+    ],
+    "InvoiceTransactions": [
+        {
+            "TransactionDate": "2024-12-24T10:00:09.2433333",
+            "PaymentGateway": "Benefit",
+            "ReferenceId": "435950000305",
+            "TrackId": "24-12-2024_2405049",
+            "TransactionId": "202435988171497",
+            "PaymentId": "07074865001240504972",
+            "AuthorizationId": "000000",
+            "TransactionStatus": "Failed",
+            "TransationValue": "74.074",
+            "CustomerServiceCharge": "0.000",
+            "TotalServiceCharge": "1.582",
+            "DueValue": "74.080",
+            "PaidCurrency": "BD",
+            "PaidCurrencyValue": "91.570",
+            "VatAmount": "0.237",
+            "IpAddress": "188.51.42.6",
+            "Country": "Saudi Arabia",
+            "Currency": "KD",
+            "Error": "Refer to Issuer",
+            "CardNumber": null,
+            "ErrorCode": "MF020",
+            "ECI": null
+        }
+    ],
+    "Suppliers": [],
+    "InvoiceError": "Refer to Issuer.",
+    "focusTransaction": {
+        "TransactionDate": "2024-12-24T10:00:09.2433333",
+        "PaymentGateway": "Benefit",
+        "ReferenceId": "435950000305",
+        "TrackId": "24-12-2024_2405049",
+        "TransactionId": "202435988171497",
+        "PaymentId": "07074865001240504972",
+        "AuthorizationId": "000000",
+        "TransactionStatus": "Failed",
+        "TransationValue": "74.074",
+        "CustomerServiceCharge": "0.000",
+        "TotalServiceCharge": "1.582",
+        "DueValue": "74.080",
+        "PaidCurrency": "BD",
+        "PaidCurrencyValue": "91.570",
+        "VatAmount": "0.237",
+        "IpAddress": "188.51.42.6",
+        "Country": "Saudi Arabia",
+        "Currency": "KD",
+        "Error": "Refer to Issuer",
+        "CardNumber": null,
+        "ErrorCode": "MF020",
+        "ECI": null
+    }
+}[2024-12-24 07:01:20] Extracted invoices: [
+    {
+        "id": 46,
+        "amount": 74.074
+    }
+]
+[2024-12-24 07:01:20] validate Data: 9291.570BDArray
+(
+    [0] => Array
+        (
+            [id] => 46
+            [amount] => 74.074
+        )
+
+)
+declined[2024-12-24 07:01:22] Payment Data: {
+    "InvoiceId": 4865001,
+    "InvoiceStatus": "Failed",
+    "InvoiceReference": "2024699791",
+    "CustomerReference": "92",
+    "CreatedDate": "2024-12-24T10:00:00.61",
+    "ExpiryDate": "December 27, 2024",
+    "ExpiryTime": "10:00:00.610",
+    "InvoiceValue": 74.074,
+    "Comments": null,
+    "CustomerName": "Anonymous",
+    "CustomerMobile": "+965",
+    "CustomerEmail": "mater@hotmail.com",
+    "UserDefinedField": null,
+    "InvoiceDisplayValue": "240.000 USD",
+    "DueDeposit": 0,
+    "DepositStatus": "Not Deposited",
+    "InvoiceItems": [
+        {
+            "ItemName": "Invoice ID 46",
+            "Quantity": 1,
+            "UnitPrice": 74.074,
+            "Weight": null,
+            "Width": null,
+            "Height": null,
+            "Depth": null
+        }
+    ],
+    "InvoiceTransactions": [
+        {
+            "TransactionDate": "2024-12-24T10:00:09.2433333",
+            "PaymentGateway": "Benefit",
+            "ReferenceId": "435950000305",
+            "TrackId": "24-12-2024_2405049",
+            "TransactionId": "202435988171497",
+            "PaymentId": "07074865001240504972",
+            "AuthorizationId": "000000",
+            "TransactionStatus": "Failed",
+            "TransationValue": "74.074",
+            "CustomerServiceCharge": "0.000",
+            "TotalServiceCharge": "1.582",
+            "DueValue": "74.080",
+            "PaidCurrency": "BD",
+            "PaidCurrencyValue": "91.570",
+            "VatAmount": "0.237",
+            "IpAddress": "188.51.42.6",
+            "Country": "Saudi Arabia",
+            "Currency": "KD",
+            "Error": "Refer to Issuer",
+            "CardNumber": null,
+            "ErrorCode": "MF020",
+            "ECI": null
+        }
+    ],
+    "Suppliers": [],
+    "InvoiceError": "Refer to Issuer.",
+    "focusTransaction": {
+        "TransactionDate": "2024-12-24T10:00:09.2433333",
+        "PaymentGateway": "Benefit",
+        "ReferenceId": "435950000305",
+        "TrackId": "24-12-2024_2405049",
+        "TransactionId": "202435988171497",
+        "PaymentId": "07074865001240504972",
+        "AuthorizationId": "000000",
+        "TransactionStatus": "Failed",
+        "TransationValue": "74.074",
+        "CustomerServiceCharge": "0.000",
+        "TotalServiceCharge": "1.582",
+        "DueValue": "74.080",
+        "PaidCurrency": "BD",
+        "PaidCurrencyValue": "91.570",
+        "VatAmount": "0.237",
+        "IpAddress": "188.51.42.6",
+        "Country": "Saudi Arabia",
+        "Currency": "KD",
+        "Error": "Refer to Issuer",
+        "CardNumber": null,
+        "ErrorCode": "MF020",
+        "ECI": null
+    }
+}[2024-12-24 07:01:22] Extracted invoices: [
+    {
+        "id": 46,
+        "amount": 74.074
+    }
+]
+[2024-12-24 07:01:22] validate Data: 9291.570BDArray
+(
+    [0] => Array
+        (
+            [id] => 46
+            [amount] => 74.074
+        )
+
+)
+declined[2024-12-24 07:01:22] Extracted invoices: [
+    {
+        "id": 46,
+        "amount": 74.074
+    }
+]
+[2024-12-24 07:01:22] success Data: 9291.570BDArray
+(
+    [0] => Array
+        (
+            [id] => 46
+            [amount] => 74.074
+        )
+
+)
+declined[2024-12-24 07:01:37] Method Error: Array
+(
+    [0] => Array
+        (
+            [ItemName] => Invoice ID 46
+            [Quantity] => 1
+            [UnitPrice] => 240.00
+        )
+
+)
+\nArray
+(
+    [0] => Array
+        (
+            [id] => 46
+            [amount] => 240.00
+        )
+
+)
+
+[2024-12-24 07:03:08] Payment Data: {
+    "InvoiceId": 4865028,
+    "InvoiceStatus": "Failed",
+    "InvoiceReference": "2024699807",
+    "CustomerReference": "92",
+    "CreatedDate": "2024-12-24T10:01:40.037",
+    "ExpiryDate": "December 27, 2024",
+    "ExpiryTime": "10:01:40.037",
+    "InvoiceValue": 74.074,
+    "Comments": null,
+    "CustomerName": "Anonymous",
+    "CustomerMobile": "+965",
+    "CustomerEmail": "mater@hotmail.com",
+    "UserDefinedField": null,
+    "InvoiceDisplayValue": "240.000 USD",
+    "DueDeposit": 0,
+    "DepositStatus": "Not Deposited",
+    "InvoiceItems": [
+        {
+            "ItemName": "Invoice ID 46",
+            "Quantity": 1,
+            "UnitPrice": 74.074,
+            "Weight": null,
+            "Width": null,
+            "Height": null,
+            "Depth": null
+        }
+    ],
+    "InvoiceTransactions": [
+        {
+            "TransactionDate": "2024-12-24T10:01:49.04",
+            "PaymentGateway": "AMEX",
+            "ReferenceId": "07074865028240505172",
+            "TrackId": "24-12-2024_2405051",
+            "TransactionId": "07074865028240505172",
+            "PaymentId": "07074865028240505172",
+            "AuthorizationId": "07074865028240505172",
+            "TransactionStatus": "Failed",
+            "TransationValue": "74.074",
+            "CustomerServiceCharge": "1.952",
+            "TotalServiceCharge": "1.952",
+            "DueValue": "76.030",
+            "PaidCurrency": "USD",
+            "PaidCurrencyValue": "246.330",
+            "VatAmount": "0.293",
+            "IpAddress": "188.51.42.6",
+            "Country": "Saudi Arabia",
+            "Currency": "KD",
+            "Error": "BLOCKED",
+            "CardNumber": "345678xxxxx4564",
+            "ErrorCode": "MF003",
+            "ECI": null
+        }
+    ],
+    "Suppliers": [],
+    "InvoiceError": "BLOCKED.",
+    "focusTransaction": {
+        "TransactionDate": "2024-12-24T10:01:49.04",
+        "PaymentGateway": "AMEX",
+        "ReferenceId": "07074865028240505172",
+        "TrackId": "24-12-2024_2405051",
+        "TransactionId": "07074865028240505172",
+        "PaymentId": "07074865028240505172",
+        "AuthorizationId": "07074865028240505172",
+        "TransactionStatus": "Failed",
+        "TransationValue": "74.074",
+        "CustomerServiceCharge": "1.952",
+        "TotalServiceCharge": "1.952",
+        "DueValue": "76.030",
+        "PaidCurrency": "USD",
+        "PaidCurrencyValue": "246.330",
+        "VatAmount": "0.293",
+        "IpAddress": "188.51.42.6",
+        "Country": "Saudi Arabia",
+        "Currency": "KD",
+        "Error": "BLOCKED",
+        "CardNumber": "345678xxxxx4564",
+        "ErrorCode": "MF003",
+        "ECI": null
+    }
+}[2024-12-24 07:03:08] Extracted invoices: [
+    {
+        "id": 46,
+        "amount": 74.074
+    }
+]
+[2024-12-24 07:03:08] validate Data: 92246.330USDArray
+(
+    [0] => Array
+        (
+            [id] => 46
+            [amount] => 74.074
+        )
+
+)
+declined[2024-12-24 07:03:09] Extracted invoices: [
+    {
+        "id": 46,
+        "amount": 74.074
+    }
+]
+[2024-12-24 07:03:09] success Data: 92246.330USDArray
+(
+    [0] => Array
+        (
+            [id] => 46
+            [amount] => 74.074
+        )
+
+)
+declined[2024-12-24 07:03:54] Method Error: Array
+(
+    [0] => Array
+        (
+            [ItemName] => Invoice ID 46
+            [Quantity] => 1
+            [UnitPrice] => 240.00
+        )
+
+)
+\nArray
+(
+    [0] => Array
+        (
+            [id] => 46
+            [amount] => 240.00
+        )
+
+)
+
+[2024-12-24 07:04:56] Payment Data: {
+    "InvoiceId": 4865050,
+    "InvoiceStatus": "Failed",
+    "InvoiceReference": "2024699818",
+    "CustomerReference": "92",
+    "CreatedDate": "2024-12-24T10:03:56.47",
+    "ExpiryDate": "December 27, 2024",
+    "ExpiryTime": "10:03:56.470",
+    "InvoiceValue": 74.074,
+    "Comments": null,
+    "CustomerName": "Anonymous",
+    "CustomerMobile": "+965",
+    "CustomerEmail": "mater@hotmail.com",
+    "UserDefinedField": null,
+    "InvoiceDisplayValue": "240.000 USD",
+    "DueDeposit": 0,
+    "DepositStatus": "Not Deposited",
+    "InvoiceItems": [
+        {
+            "ItemName": "Invoice ID 46",
+            "Quantity": 1,
+            "UnitPrice": 74.074,
+            "Weight": null,
+            "Width": null,
+            "Height": null,
+            "Depth": null
+        }
+    ],
+    "InvoiceTransactions": [
+        {
+            "TransactionDate": "2024-12-24T10:04:27.64",
+            "PaymentGateway": "STC Pay",
+            "ReferenceId": "07074865050240505472",
+            "TrackId": "24-12-2024_2405054",
+            "TransactionId": "07074865050240505472",
+            "PaymentId": "07074865050240505472",
+            "AuthorizationId": "07074865050240505472",
+            "TransactionStatus": "Failed",
+            "TransationValue": "74.074",
+            "CustomerServiceCharge": "0.000",
+            "TotalServiceCharge": "0.175",
+            "DueValue": "74.080",
+            "PaidCurrency": "SR",
+            "PaidCurrencyValue": "914.970",
+            "VatAmount": "0.026",
+            "IpAddress": "188.51.42.6",
+            "Country": "Saudi Arabia",
+            "Currency": "KD",
+            "Error": "An error occurred.",
+            "CardNumber": null,
+            "ErrorCode": "MF020",
+            "ECI": null
+        }
+    ],
+    "Suppliers": [],
+    "InvoiceError": "An error occurred..",
+    "focusTransaction": {
+        "TransactionDate": "2024-12-24T10:04:27.64",
+        "PaymentGateway": "STC Pay",
+        "ReferenceId": "07074865050240505472",
+        "TrackId": "24-12-2024_2405054",
+        "TransactionId": "07074865050240505472",
+        "PaymentId": "07074865050240505472",
+        "AuthorizationId": "07074865050240505472",
+        "TransactionStatus": "Failed",
+        "TransationValue": "74.074",
+        "CustomerServiceCharge": "0.000",
+        "TotalServiceCharge": "0.175",
+        "DueValue": "74.080",
+        "PaidCurrency": "SR",
+        "PaidCurrencyValue": "914.970",
+        "VatAmount": "0.026",
+        "IpAddress": "188.51.42.6",
+        "Country": "Saudi Arabia",
+        "Currency": "KD",
+        "Error": "An error occurred.",
+        "CardNumber": null,
+        "ErrorCode": "MF020",
+        "ECI": null
+    }
+}[2024-12-24 07:04:56] Extracted invoices: [
+    {
+        "id": 46,
+        "amount": 74.074
+    }
+]
+[2024-12-24 07:04:56] validate Data: 92914.970SRArray
+(
+    [0] => Array
+        (
+            [id] => 46
+            [amount] => 74.074
+        )
+
+)
+declined[2024-12-24 07:04:56] Extracted invoices: [
+    {
+        "id": 46,
+        "amount": 74.074
+    }
+]
+[2024-12-24 07:04:56] success Data: 92914.970SRArray
+(
+    [0] => Array
+        (
+            [id] => 46
+            [amount] => 74.074
+        )
+
+)
+declined[2024-12-24 07:05:17] Method Error: Array
+(
+    [0] => Array
+        (
+            [ItemName] => Invoice ID 46
+            [Quantity] => 1
+            [UnitPrice] => 240.00
+        )
+
+)
+\nArray
+(
+    [0] => Array
+        (
+            [id] => 46
+            [amount] => 240.00
+        )
+
+)
+
+[2024-12-24 07:09:06] Payment Data: {
+    "InvoiceId": 4865072,
+    "InvoiceStatus": "Paid",
+    "InvoiceReference": "2024699838",
+    "CustomerReference": "92",
+    "CreatedDate": "2024-12-24T10:05:21.08",
+    "ExpiryDate": "December 27, 2024",
+    "ExpiryTime": "10:05:21.080",
+    "InvoiceValue": 74.074,
+    "Comments": null,
+    "CustomerName": "Anonymous",
+    "CustomerMobile": "+965",
+    "CustomerEmail": "mater@hotmail.com",
+    "UserDefinedField": null,
+    "InvoiceDisplayValue": "240.000 USD",
+    "DueDeposit": 72.072,
+    "DepositStatus": "Not Deposited",
+    "InvoiceItems": [
+        {
+            "ItemName": "Invoice ID 46",
+            "Quantity": 1,
+            "UnitPrice": 74.074,
+            "Weight": null,
+            "Width": null,
+            "Height": null,
+            "Depth": null
+        }
+    ],
+    "InvoiceTransactions": [
+        {
+            "TransactionDate": "2024-12-24T10:09:05.9233333",
+            "PaymentGateway": "KNET",
+            "ReferenceId": "435910000241",
+            "TrackId": "24-12-2024_2405056",
+            "TransactionId": "435910000341481",
+            "PaymentId": "100435910000002878",
+            "AuthorizationId": "B75027",
+            "TransactionStatus": "Succss",
+            "TransationValue": "74.074",
+            "CustomerServiceCharge": "0.000",
+            "TotalServiceCharge": "1.741",
+            "DueValue": "74.074",
+            "PaidCurrency": "KD",
+            "PaidCurrencyValue": "74.074",
+            "VatAmount": "0.261",
+            "IpAddress": "188.51.42.6",
+            "Country": "Saudi Arabia",
+            "Currency": "KD",
+            "Error": null,
+            "CardNumber": null,
+            "ErrorCode": "",
+            "ECI": null
+        }
+    ],
+    "Suppliers": [],
+    "InvoiceError": "",
+    "focusTransaction": {
+        "TransactionDate": "2024-12-24T10:09:05.9233333",
+        "PaymentGateway": "KNET",
+        "ReferenceId": "435910000241",
+        "TrackId": "24-12-2024_2405056",
+        "TransactionId": "435910000341481",
+        "PaymentId": "100435910000002878",
+        "AuthorizationId": "B75027",
+        "TransactionStatus": "Succss",
+        "TransationValue": "74.074",
+        "CustomerServiceCharge": "0.000",
+        "TotalServiceCharge": "1.741",
+        "DueValue": "74.074",
+        "PaidCurrency": "KD",
+        "PaidCurrencyValue": "74.074",
+        "VatAmount": "0.261",
+        "IpAddress": "188.51.42.6",
+        "Country": "Saudi Arabia",
+        "Currency": "KD",
+        "Error": null,
+        "CardNumber": null,
+        "ErrorCode": "",
+        "ECI": null
+    }
+}[2024-12-24 07:09:06] Extracted invoices: [
+    {
+        "id": 46,
+        "amount": 74.074
+    }
+]
+[2024-12-24 07:09:06] validate Data: 9274.074KDArray
+(
+    [0] => Array
+        (
+            [id] => 46
+            [amount] => 74.074
+        )
+
+)
+approved[2024-12-24 07:09:07] Extracted invoices: [
+    {
+        "id": 46,
+        "amount": 74.074
+    }
+]
+[2024-12-24 07:09:07] success Data: 9274.074KDArray
+(
+    [0] => Array
+        (
+            [id] => 46
+            [amount] => 74.074
+        )
+
+)
+approved[2024-12-24 07:13:39] Method Error: Array
+(
+    [0] => Array
+        (
+            [ItemName] => Invoice ID 47
+            [Quantity] => 1
+            [UnitPrice] => 240.0000
+        )
+
+)
+\nArray
+(
+    [0] => Array
+        (
+            [id] => 47
+            [amount] => 240.0000
+        )
+
+)
+
+[2024-12-24 07:14:53] Payment Data: {
+    "InvoiceId": 4865126,
+    "InvoiceStatus": "Paid",
+    "InvoiceReference": "2024699856",
+    "CustomerReference": "92",
+    "CreatedDate": "2024-12-24T10:13:40.733",
+    "ExpiryDate": "December 27, 2024",
+    "ExpiryTime": "10:13:40.733",
+    "InvoiceValue": 74.074,
+    "Comments": null,
+    "CustomerName": "Anonymous",
+    "CustomerMobile": "+965",
+    "CustomerEmail": "mater@hotmail.com",
+    "UserDefinedField": null,
+    "InvoiceDisplayValue": "240.000 USD",
+    "DueDeposit": 73.879,
+    "DepositStatus": "Not Deposited",
+    "InvoiceItems": [
+        {
+            "ItemName": "Invoice ID 47",
+            "Quantity": 1,
+            "UnitPrice": 74.074,
+            "Weight": null,
+            "Width": null,
+            "Height": null,
+            "Depth": null
+        }
+    ],
+    "InvoiceTransactions": [
+        {
+            "TransactionDate": "2024-12-24T10:14:52.8433333",
+            "PaymentGateway": "VISA\/MASTER",
+            "ReferenceId": "435907177269",
+            "TrackId": "24-12-2024_2405063",
+            "TransactionId": "177269",
+            "PaymentId": "07074865126240506372",
+            "AuthorizationId": "165090",
+            "TransactionStatus": "Succss",
+            "TransationValue": "74.074",
+            "CustomerServiceCharge": "0.000",
+            "TotalServiceCharge": "0.175",
+            "DueValue": "74.080",
+            "PaidCurrency": "KD",
+            "PaidCurrencyValue": "74.080",
+            "VatAmount": "0.026",
+            "IpAddress": "188.51.42.6",
+            "Country": "Saudi Arabia",
+            "Currency": "KD",
+            "Error": null,
+            "CardNumber": "545301xxxxxx5539",
+            "ErrorCode": "",
+            "ECI": "02"
+        }
+    ],
+    "Suppliers": [],
+    "InvoiceError": "",
+    "focusTransaction": {
+        "TransactionDate": "2024-12-24T10:14:52.8433333",
+        "PaymentGateway": "VISA\/MASTER",
+        "ReferenceId": "435907177269",
+        "TrackId": "24-12-2024_2405063",
+        "TransactionId": "177269",
+        "PaymentId": "07074865126240506372",
+        "AuthorizationId": "165090",
+        "TransactionStatus": "Succss",
+        "TransationValue": "74.074",
+        "CustomerServiceCharge": "0.000",
+        "TotalServiceCharge": "0.175",
+        "DueValue": "74.080",
+        "PaidCurrency": "KD",
+        "PaidCurrencyValue": "74.080",
+        "VatAmount": "0.026",
+        "IpAddress": "188.51.42.6",
+        "Country": "Saudi Arabia",
+        "Currency": "KD",
+        "Error": null,
+        "CardNumber": "545301xxxxxx5539",
+        "ErrorCode": "",
+        "ECI": "02"
+    }
+}[2024-12-24 07:14:53] Extracted invoices: [
+    {
+        "id": 47,
+        "amount": 74.074
+    }
+]
+[2024-12-24 07:14:53] validate Data: 9274.080KDArray
+(
+    [0] => Array
+        (
+            [id] => 47
+            [amount] => 74.074
+        )
+
+)
+approved[2024-12-24 07:14:54] Extracted invoices: [
+    {
+        "id": 47,
+        "amount": 74.074
+    }
+]
+[2024-12-24 07:14:54] success Data: 9274.080KDArray
+(
+    [0] => Array
+        (
+            [id] => 47
+            [amount] => 74.074
+        )
+
+)
+approved[2024-12-24 07:16:40] Method Error: Array
+(
+    [0] => Array
+        (
+            [ItemName] => Invoice ID 48
+            [Quantity] => 1
+            [UnitPrice] => 240.0000
+        )
+
+)
+\nArray
+(
+    [0] => Array
+        (
+            [id] => 48
+            [amount] => 240.0000
+        )
+
+)
+
+[2024-12-24 07:17:54] Payment Data: {
+    "InvoiceId": 4865177,
+    "InvoiceStatus": "Failed",
+    "InvoiceReference": "2024699881",
+    "CustomerReference": "92",
+    "CreatedDate": "2024-12-24T10:16:43.637",
+    "ExpiryDate": "December 27, 2024",
+    "ExpiryTime": "10:16:43.637",
+    "InvoiceValue": 74.074,
+    "Comments": null,
+    "CustomerName": "Anonymous",
+    "CustomerMobile": "+965",
+    "CustomerEmail": "mater@hotmail.com",
+    "UserDefinedField": null,
+    "InvoiceDisplayValue": "240.000 USD",
+    "DueDeposit": 0,
+    "DepositStatus": "Not Deposited",
+    "InvoiceItems": [
+        {
+            "ItemName": "Invoice ID 48",
+            "Quantity": 1,
+            "UnitPrice": 74.074,
+            "Weight": null,
+            "Width": null,
+            "Height": null,
+            "Depth": null
+        }
+    ],
+    "InvoiceTransactions": [
+        {
+            "TransactionDate": "2024-12-24T10:17:09.85",
+            "PaymentGateway": "AMEX",
+            "ReferenceId": "07074865177240507273",
+            "TrackId": "24-12-2024_2405072",
+            "TransactionId": "07074865177240507273",
+            "PaymentId": "07074865177240507273",
+            "AuthorizationId": "07074865177240507273",
+            "TransactionStatus": "Failed",
+            "TransationValue": "74.074",
+            "CustomerServiceCharge": "1.952",
+            "TotalServiceCharge": "1.952",
+            "DueValue": "76.030",
+            "PaidCurrency": "USD",
+            "PaidCurrencyValue": "246.330",
+            "VatAmount": "0.293",
+            "IpAddress": "188.51.42.6",
+            "Country": "Saudi Arabia",
+            "Currency": "KD",
+            "Error": "BLOCKED",
+            "CardNumber": "345678xxxxx4564",
+            "ErrorCode": "MF003",
+            "ECI": null
+        }
+    ],
+    "Suppliers": [],
+    "InvoiceError": "BLOCKED.",
+    "focusTransaction": {
+        "TransactionDate": "2024-12-24T10:17:09.85",
+        "PaymentGateway": "AMEX",
+        "ReferenceId": "07074865177240507273",
+        "TrackId": "24-12-2024_2405072",
+        "TransactionId": "07074865177240507273",
+        "PaymentId": "07074865177240507273",
+        "AuthorizationId": "07074865177240507273",
+        "TransactionStatus": "Failed",
+        "TransationValue": "74.074",
+        "CustomerServiceCharge": "1.952",
+        "TotalServiceCharge": "1.952",
+        "DueValue": "76.030",
+        "PaidCurrency": "USD",
+        "PaidCurrencyValue": "246.330",
+        "VatAmount": "0.293",
+        "IpAddress": "188.51.42.6",
+        "Country": "Saudi Arabia",
+        "Currency": "KD",
+        "Error": "BLOCKED",
+        "CardNumber": "345678xxxxx4564",
+        "ErrorCode": "MF003",
+        "ECI": null
+    }
+}[2024-12-24 07:17:54] Extracted invoices: [
+    {
+        "id": 48,
+        "amount": 74.074
+    }
+]
+[2024-12-24 07:17:54] validate Data: 92246.330USDArray
+(
+    [0] => Array
+        (
+            [id] => 48
+            [amount] => 74.074
+        )
+
+)
+declined[2024-12-24 07:17:54] Extracted invoices: [
+    {
+        "id": 48,
+        "amount": 74.074
+    }
+]
+[2024-12-24 07:17:54] success Data: 92246.330USDArray
+(
+    [0] => Array
+        (
+            [id] => 48
+            [amount] => 74.074
+        )
+
+)
+declined[2024-12-24 07:18:33] Method Error: Array
+(
+    [0] => Array
+        (
+            [ItemName] => Invoice ID 48
+            [Quantity] => 1
+            [UnitPrice] => 240.00
+        )
+
+)
+\nArray
+(
+    [0] => Array
+        (
+            [id] => 48
+            [amount] => 240.00
+        )
+
+)
+
+[2024-12-24 07:19:21] Payment Data: {
+    "InvoiceId": 4865200,
+    "InvoiceStatus": "Failed",
+    "InvoiceReference": "2024699903",
+    "CustomerReference": "92",
+    "CreatedDate": "2024-12-24T10:18:37.21",
+    "ExpiryDate": "December 27, 2024",
+    "ExpiryTime": "10:18:37.210",
+    "InvoiceValue": 74.074,
+    "Comments": null,
+    "CustomerName": "Anonymous",
+    "CustomerMobile": "+965",
+    "CustomerEmail": "mater@hotmail.com",
+    "UserDefinedField": null,
+    "InvoiceDisplayValue": "240.000 USD",
+    "DueDeposit": 0,
+    "DepositStatus": "Not Deposited",
+    "InvoiceItems": [
+        {
+            "ItemName": "Invoice ID 48",
+            "Quantity": 1,
+            "UnitPrice": 74.074,
+            "Weight": null,
+            "Width": null,
+            "Height": null,
+            "Depth": null
+        }
+    ],
+    "InvoiceTransactions": [
+        {
+            "TransactionDate": "2024-12-24T10:18:50.9",
+            "PaymentGateway": "Benefit",
+            "ReferenceId": "07074865200240507471",
+            "TrackId": "24-12-2024_2405074",
+            "TransactionId": "07074865200240507471",
+            "PaymentId": "07074865200240507471",
+            "AuthorizationId": "07074865200240507471",
+            "TransactionStatus": "Failed",
+            "TransationValue": "74.074",
+            "CustomerServiceCharge": "0.000",
+            "TotalServiceCharge": "1.582",
+            "DueValue": "74.080",
+            "PaidCurrency": "BD",
+            "PaidCurrencyValue": "91.570",
+            "VatAmount": "0.237",
+            "IpAddress": "188.51.42.6",
+            "Country": "Saudi Arabia",
+            "Currency": "KD",
+            "Error": "Transaction canceled!",
+            "CardNumber": null,
+            "ErrorCode": "MF006",
+            "ECI": null
+        }
+    ],
+    "Suppliers": [],
+    "InvoiceError": "Transaction canceled!.",
+    "focusTransaction": {
+        "TransactionDate": "2024-12-24T10:18:50.9",
+        "PaymentGateway": "Benefit",
+        "ReferenceId": "07074865200240507471",
+        "TrackId": "24-12-2024_2405074",
+        "TransactionId": "07074865200240507471",
+        "PaymentId": "07074865200240507471",
+        "AuthorizationId": "07074865200240507471",
+        "TransactionStatus": "Failed",
+        "TransationValue": "74.074",
+        "CustomerServiceCharge": "0.000",
+        "TotalServiceCharge": "1.582",
+        "DueValue": "74.080",
+        "PaidCurrency": "BD",
+        "PaidCurrencyValue": "91.570",
+        "VatAmount": "0.237",
+        "IpAddress": "188.51.42.6",
+        "Country": "Saudi Arabia",
+        "Currency": "KD",
+        "Error": "Transaction canceled!",
+        "CardNumber": null,
+        "ErrorCode": "MF006",
+        "ECI": null
+    }
+}[2024-12-24 07:19:21] Extracted invoices: [
+    {
+        "id": 48,
+        "amount": 74.074
+    }
+]
+[2024-12-24 07:19:21] validate Data: 9291.570BDArray
+(
+    [0] => Array
+        (
+            [id] => 48
+            [amount] => 74.074
+        )
+
+)
+declined[2024-12-24 07:19:23] Payment Data: {
+    "InvoiceId": 4865200,
+    "InvoiceStatus": "Failed",
+    "InvoiceReference": "2024699903",
+    "CustomerReference": "92",
+    "CreatedDate": "2024-12-24T10:18:37.21",
+    "ExpiryDate": "December 27, 2024",
+    "ExpiryTime": "10:18:37.210",
+    "InvoiceValue": 74.074,
+    "Comments": null,
+    "CustomerName": "Anonymous",
+    "CustomerMobile": "+965",
+    "CustomerEmail": "mater@hotmail.com",
+    "UserDefinedField": null,
+    "InvoiceDisplayValue": "240.000 USD",
+    "DueDeposit": 0,
+    "DepositStatus": "Not Deposited",
+    "InvoiceItems": [
+        {
+            "ItemName": "Invoice ID 48",
+            "Quantity": 1,
+            "UnitPrice": 74.074,
+            "Weight": null,
+            "Width": null,
+            "Height": null,
+            "Depth": null
+        }
+    ],
+    "InvoiceTransactions": [
+        {
+            "TransactionDate": "2024-12-24T10:18:50.9",
+            "PaymentGateway": "Benefit",
+            "ReferenceId": "07074865200240507471",
+            "TrackId": "24-12-2024_2405074",
+            "TransactionId": "07074865200240507471",
+            "PaymentId": "07074865200240507471",
+            "AuthorizationId": "07074865200240507471",
+            "TransactionStatus": "Failed",
+            "TransationValue": "74.074",
+            "CustomerServiceCharge": "0.000",
+            "TotalServiceCharge": "1.582",
+            "DueValue": "74.080",
+            "PaidCurrency": "BD",
+            "PaidCurrencyValue": "91.570",
+            "VatAmount": "0.237",
+            "IpAddress": "188.51.42.6",
+            "Country": "Saudi Arabia",
+            "Currency": "KD",
+            "Error": "Transaction canceled!",
+            "CardNumber": null,
+            "ErrorCode": "MF006",
+            "ECI": null
+        }
+    ],
+    "Suppliers": [],
+    "InvoiceError": "Transaction canceled!.",
+    "focusTransaction": {
+        "TransactionDate": "2024-12-24T10:18:50.9",
+        "PaymentGateway": "Benefit",
+        "ReferenceId": "07074865200240507471",
+        "TrackId": "24-12-2024_2405074",
+        "TransactionId": "07074865200240507471",
+        "PaymentId": "07074865200240507471",
+        "AuthorizationId": "07074865200240507471",
+        "TransactionStatus": "Failed",
+        "TransationValue": "74.074",
+        "CustomerServiceCharge": "0.000",
+        "TotalServiceCharge": "1.582",
+        "DueValue": "74.080",
+        "PaidCurrency": "BD",
+        "PaidCurrencyValue": "91.570",
+        "VatAmount": "0.237",
+        "IpAddress": "188.51.42.6",
+        "Country": "Saudi Arabia",
+        "Currency": "KD",
+        "Error": "Transaction canceled!",
+        "CardNumber": null,
+        "ErrorCode": "MF006",
+        "ECI": null
+    }
+}[2024-12-24 07:19:23] Extracted invoices: [
+    {
+        "id": 48,
+        "amount": 74.074
+    }
+]
+[2024-12-24 07:19:23] validate Data: 9291.570BDArray
+(
+    [0] => Array
+        (
+            [id] => 48
+            [amount] => 74.074
+        )
+
+)
+declined[2024-12-24 07:19:23] Extracted invoices: [
+    {
+        "id": 48,
+        "amount": 74.074
+    }
+]
+[2024-12-24 07:19:23] success Data: 9291.570BDArray
+(
+    [0] => Array
+        (
+            [id] => 48
+            [amount] => 74.074
+        )
+
+)
+declined[2024-12-24 07:19:35] Method Error: Array
+(
+    [0] => Array
+        (
+            [ItemName] => Invoice ID 48
+            [Quantity] => 1
+            [UnitPrice] => 240.00
+        )
+
+)
+\nArray
+(
+    [0] => Array
+        (
+            [id] => 48
+            [amount] => 240.00
+        )
+
+)
+
+[2024-12-24 07:20:33] Payment Data: {
+    "InvoiceId": 4865218,
+    "InvoiceStatus": "Paid",
+    "InvoiceReference": "2024699908",
+    "CustomerReference": "92",
+    "CreatedDate": "2024-12-24T10:19:41.703",
+    "ExpiryDate": "December 27, 2024",
+    "ExpiryTime": "10:19:41.703",
+    "InvoiceValue": 74.074,
+    "Comments": null,
+    "CustomerName": "Anonymous",
+    "CustomerMobile": "+965",
+    "CustomerEmail": "mater@hotmail.com",
+    "UserDefinedField": null,
+    "InvoiceDisplayValue": "240.000 USD",
+    "DueDeposit": 73.879,
+    "DepositStatus": "Not Deposited",
+    "InvoiceItems": [
+        {
+            "ItemName": "Invoice ID 48",
+            "Quantity": 1,
+            "UnitPrice": 74.074,
+            "Weight": null,
+            "Width": null,
+            "Height": null,
+            "Depth": null
+        }
+    ],
+    "InvoiceTransactions": [
+        {
+            "TransactionDate": "2024-12-24T10:20:33.0266667",
+            "PaymentGateway": "VISA\/MASTER",
+            "ReferenceId": "435907172060",
+            "TrackId": "24-12-2024_2405076",
+            "TransactionId": "172060",
+            "PaymentId": "07074865218240507673",
+            "AuthorizationId": "634800",
+            "TransactionStatus": "Succss",
+            "TransationValue": "74.074",
+            "CustomerServiceCharge": "0.000",
+            "TotalServiceCharge": "0.175",
+            "DueValue": "74.080",
+            "PaidCurrency": "KD",
+            "PaidCurrencyValue": "74.080",
+            "VatAmount": "0.026",
+            "IpAddress": "188.51.42.6",
+            "Country": "Saudi Arabia",
+            "Currency": "KD",
+            "Error": null,
+            "CardNumber": "512345xxxxxx0008",
+            "ErrorCode": "",
+            "ECI": "02"
+        }
+    ],
+    "Suppliers": [],
+    "InvoiceError": "",
+    "focusTransaction": {
+        "TransactionDate": "2024-12-24T10:20:33.0266667",
+        "PaymentGateway": "VISA\/MASTER",
+        "ReferenceId": "435907172060",
+        "TrackId": "24-12-2024_2405076",
+        "TransactionId": "172060",
+        "PaymentId": "07074865218240507673",
+        "AuthorizationId": "634800",
+        "TransactionStatus": "Succss",
+        "TransationValue": "74.074",
+        "CustomerServiceCharge": "0.000",
+        "TotalServiceCharge": "0.175",
+        "DueValue": "74.080",
+        "PaidCurrency": "KD",
+        "PaidCurrencyValue": "74.080",
+        "VatAmount": "0.026",
+        "IpAddress": "188.51.42.6",
+        "Country": "Saudi Arabia",
+        "Currency": "KD",
+        "Error": null,
+        "CardNumber": "512345xxxxxx0008",
+        "ErrorCode": "",
+        "ECI": "02"
+    }
+}[2024-12-24 07:20:33] Extracted invoices: [
+    {
+        "id": 48,
+        "amount": 74.074
+    }
+]
+[2024-12-24 07:20:33] validate Data: 9274.080KDArray
+(
+    [0] => Array
+        (
+            [id] => 48
+            [amount] => 74.074
+        )
+
+)
+approved[2024-12-24 07:20:34] Extracted invoices: [
+    {
+        "id": 48,
+        "amount": 74.074
+    }
+]
+[2024-12-24 07:20:34] success Data: 9274.080KDArray
+(
+    [0] => Array
+        (
+            [id] => 48
+            [amount] => 74.074
+        )
+
+)
+approved[2024-12-24 08:32:43] Method Error: Array
+(
+    [0] => Array
+        (
+            [ItemName] => Invoice ID 49
+            [Quantity] => 1
+            [UnitPrice] => 240.0000
+        )
+
+)
+\nArray
+(
+    [0] => Array
+        (
+            [id] => 49
+            [amount] => 240.0000
+        )
+
+)
+
+[2024-12-24 08:33:47] Payment Data: {
+    "InvoiceId": 4865639,
+    "InvoiceStatus": "Failed",
+    "InvoiceReference": "2024700093",
+    "CustomerReference": "92",
+    "CreatedDate": "2024-12-24T11:32:55.557",
+    "ExpiryDate": "December 27, 2024",
+    "ExpiryTime": "11:32:55.557",
+    "InvoiceValue": 74.074,
+    "Comments": null,
+    "CustomerName": "Anonymous",
+    "CustomerMobile": "+965",
+    "CustomerEmail": "mater@hotmail.com",
+    "UserDefinedField": null,
+    "InvoiceDisplayValue": "240.000 USD",
+    "DueDeposit": 0,
+    "DepositStatus": "Not Deposited",
+    "InvoiceItems": [
+        {
+            "ItemName": "Invoice ID 49",
+            "Quantity": 1,
+            "UnitPrice": 74.074,
+            "Weight": null,
+            "Width": null,
+            "Height": null,
+            "Depth": null
+        }
+    ],
+    "InvoiceTransactions": [
+        {
+            "TransactionDate": "2024-12-24T11:33:07.24",
+            "PaymentGateway": "STC Pay",
+            "ReferenceId": "07074865639240518874",
+            "TrackId": "24-12-2024_2405188",
+            "TransactionId": "07074865639240518874",
+            "PaymentId": "07074865639240518874",
+            "AuthorizationId": "07074865639240518874",
+            "TransactionStatus": "Failed",
+            "TransationValue": "74.074",
+            "CustomerServiceCharge": "0.000",
+            "TotalServiceCharge": "0.175",
+            "DueValue": "74.080",
+            "PaidCurrency": "SR",
+            "PaidCurrencyValue": "914.970",
+            "VatAmount": "0.026",
+            "IpAddress": "188.51.42.6",
+            "Country": "Saudi Arabia",
+            "Currency": "KD",
+            "Error": "An error occurred.",
+            "CardNumber": null,
+            "ErrorCode": "MF020",
+            "ECI": null
+        }
+    ],
+    "Suppliers": [],
+    "InvoiceError": "An error occurred..",
+    "focusTransaction": {
+        "TransactionDate": "2024-12-24T11:33:07.24",
+        "PaymentGateway": "STC Pay",
+        "ReferenceId": "07074865639240518874",
+        "TrackId": "24-12-2024_2405188",
+        "TransactionId": "07074865639240518874",
+        "PaymentId": "07074865639240518874",
+        "AuthorizationId": "07074865639240518874",
+        "TransactionStatus": "Failed",
+        "TransationValue": "74.074",
+        "CustomerServiceCharge": "0.000",
+        "TotalServiceCharge": "0.175",
+        "DueValue": "74.080",
+        "PaidCurrency": "SR",
+        "PaidCurrencyValue": "914.970",
+        "VatAmount": "0.026",
+        "IpAddress": "188.51.42.6",
+        "Country": "Saudi Arabia",
+        "Currency": "KD",
+        "Error": "An error occurred.",
+        "CardNumber": null,
+        "ErrorCode": "MF020",
+        "ECI": null
+    }
+}[2024-12-24 08:33:47] Extracted invoices: [
+    {
+        "id": 49,
+        "amount": 74.074
+    }
+]
+[2024-12-24 08:33:47] validate Data: 92914.970SRArray
+(
+    [0] => Array
+        (
+            [id] => 49
+            [amount] => 74.074
+        )
+
+)
+declined[2024-12-24 08:33:47] Extracted invoices: [
+    {
+        "id": 49,
+        "amount": 74.074
+    }
+]
+[2024-12-24 08:33:47] success Data: 92914.970SRArray
+(
+    [0] => Array
+        (
+            [id] => 49
+            [amount] => 74.074
+        )
+
+)
+declined[2024-12-24 08:34:36] Method Error: Array
+(
+    [0] => Array
+        (
+            [ItemName] => Invoice ID 49
+            [Quantity] => 1
+            [UnitPrice] => 240.00
+        )
+
+)
+\nArray
+(
+    [0] => Array
+        (
+            [id] => 49
+            [amount] => 240.00
+        )
+
+)
+
+[2024-12-24 08:35:52] Payment Data: {
+    "InvoiceId": 4865663,
+    "InvoiceStatus": "Paid",
+    "InvoiceReference": "2024700114",
+    "CustomerReference": "92",
+    "CreatedDate": "2024-12-24T11:34:38.443",
+    "ExpiryDate": "December 27, 2024",
+    "ExpiryTime": "11:34:38.443",
+    "InvoiceValue": 74.074,
+    "Comments": null,
+    "CustomerName": "Anonymous",
+    "CustomerMobile": "+965",
+    "CustomerEmail": "mater@hotmail.com",
+    "UserDefinedField": null,
+    "InvoiceDisplayValue": "240.000 USD",
+    "DueDeposit": 73.785,
+    "DepositStatus": "Not Deposited",
+    "InvoiceItems": [
+        {
+            "ItemName": "Invoice ID 49",
+            "Quantity": 1,
+            "UnitPrice": 74.074,
+            "Weight": null,
+            "Width": null,
+            "Height": null,
+            "Depth": null
+        }
+    ],
+    "InvoiceTransactions": [
+        {
+            "TransactionDate": "2024-12-24T11:35:51.17",
+            "PaymentGateway": "UAE Debit Cards",
+            "ReferenceId": "435908198405",
+            "TrackId": "24-12-2024_2405195",
+            "TransactionId": "198405",
+            "PaymentId": "07074865663240519573",
+            "AuthorizationId": "692020",
+            "TransactionStatus": "Succss",
+            "TransationValue": "74.074",
+            "CustomerServiceCharge": "1.952",
+            "TotalServiceCharge": "1.952",
+            "DueValue": "76.030",
+            "PaidCurrency": "AED",
+            "PaidCurrencyValue": "914.870",
+            "VatAmount": "0.293",
+            "IpAddress": "188.51.42.6",
+            "Country": "Saudi Arabia",
+            "Currency": "KD",
+            "Error": null,
+            "CardNumber": "545454xxxxxx5454",
+            "ErrorCode": "",
+            "ECI": "02"
+        }
+    ],
+    "Suppliers": [],
+    "InvoiceError": "",
+    "focusTransaction": {
+        "TransactionDate": "2024-12-24T11:35:51.17",
+        "PaymentGateway": "UAE Debit Cards",
+        "ReferenceId": "435908198405",
+        "TrackId": "24-12-2024_2405195",
+        "TransactionId": "198405",
+        "PaymentId": "07074865663240519573",
+        "AuthorizationId": "692020",
+        "TransactionStatus": "Succss",
+        "TransationValue": "74.074",
+        "CustomerServiceCharge": "1.952",
+        "TotalServiceCharge": "1.952",
+        "DueValue": "76.030",
+        "PaidCurrency": "AED",
+        "PaidCurrencyValue": "914.870",
+        "VatAmount": "0.293",
+        "IpAddress": "188.51.42.6",
+        "Country": "Saudi Arabia",
+        "Currency": "KD",
+        "Error": null,
+        "CardNumber": "545454xxxxxx5454",
+        "ErrorCode": "",
+        "ECI": "02"
+    }
+}[2024-12-24 08:35:52] Extracted invoices: [
+    {
+        "id": 49,
+        "amount": 74.074
+    }
+]
+[2024-12-24 08:35:52] validate Data: 92914.870AEDArray
+(
+    [0] => Array
+        (
+            [id] => 49
+            [amount] => 74.074
+        )
+
+)
+approved[2024-12-24 08:35:52] Extracted invoices: [
+    {
+        "id": 49,
+        "amount": 74.074
+    }
+]
+[2024-12-24 08:35:52] success Data: 92914.870AEDArray
+(
+    [0] => Array
+        (
+            [id] => 49
+            [amount] => 74.074
+        )
+
+)
+approved[2024-12-24 08:37:13] Method Error: Array
+(
+    [0] => Array
+        (
+            [ItemName] => Invoice ID 50
+            [Quantity] => 1
+            [UnitPrice] => 240.0000
+        )
+
+)
+\nArray
+(
+    [0] => Array
+        (
+            [id] => 50
+            [amount] => 240.0000
+        )
+
+)
+
+[2024-12-24 08:37:40] Method Error: Array
+(
+    [0] => Array
+        (
+            [ItemName] => Invoice ID 50
+            [Quantity] => 1
+            [UnitPrice] => 240.0000
+        )
+
+)
+\nArray
+(
+    [0] => Array
+        (
+            [id] => 50
+            [amount] => 240.0000
+        )
+
+)
+
+[2024-12-24 08:38:43] Payment Data: {
+    "InvoiceId": 4865710,
+    "InvoiceStatus": "Paid",
+    "InvoiceReference": "2024700152",
+    "CustomerReference": "92",
+    "CreatedDate": "2024-12-24T11:37:44.447",
+    "ExpiryDate": "December 27, 2024",
+    "ExpiryTime": "11:37:44.447",
+    "InvoiceValue": 74.074,
+    "Comments": null,
+    "CustomerName": "Anonymous",
+    "CustomerMobile": "+965",
+    "CustomerEmail": "mater@hotmail.com",
+    "UserDefinedField": null,
+    "InvoiceDisplayValue": "240.000 USD",
+    "DueDeposit": 72.261,
+    "DepositStatus": "Not Deposited",
+    "InvoiceItems": [
+        {
+            "ItemName": "Invoice ID 50",
+            "Quantity": 1,
+            "UnitPrice": 74.074,
+            "Weight": null,
+            "Width": null,
+            "Height": null,
+            "Depth": null
+        }
+    ],
+    "InvoiceTransactions": [
+        {
+            "TransactionDate": "2024-12-24T11:38:42.34",
+            "PaymentGateway": "Benefit",
+            "ReferenceId": "435950000531",
+            "TrackId": "24-12-2024_2405210",
+            "TransactionId": "202435914760646",
+            "PaymentId": "07074865710240521071",
+            "AuthorizationId": "123456",
+            "TransactionStatus": "Succss",
+            "TransationValue": "74.074",
+            "CustomerServiceCharge": "0.000",
+            "TotalServiceCharge": "1.582",
+            "DueValue": "74.080",
+            "PaidCurrency": "BD",
+            "PaidCurrencyValue": "91.570",
+            "VatAmount": "0.237",
+            "IpAddress": "188.51.42.6",
+            "Country": "Saudi Arabia",
+            "Currency": "KD",
+            "Error": null,
+            "CardNumber": null,
+            "ErrorCode": "",
+            "ECI": null
+        }
+    ],
+    "Suppliers": [],
+    "InvoiceError": "",
+    "focusTransaction": {
+        "TransactionDate": "2024-12-24T11:38:42.34",
+        "PaymentGateway": "Benefit",
+        "ReferenceId": "435950000531",
+        "TrackId": "24-12-2024_2405210",
+        "TransactionId": "202435914760646",
+        "PaymentId": "07074865710240521071",
+        "AuthorizationId": "123456",
+        "TransactionStatus": "Succss",
+        "TransationValue": "74.074",
+        "CustomerServiceCharge": "0.000",
+        "TotalServiceCharge": "1.582",
+        "DueValue": "74.080",
+        "PaidCurrency": "BD",
+        "PaidCurrencyValue": "91.570",
+        "VatAmount": "0.237",
+        "IpAddress": "188.51.42.6",
+        "Country": "Saudi Arabia",
+        "Currency": "KD",
+        "Error": null,
+        "CardNumber": null,
+        "ErrorCode": "",
+        "ECI": null
+    }
+}[2024-12-24 08:38:43] Extracted invoices: [
+    {
+        "id": 50,
+        "amount": 74.074
+    }
+]
+[2024-12-24 08:38:43] validate Data: 9291.570BDArray
+(
+    [0] => Array
+        (
+            [id] => 50
+            [amount] => 74.074
+        )
+
+)
+approved[2024-12-24 08:38:50] Payment Data: {
+    "InvoiceId": 4865710,
+    "InvoiceStatus": "Paid",
+    "InvoiceReference": "2024700152",
+    "CustomerReference": "92",
+    "CreatedDate": "2024-12-24T11:37:44.447",
+    "ExpiryDate": "December 27, 2024",
+    "ExpiryTime": "11:37:44.447",
+    "InvoiceValue": 74.074,
+    "Comments": null,
+    "CustomerName": "Anonymous",
+    "CustomerMobile": "+965",
+    "CustomerEmail": "mater@hotmail.com",
+    "UserDefinedField": null,
+    "InvoiceDisplayValue": "240.000 USD",
+    "DueDeposit": 72.261,
+    "DepositStatus": "Not Deposited",
+    "InvoiceItems": [
+        {
+            "ItemName": "Invoice ID 50",
+            "Quantity": 1,
+            "UnitPrice": 74.074,
+            "Weight": null,
+            "Width": null,
+            "Height": null,
+            "Depth": null
+        }
+    ],
+    "InvoiceTransactions": [
+        {
+            "TransactionDate": "2024-12-24T11:38:42.34",
+            "PaymentGateway": "Benefit",
+            "ReferenceId": "435950000531",
+            "TrackId": "24-12-2024_2405210",
+            "TransactionId": "202435914760646",
+            "PaymentId": "07074865710240521071",
+            "AuthorizationId": "123456",
+            "TransactionStatus": "Succss",
+            "TransationValue": "74.074",
+            "CustomerServiceCharge": "0.000",
+            "TotalServiceCharge": "1.582",
+            "DueValue": "74.080",
+            "PaidCurrency": "BD",
+            "PaidCurrencyValue": "91.570",
+            "VatAmount": "0.237",
+            "IpAddress": "188.51.42.6",
+            "Country": "Saudi Arabia",
+            "Currency": "KD",
+            "Error": null,
+            "CardNumber": null,
+            "ErrorCode": "",
+            "ECI": null
+        }
+    ],
+    "Suppliers": [],
+    "InvoiceError": "",
+    "focusTransaction": {
+        "TransactionDate": "2024-12-24T11:38:42.34",
+        "PaymentGateway": "Benefit",
+        "ReferenceId": "435950000531",
+        "TrackId": "24-12-2024_2405210",
+        "TransactionId": "202435914760646",
+        "PaymentId": "07074865710240521071",
+        "AuthorizationId": "123456",
+        "TransactionStatus": "Succss",
+        "TransationValue": "74.074",
+        "CustomerServiceCharge": "0.000",
+        "TotalServiceCharge": "1.582",
+        "DueValue": "74.080",
+        "PaidCurrency": "BD",
+        "PaidCurrencyValue": "91.570",
+        "VatAmount": "0.237",
+        "IpAddress": "188.51.42.6",
+        "Country": "Saudi Arabia",
+        "Currency": "KD",
+        "Error": null,
+        "CardNumber": null,
+        "ErrorCode": "",
+        "ECI": null
+    }
+}[2024-12-24 08:38:50] Extracted invoices: [
+    {
+        "id": 50,
+        "amount": 74.074
+    }
+]
+[2024-12-24 08:38:50] validate Data: 9291.570BDArray
+(
+    [0] => Array
+        (
+            [id] => 50
+            [amount] => 74.074
+        )
+
+)
+approved[2024-12-24 08:38:50] Extracted invoices: [
+    {
+        "id": 50,
+        "amount": 74.074
+    }
+]
+[2024-12-24 08:38:50] success Data: 9291.570BDArray
+(
+    [0] => Array
+        (
+            [id] => 50
+            [amount] => 74.074
+        )
+
+)
+approved[2024-12-24 09:01:23] Method Error: Array
+(
+    [0] => Array
+        (
+            [ItemName] => Invoice ID 51
+            [Quantity] => 1
+            [UnitPrice] => 20.0000
+        )
+
+)
+\nArray
+(
+    [0] => Array
+        (
+            [id] => 51
+            [amount] => 20.0000
+        )
+
+)
+
+[2024-12-24 09:02:55] Payment Data: {
+    "InvoiceId": 4865816,
+    "InvoiceStatus": "Paid",
+    "InvoiceReference": "2024700214",
+    "CustomerReference": "92",
+    "CreatedDate": "2024-12-24T12:01:29.687",
+    "ExpiryDate": "December 27, 2024",
+    "ExpiryTime": "12:01:29.687",
+    "InvoiceValue": 6.173,
+    "Comments": null,
+    "CustomerName": "Anonymous",
+    "CustomerMobile": "+965",
+    "CustomerEmail": "mater@hotmail.com",
+    "UserDefinedField": null,
+    "InvoiceDisplayValue": "20.000 USD",
+    "DueDeposit": 6.057,
+    "DepositStatus": "Not Deposited",
+    "InvoiceItems": [
+        {
+            "ItemName": "Invoice ID 51",
+            "Quantity": 1,
+            "UnitPrice": 6.173,
+            "Weight": null,
+            "Width": null,
+            "Height": null,
+            "Depth": null
+        }
+    ],
+    "InvoiceTransactions": [
+        {
+            "TransactionDate": "2024-12-24T12:02:54.8433333",
+            "PaymentGateway": "VISA\/MASTER",
+            "ReferenceId": "435909177277",
+            "TrackId": "24-12-2024_2405266",
+            "TransactionId": "177277",
+            "PaymentId": "07074865816240526673",
+            "AuthorizationId": "935670",
+            "TransactionStatus": "Succss",
+            "TransationValue": "6.173",
+            "CustomerServiceCharge": "0.000",
+            "TotalServiceCharge": "0.107",
+            "DueValue": "6.180",
+            "PaidCurrency": "KD",
+            "PaidCurrencyValue": "6.180",
+            "VatAmount": "0.016",
+            "IpAddress": "188.51.42.6",
+            "Country": "Saudi Arabia",
+            "Currency": "KD",
+            "Error": null,
+            "CardNumber": "545454xxxxxx5454",
+            "ErrorCode": "",
+            "ECI": "02"
+        }
+    ],
+    "Suppliers": [],
+    "InvoiceError": "",
+    "focusTransaction": {
+        "TransactionDate": "2024-12-24T12:02:54.8433333",
+        "PaymentGateway": "VISA\/MASTER",
+        "ReferenceId": "435909177277",
+        "TrackId": "24-12-2024_2405266",
+        "TransactionId": "177277",
+        "PaymentId": "07074865816240526673",
+        "AuthorizationId": "935670",
+        "TransactionStatus": "Succss",
+        "TransationValue": "6.173",
+        "CustomerServiceCharge": "0.000",
+        "TotalServiceCharge": "0.107",
+        "DueValue": "6.180",
+        "PaidCurrency": "KD",
+        "PaidCurrencyValue": "6.180",
+        "VatAmount": "0.016",
+        "IpAddress": "188.51.42.6",
+        "Country": "Saudi Arabia",
+        "Currency": "KD",
+        "Error": null,
+        "CardNumber": "545454xxxxxx5454",
+        "ErrorCode": "",
+        "ECI": "02"
+    }
+}[2024-12-24 09:02:55] Extracted invoices: [
+    {
+        "id": 51,
+        "amount": 6.173
+    }
+]
+[2024-12-24 09:02:55] validate Data: 926.180KDArray
+(
+    [0] => Array
+        (
+            [id] => 51
+            [amount] => 6.173
+        )
+
+)
+approved[2024-12-24 09:02:56] Extracted invoices: [
+    {
+        "id": 51,
+        "amount": 6.173
+    }
+]
+[2024-12-24 09:02:56] success Data: 926.180KDArray
+(
+    [0] => Array
+        (
+            [id] => 51
+            [amount] => 6.173
+        )
+
+)
+approved[2024-12-24 09:41:44] Method Error: Array
+(
+    [0] => Array
+        (
+            [ItemName] => Invoice ID 52
+            [Quantity] => 1
+            [UnitPrice] => 5.0000
+        )
+
+)
+\nArray
+(
+    [0] => Array
+        (
+            [id] => 52
+            [amount] => 5.0000
+        )
+
+)
+
+[2024-12-24 09:43:45] Payment Data: {
+    "InvoiceId": 40633177,
+    "InvoiceStatus": "Paid",
+    "InvoiceReference": "2024000009",
+    "CustomerReference": "92",
+    "CreatedDate": "2024-12-24T12:41:35.647",
+    "ExpiryDate": "December 27, 2024",
+    "ExpiryTime": "12:41:35.647",
+    "InvoiceValue": 18.676,
+    "Comments": null,
+    "CustomerName": "Anonymous",
+    "CustomerMobile": "+966",
+    "CustomerEmail": "mater@hotmail.com",
+    "UserDefinedField": null,
+    "InvoiceDisplayValue": "5.000 USD",
+    "DueDeposit": 16.993,
+    "DepositStatus": "Not Deposited",
+    "InvoiceItems": [
+        {
+            "ItemName": "Invoice ID 52",
+            "Quantity": 1,
+            "UnitPrice": 18.676,
+            "Weight": null,
+            "Width": null,
+            "Height": null,
+            "Depth": null
+        }
+    ],
+    "InvoiceTransactions": [
+        {
+            "TransactionDate": "2024-12-24T12:43:35.1533333",
+            "PaymentGateway": "VISA\/MASTER",
+            "ReferenceId": "435909044697",
+            "TrackId": "24-12-2024_39597267",
+            "TransactionId": "44697",
+            "PaymentId": "0808406331773959726784",
+            "AuthorizationId": "700152",
+            "TransactionStatus": "Succss",
+            "TransationValue": "18.676",
+            "CustomerServiceCharge": "0.000",
+            "TotalServiceCharge": "1.467",
+            "DueValue": "18.680",
+            "PaidCurrency": "SR",
+            "PaidCurrencyValue": "18.680",
+            "VatAmount": "0.220",
+            "IpAddress": "188.51.42.6",
+            "Country": "Saudi Arabia",
+            "Currency": "SR",
+            "Error": null,
+            "CardNumber": "484783xxxxxx6987",
+            "ErrorCode": "",
+            "ECI": "05"
+        }
+    ],
+    "Suppliers": [],
+    "InvoiceError": "",
+    "focusTransaction": {
+        "TransactionDate": "2024-12-24T12:43:35.1533333",
+        "PaymentGateway": "VISA\/MASTER",
+        "ReferenceId": "435909044697",
+        "TrackId": "24-12-2024_39597267",
+        "TransactionId": "44697",
+        "PaymentId": "0808406331773959726784",
+        "AuthorizationId": "700152",
+        "TransactionStatus": "Succss",
+        "TransationValue": "18.676",
+        "CustomerServiceCharge": "0.000",
+        "TotalServiceCharge": "1.467",
+        "DueValue": "18.680",
+        "PaidCurrency": "SR",
+        "PaidCurrencyValue": "18.680",
+        "VatAmount": "0.220",
+        "IpAddress": "188.51.42.6",
+        "Country": "Saudi Arabia",
+        "Currency": "SR",
+        "Error": null,
+        "CardNumber": "484783xxxxxx6987",
+        "ErrorCode": "",
+        "ECI": "05"
+    }
+}[2024-12-24 09:43:45] Extracted invoices: [
+    {
+        "id": 52,
+        "amount": 18.676
+    }
+]
+[2024-12-24 09:43:45] validate Data: 9218.680SRArray
+(
+    [0] => Array
+        (
+            [id] => 52
+            [amount] => 18.676
+        )
+
+)
+approved[2024-12-24 09:43:46] Extracted invoices: [
+    {
+        "id": 52,
+        "amount": 18.676
+    }
+]
+[2024-12-24 09:43:46] success Data: 9218.680SRArray
+(
+    [0] => Array
+        (
+            [id] => 52
+            [amount] => 18.676
+        )
+
+)
+approved[2024-12-24 10:46:44] Method Error: Array
+(
+    [0] => Array
+        (
+            [ItemName] => Invoice ID 53
+            [Quantity] => 1
+            [UnitPrice] => 5.0000
+        )
+
+)
+\nArray
+(
+    [0] => Array
+        (
+            [id] => 53
+            [amount] => 5.0000
+        )
+
+)
+
+[2024-12-24 10:46:48] Method Error: Array
+(
+    [0] => Array
+        (
+            [ItemName] => Invoice ID 53
+            [Quantity] => 1
+            [UnitPrice] => 5.0000
+        )
+
+)
+\nArray
+(
+    [0] => Array
+        (
+            [id] => 53
+            [amount] => 5.0000
+        )
+
+)
+
+[2024-12-24 10:47:51] Payment Data: {
+    "InvoiceId": 4866420,
+    "InvoiceStatus": "Paid",
+    "InvoiceReference": "2024700494",
+    "CustomerReference": "94",
+    "CreatedDate": "2024-12-24T13:46:49.287",
+    "ExpiryDate": "December 27, 2024",
+    "ExpiryTime": "13:46:49.287",
+    "InvoiceValue": 1.543,
+    "Comments": null,
+    "CustomerName": "Anonymous",
+    "CustomerMobile": "+965",
+    "CustomerEmail": "koga@gmail.com",
+    "UserDefinedField": null,
+    "InvoiceDisplayValue": "5.000 USD",
+    "DueDeposit": 0.4,
+    "DepositStatus": "Not Deposited",
+    "InvoiceItems": [
+        {
+            "ItemName": "Invoice ID 53",
+            "Quantity": 1,
+            "UnitPrice": 1.543,
+            "Weight": null,
+            "Width": null,
+            "Height": null,
+            "Depth": null
+        }
+    ],
+    "InvoiceTransactions": [
+        {
+            "TransactionDate": "2024-12-24T13:47:50.2866667",
+            "PaymentGateway": "MADA",
+            "ReferenceId": "435910187521",
+            "TrackId": "24-12-2024_2405653",
+            "TransactionId": "187521",
+            "PaymentId": "07074866420240565372",
+            "AuthorizationId": "187521",
+            "TransactionStatus": "Succss",
+            "TransationValue": "1.543",
+            "CustomerServiceCharge": "0.000",
+            "TotalServiceCharge": "1.000",
+            "DueValue": "1.550",
+            "PaidCurrency": "SR",
+            "PaidCurrencyValue": "19.150",
+            "VatAmount": "0.150",
+            "IpAddress": "188.51.42.6",
+            "Country": "Saudi Arabia",
+            "Currency": "KD",
+            "Error": null,
+            "CardNumber": "446404xxxxxx0007",
+            "ErrorCode": "",
+            "ECI": "05"
+        }
+    ],
+    "Suppliers": [],
+    "InvoiceError": "",
+    "focusTransaction": {
+        "TransactionDate": "2024-12-24T13:47:50.2866667",
+        "PaymentGateway": "MADA",
+        "ReferenceId": "435910187521",
+        "TrackId": "24-12-2024_2405653",
+        "TransactionId": "187521",
+        "PaymentId": "07074866420240565372",
+        "AuthorizationId": "187521",
+        "TransactionStatus": "Succss",
+        "TransationValue": "1.543",
+        "CustomerServiceCharge": "0.000",
+        "TotalServiceCharge": "1.000",
+        "DueValue": "1.550",
+        "PaidCurrency": "SR",
+        "PaidCurrencyValue": "19.150",
+        "VatAmount": "0.150",
+        "IpAddress": "188.51.42.6",
+        "Country": "Saudi Arabia",
+        "Currency": "KD",
+        "Error": null,
+        "CardNumber": "446404xxxxxx0007",
+        "ErrorCode": "",
+        "ECI": "05"
+    }
+}[2024-12-24 10:47:51] Extracted invoices: [
+    {
+        "id": 53,
+        "amount": 1.543
+    }
+]
+[2024-12-24 10:47:51] validate Data: 9419.150SRArray
+(
+    [0] => Array
+        (
+            [id] => 53
+            [amount] => 1.543
+        )
+
+)
+approved[2024-12-24 10:47:51] Extracted invoices: [
+    {
+        "id": 53,
+        "amount": 1.543
+    }
+]
+[2024-12-24 10:47:51] success Data: 9419.150SRArray
+(
+    [0] => Array
+        (
+            [id] => 53
+            [amount] => 1.543
+        )
+
+)
+approved[2024-12-24 14:53:14] Method Error: Array
+(
+    [0] => Array
+        (
+            [ItemName] => Invoice ID 40
+            [Quantity] => 1
+            [UnitPrice] => 130.86
+        )
+
+)
+\nArray
+(
+    [0] => Array
+        (
+            [id] => 40
+            [amount] => 130.86
+        )
+
+)
+
+[2024-12-24 14:55:29] Method Error: Array
+(
+    [0] => Array
+        (
+            [ItemName] => Invoice ID 40
+            [Quantity] => 1
+            [UnitPrice] => 130.86
+        )
+
+)
+\nArray
+(
+    [0] => Array
+        (
+            [id] => 40
+            [amount] => 130.86
+        )
+
+)
+

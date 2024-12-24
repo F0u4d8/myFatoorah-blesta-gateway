@@ -1,0 +1,13 @@
+{
+    "version": "1.0.0",
+    "name": "Myfatoorah Gateway",
+    "description": "Myfatoorah arabic payment gateway integration supports multiple carts and currencies ",
+    "authors": [
+        {
+			"name": "Mohammed Fouad",
+			"url": "https://github.com/F0u4d8"
+		}
+    ],
+    "currencies": ["KWD", "SAR", "BHD", "AED", "QAR", "OMR", "JOD", "EGP","USD"]
+   
+}
